@@ -32,7 +32,7 @@
             this.lblAccount = new System.Windows.Forms.Label();
             this.lblPassw = new System.Windows.Forms.Label();
             this.txtPassw = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtAccount = new System.Windows.Forms.TextBox();
             this.btnLogin = new System.Windows.Forms.Button();
             this.btnEsc = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -72,18 +72,18 @@
             // 
             // txtPassw
             // 
-            this.txtPassw.Location = new System.Drawing.Point(421, 187);
+            this.txtPassw.Location = new System.Drawing.Point(421, 260);
             this.txtPassw.Name = "txtPassw";
             this.txtPassw.Size = new System.Drawing.Size(319, 26);
             this.txtPassw.TabIndex = 3;
             this.txtPassw.UseSystemPasswordChar = true;
             // 
-            // textBox1
+            // txtAccount
             // 
-            this.textBox1.Location = new System.Drawing.Point(421, 260);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(319, 26);
-            this.textBox1.TabIndex = 4;
+            this.txtAccount.Location = new System.Drawing.Point(421, 187);
+            this.txtAccount.Name = "txtAccount";
+            this.txtAccount.Size = new System.Drawing.Size(319, 26);
+            this.txtAccount.TabIndex = 4;
             // 
             // btnLogin
             // 
@@ -112,7 +112,7 @@
             this.ClientSize = new System.Drawing.Size(978, 544);
             this.Controls.Add(this.btnEsc);
             this.Controls.Add(this.btnLogin);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtAccount);
             this.Controls.Add(this.txtPassw);
             this.Controls.Add(this.lblPassw);
             this.Controls.Add(this.lblAccount);
@@ -130,7 +130,7 @@
         private System.Windows.Forms.Label lblAccount;
         private System.Windows.Forms.Label lblPassw;
         private System.Windows.Forms.TextBox txtPassw;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtAccount;
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.Button btnEsc;
     }
