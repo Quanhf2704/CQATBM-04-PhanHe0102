@@ -1,0 +1,30 @@
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe.config
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.pdb
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.LoginWindow.resources
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.Properties.Resources.resources
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.exe
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.pdb
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.MainWindow.resources
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewListAccountWindow.resources
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewPrivilegeWindow.resources
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GrantPrivilegeWindow.resources
+C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.RevokePrivilegeWIndow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.AssemblyReference.cache
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GrantPrivilegeWindow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.LoginWindow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.MainWindow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.Properties.Resources.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.RevokePrivilegeWIndow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewListAccountWindow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewPrivilegeWindow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.GenerateResource.cache
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CoreCompileInputs.cache
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.exe
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.pdb
+F:\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe.config
+F:\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe
+F:\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.pdb
