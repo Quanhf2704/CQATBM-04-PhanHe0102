@@ -19,7 +19,6 @@ namespace Oracle_Database_Management_Application
             InitializeComponent();
         }
 
-
         private void btnLogin_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(textUsername.Text) || string.IsNullOrWhiteSpace(textPass.Text))
@@ -44,10 +43,16 @@ namespace Oracle_Database_Management_Application
                 MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
-                this.Hide(); 
+                this.Hide();
             }
 
         }
+
+        /*           MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                   MainWindow mainWindow = new MainWindow();
+                   mainWindow.Show();
+                   this.Hide();*/
+
 
         private void btnEsc_Click(object sender, EventArgs e)
         {

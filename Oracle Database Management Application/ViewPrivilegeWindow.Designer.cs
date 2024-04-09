@@ -30,103 +30,196 @@
         {
             this.lblViewPrivilege = new System.Windows.Forms.Label();
             this.btnBack = new System.Windows.Forms.Button();
-            this.btnRole = new System.Windows.Forms.Button();
-            this.btnUser = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.dataGridViewRoleUser = new System.Windows.Forms.DataGridView();
-            this.dataGridViewPrivilege = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewRoleUser)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPrivilege)).BeginInit();
+            this.btnGrantforUser = new System.Windows.Forms.Button();
+            this.btnRefresh = new System.Windows.Forms.Button();
+            this.dataGridViewPriv = new System.Windows.Forms.DataGridView();
+            this.lblPriv = new System.Windows.Forms.Label();
+            this.lblObject = new System.Windows.Forms.Label();
+            this.lblUserRole = new System.Windows.Forms.Label();
+            this.textPriv = new System.Windows.Forms.TextBox();
+            this.textUserRole = new System.Windows.Forms.TextBox();
+            this.textObject = new System.Windows.Forms.TextBox();
+            this.checkBoxGrantOption = new System.Windows.Forms.CheckBox();
+            this.btnRevokeAll = new System.Windows.Forms.Button();
+            this.btnRevoke = new System.Windows.Forms.Button();
+            this.btnGrantforRole = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPriv)).BeginInit();
             this.SuspendLayout();
             // 
             // lblViewPrivilege
             // 
             this.lblViewPrivilege.AutoSize = true;
             this.lblViewPrivilege.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblViewPrivilege.Location = new System.Drawing.Point(269, 9);
+            this.lblViewPrivilege.Location = new System.Drawing.Point(239, 7);
             this.lblViewPrivilege.Name = "lblViewPrivilege";
-            this.lblViewPrivilege.Size = new System.Drawing.Size(433, 55);
+            this.lblViewPrivilege.Size = new System.Drawing.Size(357, 46);
             this.lblViewPrivilege.TabIndex = 3;
             this.lblViewPrivilege.Text = "Thông tin về quyền";
             this.lblViewPrivilege.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(858, 492);
+            this.btnBack.Location = new System.Drawing.Point(763, 394);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(108, 40);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 13;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
-            // btnRole
+            // btnGrantforUser
             // 
-            this.btnRole.Location = new System.Drawing.Point(92, 67);
-            this.btnRole.Name = "btnRole";
-            this.btnRole.Size = new System.Drawing.Size(108, 40);
-            this.btnRole.TabIndex = 14;
-            this.btnRole.Text = "Role";
-            this.btnRole.UseVisualStyleBackColor = true;
-            this.btnRole.Click += new System.EventHandler(this.btnRole_Click);
+            this.btnGrantforUser.Location = new System.Drawing.Point(630, 231);
+            this.btnGrantforUser.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnGrantforUser.Name = "btnGrantforUser";
+            this.btnGrantforUser.Size = new System.Drawing.Size(209, 32);
+            this.btnGrantforUser.TabIndex = 14;
+            this.btnGrantforUser.Text = "Grant for User";
+            this.btnGrantforUser.UseVisualStyleBackColor = true;
+            this.btnGrantforUser.Click += new System.EventHandler(this.btnGrantforUser_Click);
             // 
-            // btnUser
+            // btnRefresh
             // 
-            this.btnUser.Location = new System.Drawing.Point(206, 67);
-            this.btnUser.Name = "btnUser";
-            this.btnUser.Size = new System.Drawing.Size(108, 40);
-            this.btnUser.TabIndex = 15;
-            this.btnUser.Text = "User";
-            this.btnUser.UseVisualStyleBackColor = true;
-            this.btnUser.Click += new System.EventHandler(this.btnUser_Click);
+            this.btnRefresh.Location = new System.Drawing.Point(535, 66);
+            this.btnRefresh.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(304, 32);
+            this.btnRefresh.TabIndex = 15;
+            this.btnRefresh.Text = "Refresh";
+            this.btnRefresh.UseVisualStyleBackColor = true;
+            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
-            // label1
+            // dataGridViewPriv
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(513, 85);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 22);
-            this.label1.TabIndex = 16;
-            this.label1.Text = "Quyền";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.dataGridViewPriv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewPriv.Location = new System.Drawing.Point(12, 66);
+            this.dataGridViewPriv.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dataGridViewPriv.Name = "dataGridViewPriv";
+            this.dataGridViewPriv.RowHeadersWidth = 62;
+            this.dataGridViewPriv.RowTemplate.Height = 28;
+            this.dataGridViewPriv.Size = new System.Drawing.Size(503, 358);
+            this.dataGridViewPriv.TabIndex = 17;
             // 
-            // dataGridViewRoleUser
+            // lblPriv
             // 
-            this.dataGridViewRoleUser.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewRoleUser.Location = new System.Drawing.Point(12, 136);
-            this.dataGridViewRoleUser.Name = "dataGridViewRoleUser";
-            this.dataGridViewRoleUser.RowHeadersWidth = 62;
-            this.dataGridViewRoleUser.RowTemplate.Height = 28;
-            this.dataGridViewRoleUser.Size = new System.Drawing.Size(476, 350);
-            this.dataGridViewRoleUser.TabIndex = 17;
+            this.lblPriv.AutoSize = true;
+            this.lblPriv.Location = new System.Drawing.Point(535, 114);
+            this.lblPriv.Name = "lblPriv";
+            this.lblPriv.Size = new System.Drawing.Size(70, 17);
+            this.lblPriv.TabIndex = 18;
+            this.lblPriv.Text = "Priviledge";
             // 
-            // dataGridViewPrivilege
+            // lblObject
             // 
-            this.dataGridViewPrivilege.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewPrivilege.Location = new System.Drawing.Point(494, 136);
-            this.dataGridViewPrivilege.Name = "dataGridViewPrivilege";
-            this.dataGridViewPrivilege.RowHeadersWidth = 62;
-            this.dataGridViewPrivilege.RowTemplate.Height = 28;
-            this.dataGridViewPrivilege.Size = new System.Drawing.Size(472, 350);
-            this.dataGridViewPrivilege.TabIndex = 18;
+            this.lblObject.AutoSize = true;
+            this.lblObject.Location = new System.Drawing.Point(535, 149);
+            this.lblObject.Name = "lblObject";
+            this.lblObject.Size = new System.Drawing.Size(49, 17);
+            this.lblObject.TabIndex = 19;
+            this.lblObject.Text = "Object";
             // 
-            // ViewPrivilege
+            // lblUserRole
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.lblUserRole.AutoSize = true;
+            this.lblUserRole.Location = new System.Drawing.Point(535, 177);
+            this.lblUserRole.Name = "lblUserRole";
+            this.lblUserRole.Size = new System.Drawing.Size(71, 17);
+            this.lblUserRole.TabIndex = 20;
+            this.lblUserRole.Text = "User/Role";
+            // 
+            // textPriv
+            // 
+            this.textPriv.Location = new System.Drawing.Point(630, 109);
+            this.textPriv.Name = "textPriv";
+            this.textPriv.Size = new System.Drawing.Size(209, 22);
+            this.textPriv.TabIndex = 21;
+            // 
+            // textUserRole
+            // 
+            this.textUserRole.Location = new System.Drawing.Point(630, 177);
+            this.textUserRole.Name = "textUserRole";
+            this.textUserRole.Size = new System.Drawing.Size(209, 22);
+            this.textUserRole.TabIndex = 22;
+            // 
+            // textObject
+            // 
+            this.textObject.Location = new System.Drawing.Point(630, 144);
+            this.textObject.Name = "textObject";
+            this.textObject.Size = new System.Drawing.Size(209, 22);
+            this.textObject.TabIndex = 23;
+            // 
+            // checkBoxGrantOption
+            // 
+            this.checkBoxGrantOption.AutoSize = true;
+            this.checkBoxGrantOption.Location = new System.Drawing.Point(630, 205);
+            this.checkBoxGrantOption.Name = "checkBoxGrantOption";
+            this.checkBoxGrantOption.Size = new System.Drawing.Size(140, 21);
+            this.checkBoxGrantOption.TabIndex = 24;
+            this.checkBoxGrantOption.Text = "with Grant Option";
+            this.checkBoxGrantOption.UseVisualStyleBackColor = true;
+            // 
+            // btnRevokeAll
+            // 
+            this.btnRevokeAll.Location = new System.Drawing.Point(630, 339);
+            this.btnRevokeAll.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnRevokeAll.Name = "btnRevokeAll";
+            this.btnRevokeAll.Size = new System.Drawing.Size(209, 32);
+            this.btnRevokeAll.TabIndex = 25;
+            this.btnRevokeAll.Text = "Revoke All";
+            this.btnRevokeAll.UseVisualStyleBackColor = true;
+            this.btnRevokeAll.Click += new System.EventHandler(this.btnRevokeAll_Click);
+
+            // 
+            // btnRevoke
+            // 
+            this.btnRevoke.Location = new System.Drawing.Point(630, 303);
+            this.btnRevoke.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnRevoke.Name = "btnRevoke";
+            this.btnRevoke.Size = new System.Drawing.Size(209, 32);
+            this.btnRevoke.TabIndex = 26;
+            this.btnRevoke.Text = "Revoke from User";
+            this.btnRevoke.UseVisualStyleBackColor = true;
+            this.btnRevoke.Click += new System.EventHandler(this.btnRevoke_Click);
+
+            // 
+            // btnGrantforRole
+            // 
+            this.btnGrantforRole.Location = new System.Drawing.Point(630, 267);
+            this.btnGrantforRole.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnGrantforRole.Name = "btnGrantforRole";
+            this.btnGrantforRole.Size = new System.Drawing.Size(209, 32);
+            this.btnGrantforRole.TabIndex = 27;
+            this.btnGrantforRole.Text = "Grant for Role";
+            this.btnGrantforRole.UseVisualStyleBackColor = true;
+            this.btnGrantforRole.Click += new System.EventHandler(this.btnGrantforRole_Click);
+
+            // 
+            // ViewPrivilegeWindow
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 544);
-            this.Controls.Add(this.dataGridViewPrivilege);
-            this.Controls.Add(this.dataGridViewRoleUser);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnUser);
-            this.Controls.Add(this.btnRole);
+            this.ClientSize = new System.Drawing.Size(869, 435);
+            this.Controls.Add(this.btnGrantforRole);
+            this.Controls.Add(this.btnRevoke);
+            this.Controls.Add(this.btnRevokeAll);
+            this.Controls.Add(this.checkBoxGrantOption);
+            this.Controls.Add(this.textObject);
+            this.Controls.Add(this.textUserRole);
+            this.Controls.Add(this.textPriv);
+            this.Controls.Add(this.lblUserRole);
+            this.Controls.Add(this.lblObject);
+            this.Controls.Add(this.lblPriv);
+            this.Controls.Add(this.dataGridViewPriv);
+            this.Controls.Add(this.btnRefresh);
+            this.Controls.Add(this.btnGrantforUser);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.lblViewPrivilege);
-            this.Name = "ViewPrivilege";
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Name = "ViewPrivilegeWindow";
             this.Text = "Xem thông tin về quyền";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewRoleUser)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPrivilege)).EndInit();
+            this.Load += new System.EventHandler(this.Priviledge_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPriv)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -136,10 +229,18 @@
 
         private System.Windows.Forms.Label lblViewPrivilege;
         private System.Windows.Forms.Button btnBack;
-        private System.Windows.Forms.Button btnRole;
-        private System.Windows.Forms.Button btnUser;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.DataGridView dataGridViewRoleUser;
-        private System.Windows.Forms.DataGridView dataGridViewPrivilege;
+        private System.Windows.Forms.Button btnGrantforUser;
+        private System.Windows.Forms.Button btnRefresh;
+        private System.Windows.Forms.DataGridView dataGridViewPriv;
+        private System.Windows.Forms.Label lblPriv;
+        private System.Windows.Forms.Label lblObject;
+        private System.Windows.Forms.Label lblUserRole;
+        private System.Windows.Forms.TextBox textPriv;
+        private System.Windows.Forms.TextBox textUserRole;
+        private System.Windows.Forms.TextBox textObject;
+        private System.Windows.Forms.CheckBox checkBoxGrantOption;
+        private System.Windows.Forms.Button btnRevokeAll;
+        private System.Windows.Forms.Button btnRevoke;
+        private System.Windows.Forms.Button btnGrantforRole;
     }
 }

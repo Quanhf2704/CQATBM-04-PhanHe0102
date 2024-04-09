@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.lblWelcome = new System.Windows.Forms.Label();
-            this.btnInsertDeleteUpdateRoleUser = new System.Windows.Forms.Button();
+            this.btnViewRole = new System.Windows.Forms.Button();
             this.btnRevokePrivilege = new System.Windows.Forms.Button();
             this.btnGrantPrivilege = new System.Windows.Forms.Button();
             this.btnViewPrivilege = new System.Windows.Forms.Button();
@@ -41,28 +41,30 @@
             // 
             this.lblWelcome.AutoSize = true;
             this.lblWelcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWelcome.Location = new System.Drawing.Point(173, 20);
+            this.lblWelcome.Location = new System.Drawing.Point(154, 16);
             this.lblWelcome.Name = "lblWelcome";
-            this.lblWelcome.Size = new System.Drawing.Size(657, 55);
+            this.lblWelcome.Size = new System.Drawing.Size(541, 46);
             this.lblWelcome.TabIndex = 1;
             this.lblWelcome.Text = "Chào mừng đến với ứng dụng";
             this.lblWelcome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // btnInsertDeleteUpdateRoleUser
+            // btnViewRole
             // 
-            this.btnInsertDeleteUpdateRoleUser.Location = new System.Drawing.Point(435, 237);
-            this.btnInsertDeleteUpdateRoleUser.Name = "btnInsertDeleteUpdateRoleUser";
-            this.btnInsertDeleteUpdateRoleUser.Size = new System.Drawing.Size(156, 72);
-            this.btnInsertDeleteUpdateRoleUser.TabIndex = 6;
-            this.btnInsertDeleteUpdateRoleUser.Text = "Thêm/Xóa/Sửa Role/User";
-            this.btnInsertDeleteUpdateRoleUser.UseVisualStyleBackColor = true;
-            this.btnInsertDeleteUpdateRoleUser.Click += new System.EventHandler(this.btnInsertDeleteUpdateRoleUser_Click);
+            this.btnViewRole.Location = new System.Drawing.Point(387, 190);
+            this.btnViewRole.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnViewRole.Name = "btnViewRole";
+            this.btnViewRole.Size = new System.Drawing.Size(139, 58);
+            this.btnViewRole.TabIndex = 6;
+            this.btnViewRole.Text = "Xem danh sách Role";
+            this.btnViewRole.UseVisualStyleBackColor = true;
+            this.btnViewRole.Click += new System.EventHandler(this.btnViewRole_Click);
             // 
             // btnRevokePrivilege
             // 
-            this.btnRevokePrivilege.Location = new System.Drawing.Point(578, 360);
+            this.btnRevokePrivilege.Location = new System.Drawing.Point(514, 288);
+            this.btnRevokePrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRevokePrivilege.Name = "btnRevokePrivilege";
-            this.btnRevokePrivilege.Size = new System.Drawing.Size(156, 72);
+            this.btnRevokePrivilege.Size = new System.Drawing.Size(139, 58);
             this.btnRevokePrivilege.TabIndex = 7;
             this.btnRevokePrivilege.Text = "Thu hồi quyền";
             this.btnRevokePrivilege.UseVisualStyleBackColor = true;
@@ -70,9 +72,10 @@
             // 
             // btnGrantPrivilege
             // 
-            this.btnGrantPrivilege.Location = new System.Drawing.Point(293, 360);
+            this.btnGrantPrivilege.Location = new System.Drawing.Point(260, 288);
+            this.btnGrantPrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnGrantPrivilege.Name = "btnGrantPrivilege";
-            this.btnGrantPrivilege.Size = new System.Drawing.Size(156, 72);
+            this.btnGrantPrivilege.Size = new System.Drawing.Size(139, 58);
             this.btnGrantPrivilege.TabIndex = 8;
             this.btnGrantPrivilege.Text = "Cấp quyền";
             this.btnGrantPrivilege.UseVisualStyleBackColor = true;
@@ -80,9 +83,10 @@
             // 
             // btnViewPrivilege
             // 
-            this.btnViewPrivilege.Location = new System.Drawing.Point(578, 123);
+            this.btnViewPrivilege.Location = new System.Drawing.Point(514, 98);
+            this.btnViewPrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewPrivilege.Name = "btnViewPrivilege";
-            this.btnViewPrivilege.Size = new System.Drawing.Size(156, 72);
+            this.btnViewPrivilege.Size = new System.Drawing.Size(139, 58);
             this.btnViewPrivilege.TabIndex = 9;
             this.btnViewPrivilege.Text = "Xem thông tin về quyền";
             this.btnViewPrivilege.UseVisualStyleBackColor = true;
@@ -90,9 +94,10 @@
             // 
             // btnViewListAccount
             // 
-            this.btnViewListAccount.Location = new System.Drawing.Point(293, 123);
+            this.btnViewListAccount.Location = new System.Drawing.Point(260, 98);
+            this.btnViewListAccount.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewListAccount.Name = "btnViewListAccount";
-            this.btnViewListAccount.Size = new System.Drawing.Size(156, 72);
+            this.btnViewListAccount.Size = new System.Drawing.Size(139, 58);
             this.btnViewListAccount.TabIndex = 10;
             this.btnViewListAccount.Text = "Xem danh sách tài khoản người dùng";
             this.btnViewListAccount.UseVisualStyleBackColor = true;
@@ -100,9 +105,10 @@
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(858, 492);
+            this.btnBack.Location = new System.Drawing.Point(763, 394);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(108, 40);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 11;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -110,16 +116,17 @@
             // 
             // MainWindow
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 544);
+            this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnViewListAccount);
             this.Controls.Add(this.btnViewPrivilege);
             this.Controls.Add(this.btnGrantPrivilege);
             this.Controls.Add(this.btnRevokePrivilege);
-            this.Controls.Add(this.btnInsertDeleteUpdateRoleUser);
+            this.Controls.Add(this.btnViewRole);
             this.Controls.Add(this.lblWelcome);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "MainWindow";
             this.Text = "Màn hình chính";
             this.ResumeLayout(false);
@@ -130,7 +137,7 @@
         #endregion
 
         private System.Windows.Forms.Label lblWelcome;
-        private System.Windows.Forms.Button btnInsertDeleteUpdateRoleUser;
+        private System.Windows.Forms.Button btnViewRole;
         private System.Windows.Forms.Button btnRevokePrivilege;
         private System.Windows.Forms.Button btnGrantPrivilege;
         private System.Windows.Forms.Button btnViewPrivilege;

@@ -72,7 +72,6 @@
             // 
             // textUsername
             // 
-            this.textUsername.HideSelection = false;
             this.textUsername.Location = new System.Drawing.Point(374, 150);
             this.textUsername.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textUsername.Name = "textUsername";
@@ -81,7 +80,6 @@
             // 
             // textPass
             // 
-            this.textPass.HideSelection = false;
             this.textPass.Location = new System.Drawing.Point(374, 208);
             this.textPass.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textPass.Name = "textPass";
@@ -136,10 +134,10 @@
         private System.Windows.Forms.Label lblLogin;
         private System.Windows.Forms.Label lblAccount;
         private System.Windows.Forms.Label lblPassw;
+        private System.Windows.Forms.TextBox textUsername;
         private System.Windows.Forms.TextBox textPass;
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.Button btnEsc;
-        private System.Windows.Forms.TextBox textUsername;
     }
 }
 

@@ -35,12 +35,13 @@ namespace Oracle_Database_Management_Application
 
         }
 
-        private void btnInsertDeleteUpdateRoleUser_Click(object sender, EventArgs e)
+        private void btnViewRole_Click(object sender, EventArgs e)
         {
-            // Move to ViewPrivilege
-            InsertDeleteUpdateRoleUserWindow viewUpdate = new InsertDeleteUpdateRoleUserWindow();
+            // Move to ViewRole
+            ViewRoleWindow viewUpdate = new ViewRoleWindow();
             viewUpdate.Show();
             this.Hide();
+
         }
 
         private void btnGrantPrivilege_Click(object sender, EventArgs e)

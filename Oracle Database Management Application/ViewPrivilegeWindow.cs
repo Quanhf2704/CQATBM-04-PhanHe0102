@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Oracle.ManagedDataAccess.Client;
+
 
 namespace Oracle_Database_Management_Application
 {
@@ -17,12 +19,51 @@ namespace Oracle_Database_Management_Application
             InitializeComponent();
         }
 
-        private void btnRole_Click(object sender, EventArgs e)
+        private void Priviledge_Load(object sender, EventArgs e)
+        {
+            OracleConnection conn = new OracleConnection();
+            conn.ConnectionString = Account.connectString;
+
+            OracleCommand cmd = new OracleCommand("SELECT * FROM BH_KHACHHANG", conn);
+            try
+            {
+                conn.Open();
+                OracleDataAdapter da = new OracleDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                dataGridViewPriv.DataSource = dt;
+
+                //conn.Close();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+
+        private void btnRefresh_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void btnUser_Click(object sender, EventArgs e)
+        private void btnGrantforUser_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGrantforRole_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRevoke_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRevokeAll_Click(object sender, EventArgs e)
         {
 
         }

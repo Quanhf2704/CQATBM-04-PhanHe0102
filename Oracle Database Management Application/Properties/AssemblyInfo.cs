@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Oracle Database Management Application")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Oracle Database Management Application")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2024")]
+[assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0771900b-aaac-4730-9531-00b067ef042e")]
+[assembly: Guid("11a5a735-4741-44d9-8909-a03727ec7ad5")]
 
 // Version information for an assembly consists of the following four values:
 //
