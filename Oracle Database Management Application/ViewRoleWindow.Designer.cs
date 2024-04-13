@@ -138,7 +138,7 @@ namespace Oracle_Database_Management_Application
             this.btnCheckPriv.Name = "btnCheckPriv";
             this.btnCheckPriv.Size = new System.Drawing.Size(209, 32);
             this.btnCheckPriv.TabIndex = 28;
-            this.btnCheckPriv.Text = "Check Priviledges";
+            this.btnCheckPriv.Text = "Check Privileges";
             this.btnCheckPriv.UseVisualStyleBackColor = true;
             this.btnCheckPriv.Click += new System.EventHandler(this.btnCheckPriv_Click);
             // 
@@ -171,7 +171,7 @@ namespace Oracle_Database_Management_Application
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 31;
-            this.btnBack.Text = "Quay lại";
+            this.btnBack.Text = "Return";
             this.btnBack.UseVisualStyleBackColor = true;
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 

@@ -14,11 +14,9 @@ C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Databas
 C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GrantPrivilegeWindow.resources
 C:\Users\USER\source\repos\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.RevokePrivilegeWIndow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.AssemblyReference.cache
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GrantPrivilegeWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.LoginWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.MainWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.Properties.Resources.resources
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.RevokePrivilegeWIndow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewListAccountWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewPrivilegeWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.GenerateResource.cache

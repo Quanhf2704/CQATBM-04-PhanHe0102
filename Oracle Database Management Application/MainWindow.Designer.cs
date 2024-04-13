@@ -30,8 +30,6 @@
         {
             this.lblWelcome = new System.Windows.Forms.Label();
             this.btnViewRole = new System.Windows.Forms.Button();
-            this.btnRevokePrivilege = new System.Windows.Forms.Button();
-            this.btnGrantPrivilege = new System.Windows.Forms.Button();
             this.btnViewPrivilege = new System.Windows.Forms.Button();
             this.btnViewListAccount = new System.Windows.Forms.Button();
             this.btnBack = new System.Windows.Forms.Button();
@@ -41,12 +39,13 @@
             // 
             this.lblWelcome.AutoSize = true;
             this.lblWelcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWelcome.Location = new System.Drawing.Point(154, 16);
+            this.lblWelcome.Location = new System.Drawing.Point(157, 67);
             this.lblWelcome.Name = "lblWelcome";
             this.lblWelcome.Size = new System.Drawing.Size(541, 46);
             this.lblWelcome.TabIndex = 1;
             this.lblWelcome.Text = "Chào mừng đến với ứng dụng";
             this.lblWelcome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblWelcome.Click += new System.EventHandler(this.lblWelcome_Click);
             // 
             // btnViewRole
             // 
@@ -59,31 +58,9 @@
             this.btnViewRole.UseVisualStyleBackColor = true;
             this.btnViewRole.Click += new System.EventHandler(this.btnViewRole_Click);
             // 
-            // btnRevokePrivilege
-            // 
-            this.btnRevokePrivilege.Location = new System.Drawing.Point(514, 288);
-            this.btnRevokePrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btnRevokePrivilege.Name = "btnRevokePrivilege";
-            this.btnRevokePrivilege.Size = new System.Drawing.Size(139, 58);
-            this.btnRevokePrivilege.TabIndex = 7;
-            this.btnRevokePrivilege.Text = "Thu hồi quyền";
-            this.btnRevokePrivilege.UseVisualStyleBackColor = true;
-            this.btnRevokePrivilege.Click += new System.EventHandler(this.btnRevokePrivilege_Click);
-            // 
-            // btnGrantPrivilege
-            // 
-            this.btnGrantPrivilege.Location = new System.Drawing.Point(260, 288);
-            this.btnGrantPrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btnGrantPrivilege.Name = "btnGrantPrivilege";
-            this.btnGrantPrivilege.Size = new System.Drawing.Size(139, 58);
-            this.btnGrantPrivilege.TabIndex = 8;
-            this.btnGrantPrivilege.Text = "Cấp quyền";
-            this.btnGrantPrivilege.UseVisualStyleBackColor = true;
-            this.btnGrantPrivilege.Click += new System.EventHandler(this.btnGrantPrivilege_Click);
-            // 
             // btnViewPrivilege
             // 
-            this.btnViewPrivilege.Location = new System.Drawing.Point(514, 98);
+            this.btnViewPrivilege.Location = new System.Drawing.Point(631, 190);
             this.btnViewPrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewPrivilege.Name = "btnViewPrivilege";
             this.btnViewPrivilege.Size = new System.Drawing.Size(139, 58);
@@ -94,7 +71,7 @@
             // 
             // btnViewListAccount
             // 
-            this.btnViewListAccount.Location = new System.Drawing.Point(260, 98);
+            this.btnViewListAccount.Location = new System.Drawing.Point(115, 190);
             this.btnViewListAccount.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewListAccount.Name = "btnViewListAccount";
             this.btnViewListAccount.Size = new System.Drawing.Size(139, 58);
@@ -122,8 +99,6 @@
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnViewListAccount);
             this.Controls.Add(this.btnViewPrivilege);
-            this.Controls.Add(this.btnGrantPrivilege);
-            this.Controls.Add(this.btnRevokePrivilege);
             this.Controls.Add(this.btnViewRole);
             this.Controls.Add(this.lblWelcome);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -138,8 +113,6 @@
 
         private System.Windows.Forms.Label lblWelcome;
         private System.Windows.Forms.Button btnViewRole;
-        private System.Windows.Forms.Button btnRevokePrivilege;
-        private System.Windows.Forms.Button btnGrantPrivilege;
         private System.Windows.Forms.Button btnViewPrivilege;
         private System.Windows.Forms.Button btnViewListAccount;
         private System.Windows.Forms.Button btnBack;

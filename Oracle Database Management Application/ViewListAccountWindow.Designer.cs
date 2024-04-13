@@ -62,7 +62,7 @@
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 12;
-            this.btnBack.Text = "Quay lại";
+            this.btnBack.Text = "Return";
             this.btnBack.UseVisualStyleBackColor = true;
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
@@ -125,7 +125,7 @@
             this.btnCreateUser.Name = "btnCreateUser";
             this.btnCreateUser.Size = new System.Drawing.Size(151, 32);
             this.btnCreateUser.TabIndex = 19;
-            this.btnCreateUser.Text = "Tạo tài khoản";
+            this.btnCreateUser.Text = "Create User";
             this.btnCreateUser.UseVisualStyleBackColor = true;
             this.btnCreateUser.Click += new System.EventHandler(this.btnCreateUser_Click);
             // 
@@ -135,7 +135,7 @@
             this.btnDropUser.Name = "btnDropUser";
             this.btnDropUser.Size = new System.Drawing.Size(151, 32);
             this.btnDropUser.TabIndex = 20;
-            this.btnDropUser.Text = "Xóa người dùng";
+            this.btnDropUser.Text = "Drop User";
             this.btnDropUser.UseVisualStyleBackColor = true;
             this.btnDropUser.Click += new System.EventHandler(this.btnDropUser_Click);
             // 
@@ -145,7 +145,7 @@
             this.btnChangePass.Name = "btnChangePass";
             this.btnChangePass.Size = new System.Drawing.Size(151, 32);
             this.btnChangePass.TabIndex = 21;
-            this.btnChangePass.Text = "Thay đổi mật khẩu";
+            this.btnChangePass.Text = "Change Password";
             this.btnChangePass.UseVisualStyleBackColor = true;
             this.btnChangePass.Click += new System.EventHandler(this.btnChangePass_Click);
             // 
@@ -155,7 +155,7 @@
             this.btnCheckPriv.Name = "btnCheckPriv";
             this.btnCheckPriv.Size = new System.Drawing.Size(151, 32);
             this.btnCheckPriv.TabIndex = 22;
-            this.btnCheckPriv.Text = "Kiểm tra Quyền";
+            this.btnCheckPriv.Text = "Check Privileges";
             this.btnCheckPriv.UseVisualStyleBackColor = true;
             this.btnCheckPriv.Click += new System.EventHandler(this.btnCheckPriv_Click);
             // 
@@ -165,7 +165,7 @@
             this.btnCheckRole.Name = "btnCheckRole";
             this.btnCheckRole.Size = new System.Drawing.Size(151, 32);
             this.btnCheckRole.TabIndex = 23;
-            this.btnCheckRole.Text = "Kiểm tra Role";
+            this.btnCheckRole.Text = "Check Role";
             this.btnCheckRole.UseVisualStyleBackColor = true;
             this.btnCheckRole.Click += new System.EventHandler(this.btnCheckRole_Click);
             // 

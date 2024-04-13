@@ -44,30 +44,17 @@ namespace Oracle_Database_Management_Application
 
         }
 
-        private void btnGrantPrivilege_Click(object sender, EventArgs e)
-        {
-            // Move to GrantPrivilegeWindow
-            GrantPrivilegeWindow grantPrivilegeWindow = new GrantPrivilegeWindow();
-            grantPrivilegeWindow.Show();
-            this.Hide();
-
-        }
-
-        private void btnRevokePrivilege_Click(object sender, EventArgs e)
-        {
-            // Move to RevokePrivilegeWindow
-            RevokePrivilegeWIndow revokePrivilegeWIndow = new RevokePrivilegeWIndow();
-            revokePrivilegeWIndow.Show();
-            this.Hide();
-
-        }
-
         private void btnBack_Click(object sender, EventArgs e)
         {
             // Back to LoginWindow
             LoginWindow loginWindow = new LoginWindow();
             loginWindow.Show();
             this.Hide();
+
+        }
+
+        private void lblWelcome_Click(object sender, EventArgs e)
+        {
 
         }
     }

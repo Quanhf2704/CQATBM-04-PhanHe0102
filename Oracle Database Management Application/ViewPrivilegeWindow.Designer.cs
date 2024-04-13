@@ -40,7 +40,6 @@
             this.textUserRole = new System.Windows.Forms.TextBox();
             this.textObject = new System.Windows.Forms.TextBox();
             this.checkBoxGrantOption = new System.Windows.Forms.CheckBox();
-            this.btnRevokeAll = new System.Windows.Forms.Button();
             this.btnRevoke = new System.Windows.Forms.Button();
             this.btnGrantforRole = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPriv)).BeginInit();
@@ -64,7 +63,7 @@
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 13;
-            this.btnBack.Text = "Quay lại";
+            this.btnBack.Text = "Return";
             this.btnBack.UseVisualStyleBackColor = true;
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
@@ -106,9 +105,9 @@
             this.lblPriv.AutoSize = true;
             this.lblPriv.Location = new System.Drawing.Point(535, 114);
             this.lblPriv.Name = "lblPriv";
-            this.lblPriv.Size = new System.Drawing.Size(70, 17);
+            this.lblPriv.Size = new System.Drawing.Size(62, 17);
             this.lblPriv.TabIndex = 18;
-            this.lblPriv.Text = "Priviledge";
+            this.lblPriv.Text = "Privilege";
             // 
             // lblObject
             // 
@@ -159,18 +158,6 @@
             this.checkBoxGrantOption.Text = "with Grant Option";
             this.checkBoxGrantOption.UseVisualStyleBackColor = true;
             // 
-            // btnRevokeAll
-            // 
-            this.btnRevokeAll.Location = new System.Drawing.Point(630, 339);
-            this.btnRevokeAll.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btnRevokeAll.Name = "btnRevokeAll";
-            this.btnRevokeAll.Size = new System.Drawing.Size(209, 32);
-            this.btnRevokeAll.TabIndex = 25;
-            this.btnRevokeAll.Text = "Revoke All";
-            this.btnRevokeAll.UseVisualStyleBackColor = true;
-            this.btnRevokeAll.Click += new System.EventHandler(this.btnRevokeAll_Click);
-
-            // 
             // btnRevoke
             // 
             this.btnRevoke.Location = new System.Drawing.Point(630, 303);
@@ -178,10 +165,9 @@
             this.btnRevoke.Name = "btnRevoke";
             this.btnRevoke.Size = new System.Drawing.Size(209, 32);
             this.btnRevoke.TabIndex = 26;
-            this.btnRevoke.Text = "Revoke from User";
+            this.btnRevoke.Text = "Revoke from User/Role";
             this.btnRevoke.UseVisualStyleBackColor = true;
             this.btnRevoke.Click += new System.EventHandler(this.btnRevoke_Click);
-
             // 
             // btnGrantforRole
             // 
@@ -193,7 +179,6 @@
             this.btnGrantforRole.Text = "Grant for Role";
             this.btnGrantforRole.UseVisualStyleBackColor = true;
             this.btnGrantforRole.Click += new System.EventHandler(this.btnGrantforRole_Click);
-
             // 
             // ViewPrivilegeWindow
             // 
@@ -202,7 +187,6 @@
             this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnGrantforRole);
             this.Controls.Add(this.btnRevoke);
-            this.Controls.Add(this.btnRevokeAll);
             this.Controls.Add(this.checkBoxGrantOption);
             this.Controls.Add(this.textObject);
             this.Controls.Add(this.textUserRole);
@@ -239,7 +223,6 @@
         private System.Windows.Forms.TextBox textUserRole;
         private System.Windows.Forms.TextBox textObject;
         private System.Windows.Forms.CheckBox checkBoxGrantOption;
-        private System.Windows.Forms.Button btnRevokeAll;
         private System.Windows.Forms.Button btnRevoke;
         private System.Windows.Forms.Button btnGrantforRole;
     }

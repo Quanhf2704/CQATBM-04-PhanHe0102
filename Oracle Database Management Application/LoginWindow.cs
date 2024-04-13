@@ -37,9 +37,9 @@ namespace Oracle_Database_Management_Application
             {
                 Account.connectString = @"Data Source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = "
                  + Account.host + ")(PORT = " + Account.port + "))(CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = "
-                 + Account.sid + ")));Password=" + Account.password + ";User ID=" + Account.username;
+                 + Account.sid + "))); Password=" + Account.password + ";User ID=" + Account.username;
                 OracleConnection conn = new OracleConnection(Account.connectString);
-
+                
                 MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
