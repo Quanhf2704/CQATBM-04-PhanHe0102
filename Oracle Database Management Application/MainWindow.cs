@@ -17,45 +17,58 @@ namespace Oracle_Database_Management_Application
             InitializeComponent();
         }
 
-        private void btnViewListAccount_Click(object sender, EventArgs e)
+        private void btnThongtincanhan_Click(object sender, EventArgs e)
         {
             // Move to ViewListAccountWindow
-            ViewListAccountWindow viewListAccountWindow = new ViewListAccountWindow();
-            viewListAccountWindow.Show();
+            ThongTinCaNhan viewThongtincanhan = new ThongTinCaNhan();
+            viewThongtincanhan.Show();
             this.Hide();
 
         }
 
-        private void btnViewPrivilege_Click(object sender, EventArgs e)
+        private void btnDanhsachhocphan_Click(object sender, EventArgs e)
         {
             // Move to ViewPrivilege
-            ViewPrivilegeWindow viewPrivilege = new ViewPrivilegeWindow();
-            viewPrivilege.Show();
+            DanhSachHocPhan viewDanhsachhocphan = new DanhSachHocPhan();
+            viewDanhsachhocphan.Show();
             this.Hide();
 
         }
 
-        private void btnViewRole_Click(object sender, EventArgs e)
+        private void btnKHMO_Click(object sender, EventArgs e)
         {
             // Move to ViewRole
-            ViewRoleWindow viewUpdate = new ViewRoleWindow();
-            viewUpdate.Show();
+            KeHoachMoMon viewKHMO = new KeHoachMoMon();
+            viewKHMO.Show();
             this.Hide();
 
         }
 
-        private void btnBack_Click(object sender, EventArgs e)
+       private void btnDangkyhocphan_Click(object sender, EventArgs e)
         {
-            // Back to LoginWindow
-            LoginWindow loginWindow = new LoginWindow();
-            loginWindow.Show();
+            // Move to ViewRole
+            DangKyHocPhan viewDangkyhocphan = new DangKyHocPhan();
+            viewDangkyhocphan.Show();
             this.Hide();
 
         }
 
-        private void lblWelcome_Click(object sender, EventArgs e)
+        private void btnThongbao_Click(object sender, EventArgs e)
         {
+            // Move to ViewRole
+            ThongBao viewThongbao = new ThongBao();
+            viewThongbao.Show();
+            this.Hide();
 
+        }
+
+        private void btnEsc_Click(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Bạn có chắc chắn muốn thoát?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dialogResult == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
     }
 }

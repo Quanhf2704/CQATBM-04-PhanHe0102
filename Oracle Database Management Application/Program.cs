@@ -8,7 +8,7 @@ namespace Oracle_Database_Management_Application
 {
     public static class Account
     {
-        public static string username = "userdba";
+        public static string username = "sv001";
         public static string password = "123";
         public static string connectString;
         public static string host = "localhost";

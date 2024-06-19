@@ -29,10 +29,12 @@
         private void InitializeComponent()
         {
             this.lblWelcome = new System.Windows.Forms.Label();
-            this.btnViewRole = new System.Windows.Forms.Button();
-            this.btnViewPrivilege = new System.Windows.Forms.Button();
-            this.btnViewListAccount = new System.Windows.Forms.Button();
-            this.btnBack = new System.Windows.Forms.Button();
+            this.btnDanhsachhocphan = new System.Windows.Forms.Button();
+            this.btnKHMO = new System.Windows.Forms.Button();
+            this.btnThongtincanhan = new System.Windows.Forms.Button();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.btnDangkyhocphan = new System.Windows.Forms.Button();
+            this.btnThongbao = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblWelcome
@@ -45,61 +47,84 @@
             this.lblWelcome.TabIndex = 1;
             this.lblWelcome.Text = "Chào mừng đến với ứng dụng";
             this.lblWelcome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblWelcome.Click += new System.EventHandler(this.lblWelcome_Click);
             // 
-            // btnViewRole
+            // btnDanhsachhocphan
             // 
-            this.btnViewRole.Location = new System.Drawing.Point(387, 190);
-            this.btnViewRole.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btnViewRole.Name = "btnViewRole";
-            this.btnViewRole.Size = new System.Drawing.Size(139, 58);
-            this.btnViewRole.TabIndex = 6;
-            this.btnViewRole.Text = "Xem danh sách Role";
-            this.btnViewRole.UseVisualStyleBackColor = true;
-            this.btnViewRole.Click += new System.EventHandler(this.btnViewRole_Click);
+            this.btnDanhsachhocphan.Location = new System.Drawing.Point(350, 169);
+            this.btnDanhsachhocphan.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnDanhsachhocphan.Name = "btnDanhsachhocphan";
+            this.btnDanhsachhocphan.Size = new System.Drawing.Size(154, 58);
+            this.btnDanhsachhocphan.TabIndex = 6;
+            this.btnDanhsachhocphan.Text = "Danh sách học phần";
+            this.btnDanhsachhocphan.UseVisualStyleBackColor = true;
+            this.btnDanhsachhocphan.Click += new System.EventHandler(this.btnDanhsachhocphan_Click);
             // 
-            // btnViewPrivilege
+            // btnKHMO
             // 
-            this.btnViewPrivilege.Location = new System.Drawing.Point(631, 190);
-            this.btnViewPrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btnViewPrivilege.Name = "btnViewPrivilege";
-            this.btnViewPrivilege.Size = new System.Drawing.Size(139, 58);
-            this.btnViewPrivilege.TabIndex = 9;
-            this.btnViewPrivilege.Text = "Xem thông tin về quyền";
-            this.btnViewPrivilege.UseVisualStyleBackColor = true;
-            this.btnViewPrivilege.Click += new System.EventHandler(this.btnViewPrivilege_Click);
+            this.btnKHMO.Location = new System.Drawing.Point(600, 169);
+            this.btnKHMO.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnKHMO.Name = "btnKHMO";
+            this.btnKHMO.Size = new System.Drawing.Size(154, 58);
+            this.btnKHMO.TabIndex = 9;
+            this.btnKHMO.Text = "Kế hoạch mở môn";
+            this.btnKHMO.UseVisualStyleBackColor = true;
+            this.btnKHMO.Click += new System.EventHandler(this.btnKHMO_Click);
             // 
-            // btnViewListAccount
+            // btnThongtincanhan
             // 
-            this.btnViewListAccount.Location = new System.Drawing.Point(115, 190);
-            this.btnViewListAccount.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btnViewListAccount.Name = "btnViewListAccount";
-            this.btnViewListAccount.Size = new System.Drawing.Size(139, 58);
-            this.btnViewListAccount.TabIndex = 10;
-            this.btnViewListAccount.Text = "Xem danh sách tài khoản người dùng";
-            this.btnViewListAccount.UseVisualStyleBackColor = true;
-            this.btnViewListAccount.Click += new System.EventHandler(this.btnViewListAccount_Click);
+            this.btnThongtincanhan.Location = new System.Drawing.Point(92, 169);
+            this.btnThongtincanhan.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnThongtincanhan.Name = "btnThongtincanhan";
+            this.btnThongtincanhan.Size = new System.Drawing.Size(154, 58);
+            this.btnThongtincanhan.TabIndex = 10;
+            this.btnThongtincanhan.Text = "Thông tin cá nhân";
+            this.btnThongtincanhan.UseVisualStyleBackColor = true;
+            this.btnThongtincanhan.Click += new System.EventHandler(this.btnThongtincanhan_Click);
             // 
-            // btnBack
+            // btnExit
             // 
-            this.btnBack.Location = new System.Drawing.Point(763, 394);
-            this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(96, 32);
-            this.btnBack.TabIndex = 11;
-            this.btnBack.Text = "Quay lại";
-            this.btnBack.UseVisualStyleBackColor = true;
-            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
+            this.btnExit.Location = new System.Drawing.Point(600, 273);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(154, 58);
+            this.btnExit.TabIndex = 11;
+            this.btnExit.Text = "Thoát";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnEsc_Click);
+            // 
+            // btnDangkyhocphan
+            // 
+            this.btnDangkyhocphan.Location = new System.Drawing.Point(92, 273);
+            this.btnDangkyhocphan.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnDangkyhocphan.Name = "btnDangkyhocphan";
+            this.btnDangkyhocphan.Size = new System.Drawing.Size(154, 58);
+            this.btnDangkyhocphan.TabIndex = 12;
+            this.btnDangkyhocphan.Text = "Đăng ký học phần";
+            this.btnDangkyhocphan.UseVisualStyleBackColor = true;
+            this.btnDangkyhocphan.Click += new System.EventHandler(this.btnDangkyhocphan_Click);
+            // 
+            // btnThongbao
+            // 
+            this.btnThongbao.Location = new System.Drawing.Point(350, 273);
+            this.btnThongbao.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnThongbao.Name = "btnThongbao";
+            this.btnThongbao.Size = new System.Drawing.Size(154, 58);
+            this.btnThongbao.TabIndex = 13;
+            this.btnThongbao.Text = "Thông báo";
+            this.btnThongbao.UseVisualStyleBackColor = true;
+            this.btnThongbao.Click += new System.EventHandler(this.btnThongbao_Click);
             // 
             // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(869, 435);
-            this.Controls.Add(this.btnBack);
-            this.Controls.Add(this.btnViewListAccount);
-            this.Controls.Add(this.btnViewPrivilege);
-            this.Controls.Add(this.btnViewRole);
+            this.Controls.Add(this.btnThongbao);
+            this.Controls.Add(this.btnDangkyhocphan);
+            this.Controls.Add(this.btnExit);
+            this.Controls.Add(this.btnThongtincanhan);
+            this.Controls.Add(this.btnKHMO);
+            this.Controls.Add(this.btnDanhsachhocphan);
             this.Controls.Add(this.lblWelcome);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "MainWindow";
@@ -112,9 +137,11 @@
         #endregion
 
         private System.Windows.Forms.Label lblWelcome;
-        private System.Windows.Forms.Button btnViewRole;
-        private System.Windows.Forms.Button btnViewPrivilege;
-        private System.Windows.Forms.Button btnViewListAccount;
-        private System.Windows.Forms.Button btnBack;
+        private System.Windows.Forms.Button btnDanhsachhocphan;
+        private System.Windows.Forms.Button btnKHMO;
+        private System.Windows.Forms.Button btnThongtincanhan;
+        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Button btnDangkyhocphan;
+        private System.Windows.Forms.Button btnThongbao;
     }
 }
