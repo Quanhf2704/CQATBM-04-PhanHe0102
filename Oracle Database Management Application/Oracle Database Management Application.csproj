@@ -83,6 +83,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DanhSachHocPhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhSachHocPhan.Designer.cs">
+      <DependentUpon>DanhSachHocPhan.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,24 +103,33 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ViewListAccountWindow.cs">
+    <Compile Include="DangKyHocPhan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ViewListAccountWindow.Designer.cs">
-      <DependentUpon>ViewListAccountWindow.cs</DependentUpon>
+    <Compile Include="DangKyHocPhan.Designer.cs">
+      <DependentUpon>DangKyHocPhan.cs</DependentUpon>
     </Compile>
-    <Compile Include="ViewPrivilegeWindow.cs">
+    <Compile Include="ThongBao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ViewPrivilegeWindow.Designer.cs">
-      <DependentUpon>ViewPrivilegeWindow.cs</DependentUpon>
+    <Compile Include="ThongBao.Designer.cs">
+      <DependentUpon>ThongBao.cs</DependentUpon>
     </Compile>
-    <Compile Include="ViewRoleWindow.cs">
+    <Compile Include="ThongTinCaNhan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ViewRoleWindow.Designer.cs">
-      <DependentUpon>ViewRoleWindow.cs</DependentUpon>
+    <Compile Include="ThongTinCaNhan.Designer.cs">
+      <DependentUpon>ThongTinCaNhan.cs</DependentUpon>
     </Compile>
+    <Compile Include="KeHoachMoMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeHoachMoMon.Designer.cs">
+      <DependentUpon>KeHoachMoMon.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DanhSachHocPhan.resx">
+      <DependentUpon>DanhSachHocPhan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginWindow.resx">
       <DependentUpon>LoginWindow.cs</DependentUpon>
     </EmbeddedResource>
@@ -130,14 +145,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ViewListAccountWindow.resx">
-      <DependentUpon>ViewListAccountWindow.cs</DependentUpon>
+    <EmbeddedResource Include="DangKyHocPhan.resx">
+      <DependentUpon>DangKyHocPhan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ViewPrivilegeWindow.resx">
-      <DependentUpon>ViewPrivilegeWindow.cs</DependentUpon>
+    <EmbeddedResource Include="ThongBao.resx">
+      <DependentUpon>ThongBao.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ViewRoleWindow.resx">
-      <DependentUpon>ViewRoleWindow.cs</DependentUpon>
+    <EmbeddedResource Include="ThongTinCaNhan.resx">
+      <DependentUpon>ThongTinCaNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeHoachMoMon.resx">
+      <DependentUpon>KeHoachMoMon.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
       <SubType>Designer</SubType>
