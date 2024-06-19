@@ -17,8 +17,6 @@ F:\Oracle Database Management Application\Oracle Database Management Application
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.LoginWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.MainWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.Properties.Resources.resources
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewListAccountWindow.resources
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewPrivilegeWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.GenerateResource.cache
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CoreCompileInputs.cache
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.exe
@@ -48,4 +46,8 @@ F:\Oracle Database Management Application\Oracle Database Management Application
 F:\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\System.Threading.Tasks.Extensions.xml
 F:\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\System.ValueTuple.xml
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CopyComplete
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewRoleWindow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.DanhSachHocPhan.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.DangKyHocPhan.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ThongBao.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ThongTinCaNhan.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.KeHoachMoMon.resources
