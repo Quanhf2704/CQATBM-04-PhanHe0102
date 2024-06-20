@@ -52,10 +52,5 @@ namespace Oracle_Database_Management_Application
             this.Hide();
 
         }
-
-        private void lblWelcome_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

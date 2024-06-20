@@ -39,20 +39,20 @@
             // 
             this.lblWelcome.AutoSize = true;
             this.lblWelcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWelcome.Location = new System.Drawing.Point(157, 67);
+            this.lblWelcome.Location = new System.Drawing.Point(118, 54);
+            this.lblWelcome.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblWelcome.Name = "lblWelcome";
-            this.lblWelcome.Size = new System.Drawing.Size(541, 46);
+            this.lblWelcome.Size = new System.Drawing.Size(440, 37);
             this.lblWelcome.TabIndex = 1;
             this.lblWelcome.Text = "Chào mừng đến với ứng dụng";
             this.lblWelcome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblWelcome.Click += new System.EventHandler(this.lblWelcome_Click);
             // 
             // btnViewRole
             // 
-            this.btnViewRole.Location = new System.Drawing.Point(387, 190);
-            this.btnViewRole.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnViewRole.Location = new System.Drawing.Point(290, 154);
+            this.btnViewRole.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnViewRole.Name = "btnViewRole";
-            this.btnViewRole.Size = new System.Drawing.Size(139, 58);
+            this.btnViewRole.Size = new System.Drawing.Size(104, 47);
             this.btnViewRole.TabIndex = 6;
             this.btnViewRole.Text = "Xem danh sách Role";
             this.btnViewRole.UseVisualStyleBackColor = true;
@@ -60,10 +60,10 @@
             // 
             // btnViewPrivilege
             // 
-            this.btnViewPrivilege.Location = new System.Drawing.Point(631, 190);
-            this.btnViewPrivilege.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnViewPrivilege.Location = new System.Drawing.Point(473, 154);
+            this.btnViewPrivilege.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnViewPrivilege.Name = "btnViewPrivilege";
-            this.btnViewPrivilege.Size = new System.Drawing.Size(139, 58);
+            this.btnViewPrivilege.Size = new System.Drawing.Size(104, 47);
             this.btnViewPrivilege.TabIndex = 9;
             this.btnViewPrivilege.Text = "Xem thông tin về quyền";
             this.btnViewPrivilege.UseVisualStyleBackColor = true;
@@ -71,10 +71,10 @@
             // 
             // btnViewListAccount
             // 
-            this.btnViewListAccount.Location = new System.Drawing.Point(115, 190);
-            this.btnViewListAccount.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnViewListAccount.Location = new System.Drawing.Point(86, 154);
+            this.btnViewListAccount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnViewListAccount.Name = "btnViewListAccount";
-            this.btnViewListAccount.Size = new System.Drawing.Size(139, 58);
+            this.btnViewListAccount.Size = new System.Drawing.Size(104, 47);
             this.btnViewListAccount.TabIndex = 10;
             this.btnViewListAccount.Text = "Xem danh sách tài khoản người dùng";
             this.btnViewListAccount.UseVisualStyleBackColor = true;
@@ -82,10 +82,10 @@
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(763, 394);
-            this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnBack.Location = new System.Drawing.Point(572, 320);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(96, 32);
+            this.btnBack.Size = new System.Drawing.Size(72, 26);
             this.btnBack.TabIndex = 11;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -93,15 +93,15 @@
             // 
             // MainWindow
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(869, 435);
+            this.ClientSize = new System.Drawing.Size(652, 353);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnViewListAccount);
             this.Controls.Add(this.btnViewPrivilege);
             this.Controls.Add(this.btnViewRole);
             this.Controls.Add(this.lblWelcome);
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "MainWindow";
             this.Text = "Màn hình chính";
             this.ResumeLayout(false);

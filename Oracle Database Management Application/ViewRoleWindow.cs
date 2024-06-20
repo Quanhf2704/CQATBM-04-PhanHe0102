@@ -33,7 +33,7 @@ namespace Oracle_Database_Management_Application
                 da.Fill(dt);
                 dataGridViewRole.DataSource = dt;
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)
@@ -57,7 +57,7 @@ namespace Oracle_Database_Management_Application
                 da.Fill(dt);
                 dataGridViewRole.DataSource = dt;
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)
@@ -87,7 +87,7 @@ namespace Oracle_Database_Management_Application
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Success!");
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)
@@ -119,7 +119,7 @@ namespace Oracle_Database_Management_Application
                 conn.Open();
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Success!");
-
+                conn.Close();
             }
             catch (Exception ex)
             {
@@ -152,7 +152,7 @@ namespace Oracle_Database_Management_Application
                 DataTable dt = new DataTable();
                 da.Fill(dt);
                 dataGridViewRole.DataSource = dt;
-
+                conn.Close();
             }
             catch (Exception ex)
             {
@@ -184,7 +184,7 @@ namespace Oracle_Database_Management_Application
                 conn.Open();
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Success!");
-
+                conn.Close();
             }
             catch (Exception ex)
             {
@@ -216,7 +216,7 @@ namespace Oracle_Database_Management_Application
                 conn.Open();
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Success!");
-
+                conn.Close();
             }
             catch (Exception ex)
             {

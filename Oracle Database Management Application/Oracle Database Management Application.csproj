@@ -85,6 +85,60 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GIANGVIEN_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GIANGVIEN_Windows.Designer.cs">
+      <DependentUpon>GIANGVIEN_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_DK_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_DK_Windows.Designer.cs">
+      <DependentUpon>GV_DK_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_DSDV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_DSDV_Windows.Designer.cs">
+      <DependentUpon>GV_DSDV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_DSHP_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_DSHP_Windows.Designer.cs">
+      <DependentUpon>GV_DSHP_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_DSSV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_DSSV_Windows.Designer.cs">
+      <DependentUpon>GV_DSSV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_INFORMATION.Designer.cs">
+      <DependentUpon>GV_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_KHMO_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_KHMO_Windows.Designer.cs">
+      <DependentUpon>GV_KHMO_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_PHANCONG_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_PHANCONG_Windows.Designer.cs">
+      <DependentUpon>GV_PHANCONG_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GV_UPDATE_DIEM_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GV_UPDATE_DIEM_Windows.Designer.cs">
+      <DependentUpon>GV_UPDATE_DIEM_Windows.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,8 +151,116 @@
     <Compile Include="MainWindow.Designer.cs">
       <DependentUpon>MainWindow.cs</DependentUpon>
     </Compile>
+    <Compile Include="NHANVIENCOBAN_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NHANVIENCOBAN_Windows.Designer.cs">
+      <DependentUpon>NHANVIENCOBAN_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVCB_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVCB_INFORMATION.Designer.cs">
+      <DependentUpon>NVCB_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NV_DSDV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NV_DSDV_Windows.Designer.cs">
+      <DependentUpon>NV_DSDV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NV_DSHP_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NV_DSHP_Windows.Designer.cs">
+      <DependentUpon>NV_DSHP_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NV_DSSV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NV_DSSV_Windows.Designer.cs">
+      <DependentUpon>NV_DSSV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NV_KHMO_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NV_KHMO_Windows.Designer.cs">
+      <DependentUpon>NV_KHMO_Windows.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TK_DK_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_DK_Windows.Designer.cs">
+      <DependentUpon>TK_DK_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_DSDV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_DSDV_Windows.Designer.cs">
+      <DependentUpon>TK_DSDV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_DSHP_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_DSHP_Windows.Designer.cs">
+      <DependentUpon>TK_DSHP_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_DSSV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_DSSV_Windows.Designer.cs">
+      <DependentUpon>TK_DSSV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_INFORMATION.Designer.cs">
+      <DependentUpon>TK_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_KHMO_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_KHMO_Windows.Designer.cs">
+      <DependentUpon>TK_KHMO_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_NS_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_NS_Windows.Designer.cs">
+      <DependentUpon>TK_NS_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_PHANCONG_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_PHANCONG_Windows.Designer.cs">
+      <DependentUpon>TK_PHANCONG_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_SV_DK_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_SV_DK_Windows.Designer.cs">
+      <DependentUpon>TK_SV_DK_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_UPDATE_DIEM_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_UPDATE_DIEM_Windows.Designer.cs">
+      <DependentUpon>TK_UPDATE_DIEM_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TK_XEMPHANCONG_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TK_XEMPHANCONG_Windows.Designer.cs">
+      <DependentUpon>TK_XEMPHANCONG_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TruongKhoaWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TruongKhoaWindows.Designer.cs">
+      <DependentUpon>TruongKhoaWindows.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewListAccountWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,11 +279,56 @@
     <Compile Include="ViewRoleWindow.Designer.cs">
       <DependentUpon>ViewRoleWindow.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="GIANGVIEN_Windows.resx">
+      <DependentUpon>GIANGVIEN_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_DK_Windows.resx">
+      <DependentUpon>GV_DK_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_DSDV_Windows.resx">
+      <DependentUpon>GV_DSDV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_DSHP_Windows.resx">
+      <DependentUpon>GV_DSHP_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_DSSV_Windows.resx">
+      <DependentUpon>GV_DSSV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_INFORMATION.resx">
+      <DependentUpon>GV_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_KHMO_Windows.resx">
+      <DependentUpon>GV_KHMO_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_PHANCONG_Windows.resx">
+      <DependentUpon>GV_PHANCONG_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GV_UPDATE_DIEM_Windows.resx">
+      <DependentUpon>GV_UPDATE_DIEM_Windows.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginWindow.resx">
       <DependentUpon>LoginWindow.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainWindow.resx">
       <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NHANVIENCOBAN_Windows.resx">
+      <DependentUpon>NHANVIENCOBAN_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVCB_INFORMATION.resx">
+      <DependentUpon>NVCB_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NV_DSDV_Windows.resx">
+      <DependentUpon>NV_DSDV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NV_DSHP_Windows.resx">
+      <DependentUpon>NV_DSHP_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NV_DSSV_Windows.resx">
+      <DependentUpon>NV_DSSV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NV_KHMO_Windows.resx">
+      <DependentUpon>NV_KHMO_Windows.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -132,6 +339,42 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="TK_DK_Windows.resx">
+      <DependentUpon>TK_DK_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_DSDV_Windows.resx">
+      <DependentUpon>TK_DSDV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_DSHP_Windows.resx">
+      <DependentUpon>TK_DSHP_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_DSSV_Windows.resx">
+      <DependentUpon>TK_DSSV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_INFORMATION.resx">
+      <DependentUpon>TK_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_KHMO_Windows.resx">
+      <DependentUpon>TK_KHMO_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_NS_Windows.resx">
+      <DependentUpon>TK_NS_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_PHANCONG_Windows.resx">
+      <DependentUpon>TK_PHANCONG_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_SV_DK_Windows.resx">
+      <DependentUpon>TK_SV_DK_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_UPDATE_DIEM_Windows.resx">
+      <DependentUpon>TK_UPDATE_DIEM_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TK_XEMPHANCONG_Windows.resx">
+      <DependentUpon>TK_XEMPHANCONG_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruongKhoaWindows.resx">
+      <DependentUpon>TruongKhoaWindows.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ViewListAccountWindow.resx">
       <DependentUpon>ViewListAccountWindow.cs</DependentUpon>
     </EmbeddedResource>
@@ -160,6 +403,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" />
