@@ -31,6 +31,10 @@
             this.backbutton = new System.Windows.Forms.Button();
             this.TTCNdataGridView = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.sdttextBox = new System.Windows.Forms.TextBox();
+            this.updatebutton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.TTCNdataGridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -63,11 +67,53 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "THÔNG TIN CÁ NHÂN";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(0, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(35, 13);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "label2";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(39, 406);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(110, 16);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Số điện thoại mới";
+            // 
+            // sdttextBox
+            // 
+            this.sdttextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sdttextBox.Location = new System.Drawing.Point(167, 403);
+            this.sdttextBox.Name = "sdttextBox";
+            this.sdttextBox.Size = new System.Drawing.Size(161, 22);
+            this.sdttextBox.TabIndex = 8;
+            // 
+            // updatebutton
+            // 
+            this.updatebutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.updatebutton.Location = new System.Drawing.Point(374, 396);
+            this.updatebutton.Name = "updatebutton";
+            this.updatebutton.Size = new System.Drawing.Size(89, 36);
+            this.updatebutton.TabIndex = 9;
+            this.updatebutton.Text = "Cập nhật";
+            this.updatebutton.UseVisualStyleBackColor = true;
+            this.updatebutton.Click += new System.EventHandler(this.updatebutton_Click);
+            // 
             // TK_INFORMATION
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.updatebutton);
+            this.Controls.Add(this.sdttextBox);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.backbutton);
             this.Controls.Add(this.TTCNdataGridView);
             this.Controls.Add(this.label1);
@@ -85,5 +131,9 @@
         private System.Windows.Forms.Button backbutton;
         private System.Windows.Forms.DataGridView TTCNdataGridView;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox sdttextBox;
+        private System.Windows.Forms.Button updatebutton;
     }
 }
