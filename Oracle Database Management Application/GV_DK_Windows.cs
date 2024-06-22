@@ -38,7 +38,7 @@ namespace Oracle_Database_Management_Application
                 da.Fill(dt);
                 SV_DK_dataGridView.DataSource = dt;
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)

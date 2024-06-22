@@ -41,12 +41,13 @@
             this.CAPNHATDIEMbutton = new System.Windows.Forms.Button();
             this.SVDKbutton = new System.Windows.Forms.Button();
             this.xemphancongbutton = new System.Windows.Forms.Button();
+            this.XEMTBbutton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // phancongButton
             // 
             this.phancongButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.phancongButton.Location = new System.Drawing.Point(91, 82);
+            this.phancongButton.Location = new System.Drawing.Point(91, 58);
             this.phancongButton.Margin = new System.Windows.Forms.Padding(2);
             this.phancongButton.Name = "phancongButton";
             this.phancongButton.Size = new System.Drawing.Size(135, 40);
@@ -58,7 +59,7 @@
             // qlnsButton
             // 
             this.qlnsButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.qlnsButton.Location = new System.Drawing.Point(512, 82);
+            this.qlnsButton.Location = new System.Drawing.Point(512, 58);
             this.qlnsButton.Margin = new System.Windows.Forms.Padding(2);
             this.qlnsButton.Name = "qlnsButton";
             this.qlnsButton.Size = new System.Drawing.Size(152, 40);
@@ -70,7 +71,7 @@
             // dssvButton
             // 
             this.dssvButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dssvButton.Location = new System.Drawing.Point(303, 82);
+            this.dssvButton.Location = new System.Drawing.Point(303, 58);
             this.dssvButton.Margin = new System.Windows.Forms.Padding(2);
             this.dssvButton.Name = "dssvButton";
             this.dssvButton.Size = new System.Drawing.Size(146, 40);
@@ -82,10 +83,10 @@
             // qldkhpButton
             // 
             this.qldkhpButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.qldkhpButton.Location = new System.Drawing.Point(303, 262);
+            this.qldkhpButton.Location = new System.Drawing.Point(303, 217);
             this.qldkhpButton.Margin = new System.Windows.Forms.Padding(2);
             this.qldkhpButton.Name = "qldkhpButton";
-            this.qldkhpButton.Size = new System.Drawing.Size(189, 39);
+            this.qldkhpButton.Size = new System.Drawing.Size(189, 43);
             this.qldkhpButton.TabIndex = 3;
             this.qldkhpButton.Text = "Quản lý đăng ký học phần";
             this.qldkhpButton.UseVisualStyleBackColor = true;
@@ -94,7 +95,7 @@
             // khmoButton
             // 
             this.khmoButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.khmoButton.Location = new System.Drawing.Point(303, 168);
+            this.khmoButton.Location = new System.Drawing.Point(303, 136);
             this.khmoButton.Margin = new System.Windows.Forms.Padding(2);
             this.khmoButton.Name = "khmoButton";
             this.khmoButton.Size = new System.Drawing.Size(146, 39);
@@ -106,7 +107,7 @@
             // dsdvButton
             // 
             this.dsdvButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dsdvButton.Location = new System.Drawing.Point(91, 168);
+            this.dsdvButton.Location = new System.Drawing.Point(91, 136);
             this.dsdvButton.Margin = new System.Windows.Forms.Padding(2);
             this.dsdvButton.Name = "dsdvButton";
             this.dsdvButton.Size = new System.Drawing.Size(135, 39);
@@ -118,7 +119,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(512, 159);
+            this.button1.Location = new System.Drawing.Point(512, 138);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(152, 35);
@@ -153,7 +154,7 @@
             // inforbutton
             // 
             this.inforbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.inforbutton.Location = new System.Drawing.Point(91, 258);
+            this.inforbutton.Location = new System.Drawing.Point(91, 217);
             this.inforbutton.Name = "inforbutton";
             this.inforbutton.Size = new System.Drawing.Size(175, 43);
             this.inforbutton.TabIndex = 9;
@@ -164,9 +165,9 @@
             // CAPNHATDIEMbutton
             // 
             this.CAPNHATDIEMbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CAPNHATDIEMbutton.Location = new System.Drawing.Point(381, 342);
+            this.CAPNHATDIEMbutton.Location = new System.Drawing.Point(326, 307);
             this.CAPNHATDIEMbutton.Name = "CAPNHATDIEMbutton";
-            this.CAPNHATDIEMbutton.Size = new System.Drawing.Size(222, 45);
+            this.CAPNHATDIEMbutton.Size = new System.Drawing.Size(166, 45);
             this.CAPNHATDIEMbutton.TabIndex = 18;
             this.CAPNHATDIEMbutton.Text = "Cập nhật điểm số";
             this.CAPNHATDIEMbutton.UseVisualStyleBackColor = true;
@@ -175,7 +176,7 @@
             // SVDKbutton
             // 
             this.SVDKbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SVDKbutton.Location = new System.Drawing.Point(91, 342);
+            this.SVDKbutton.Location = new System.Drawing.Point(91, 307);
             this.SVDKbutton.Name = "SVDKbutton";
             this.SVDKbutton.Size = new System.Drawing.Size(222, 45);
             this.SVDKbutton.TabIndex = 17;
@@ -186,19 +187,31 @@
             // xemphancongbutton
             // 
             this.xemphancongbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.xemphancongbutton.Location = new System.Drawing.Point(512, 256);
+            this.xemphancongbutton.Location = new System.Drawing.Point(512, 217);
             this.xemphancongbutton.Name = "xemphancongbutton";
-            this.xemphancongbutton.Size = new System.Drawing.Size(152, 45);
+            this.xemphancongbutton.Size = new System.Drawing.Size(152, 43);
             this.xemphancongbutton.TabIndex = 16;
             this.xemphancongbutton.Text = "Xem phân công";
             this.xemphancongbutton.UseVisualStyleBackColor = true;
             this.xemphancongbutton.Click += new System.EventHandler(this.xemphancongbutton_Click);
+            // 
+            // XEMTBbutton
+            // 
+            this.XEMTBbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.XEMTBbutton.Location = new System.Drawing.Point(512, 307);
+            this.XEMTBbutton.Name = "XEMTBbutton";
+            this.XEMTBbutton.Size = new System.Drawing.Size(122, 45);
+            this.XEMTBbutton.TabIndex = 19;
+            this.XEMTBbutton.Text = "Xem thông báo";
+            this.XEMTBbutton.UseVisualStyleBackColor = true;
+            this.XEMTBbutton.Click += new System.EventHandler(this.XEMTBbutton_Click);
             // 
             // TruongKhoaWindows
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(735, 423);
+            this.Controls.Add(this.XEMTBbutton);
             this.Controls.Add(this.CAPNHATDIEMbutton);
             this.Controls.Add(this.SVDKbutton);
             this.Controls.Add(this.xemphancongbutton);
@@ -236,5 +249,6 @@
         private System.Windows.Forms.Button CAPNHATDIEMbutton;
         private System.Windows.Forms.Button SVDKbutton;
         private System.Windows.Forms.Button xemphancongbutton;
+        private System.Windows.Forms.Button XEMTBbutton;
     }
 }

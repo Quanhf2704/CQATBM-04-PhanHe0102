@@ -124,5 +124,12 @@ namespace Oracle_Database_Management_Application
             update.Show();
             this.Hide();
         }
+
+        private void XEMTBbutton_Click(object sender, EventArgs e)
+        {
+            TK_XEMTB_Windows tK_XEMTB_Windows = new TK_XEMTB_Windows();
+            tK_XEMTB_Windows.Show();
+            this.Hide();
+        }
     }
 }

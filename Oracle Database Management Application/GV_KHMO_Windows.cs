@@ -38,7 +38,7 @@ namespace Oracle_Database_Management_Application
                 da.Fill(dt);
                 TK_KHM_dataGridView.DataSource = dt;
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)

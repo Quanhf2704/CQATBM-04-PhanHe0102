@@ -3,19 +3,231 @@
   "WorkspaceRootPath": "D:\\CS\\CQATBM-04-Phanhe1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\giangvien_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\giangvien_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\truongkhoawindows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\truongkhoawindows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_xemtb_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_xemtb_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_xemtb_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_xemtb_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_ns_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_ns_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_ns_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_ns_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nhanviencoban_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nhanviencoban_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\giangvien_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\giangvien_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\giangvien_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\giangvien_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\loginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\loginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\loginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,264 +239,72 @@
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nhanviencoban_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nhanviencoban_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nhanviencoban_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\truongkhoawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\viewrolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\viewrolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\viewrolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\viewrolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\viewrolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\viewrolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\viewprivilegewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\viewprivilegewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\viewprivilegewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\viewprivilegewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\viewprivilegewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\viewprivilegewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\viewlistaccountwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\viewlistaccountwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\viewlistaccountwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\viewlistaccountwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\viewlistaccountwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\viewlistaccountwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|d:\\cs\\cqatbm-04-phanhe1\\oracle database management application\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_update_diem_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_sv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dk_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_xemphancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_update_diem_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_update_diem_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_phancong_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_ns_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_ns_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\giangvien_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\giangvien_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_phancong_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_phancong_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_dssv_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_dssv_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\gv_information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\gv_information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nvcb_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dssv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_khmo_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dshp_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\nv_dsdv_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\nv_dsdv_windows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_dsdv_windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\tk_information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\tk_information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|D:\\CS\\CQATBM-04-Phanhe1\\oracle database management application\\truongkhoawindows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5A735-4741-44D9-8909-A03727EC7AD5}|Oracle Database Management Application\\Oracle Database Management Application.csproj|solutionrelative:oracle database management application\\truongkhoawindows.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -294,7 +314,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -302,108 +322,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NHANVIENCOBAN_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T11:41:56.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GIANGVIEN_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GIANGVIEN_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GIANGVIEN_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:54:56.124Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GIANGVIEN_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GIANGVIEN_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GIANGVIEN_Windows.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAzwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:57:04.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginWindow.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\LoginWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\LoginWindow.cs [Design]",
+              "Title": "TK_XEMTB_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMTB_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_XEMTB_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMTB_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_XEMTB_Windows.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:03:32.263Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-21T13:21:46.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginWindow.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\LoginWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\LoginWindow.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAzwBwAAAATAAAA",
+              "Title": "TK_XEMTB_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMTB_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_XEMTB_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMTB_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_XEMTB_Windows.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAlwCAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:03:35.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:22:52.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\Program.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\Program.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\Program.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:35:08.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NHANVIENCOBAN_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T11:38:52.2Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TruongKhoaWindows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TruongKhoaWindows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TruongKhoaWindows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:52:48.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "TruongKhoaWindows.cs [Design]",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\TruongKhoaWindows.cs",
@@ -415,212 +357,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ViewRoleWindow.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewRoleWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\ViewRoleWindow.cs",
-              "ViewState": "AQIAANUAAAAAAAAAAAAIwNoAAAAdAAAA",
+              "DocumentIndex": 0,
+              "Title": "TruongKhoaWindows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TruongKhoaWindows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TruongKhoaWindows.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAlwIMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:33:13.151Z",
+              "WhenOpened": "2024-06-19T12:52:48.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ViewRoleWindow.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewRoleWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\ViewRoleWindow.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "TruongKhoaWindows.Designer.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAIAxwM0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:33:11.565Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-19T12:53:00.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ViewPrivilegeWindow.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewPrivilegeWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\ViewPrivilegeWindow.cs",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAiwDsAAAAQAAAA",
+              "DocumentIndex": 5,
+              "Title": "TK_XEMPHANCONG_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAnwCgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:32:55.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T10:32:19.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ViewPrivilegeWindow.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewPrivilegeWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\ViewPrivilegeWindow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:32:54.141Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ViewListAccountWindow.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewListAccountWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\ViewListAccountWindow.cs",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAIwNoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:32:01.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ViewListAccountWindow.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewListAccountWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\ViewListAccountWindow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:31:58.672Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainWindow.Designer.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.Designer.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\MainWindow.Designer.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.Designer.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\MainWindow.Designer.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:31:16.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainWindow.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\MainWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\MainWindow.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:28:02.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainWindow.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\MainWindow.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\MainWindow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:27:59.401Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TK_UPDATE_DIEM_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAuwCUBAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T10:54:23.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TK_UPDATE_DIEM_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T10:42:30.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GV_UPDATE_DIEM_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:23:43.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GV_UPDATE_DIEM_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
-              "ViewState": "AQIAACIBAAAAAAAAAAAkwDcBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:27:16.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TK_SV_DK_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_SV_DK_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_SV_DK_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T10:34:52.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TK_SV_DK_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_SV_DK_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_SV_DK_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T10:35:27.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GV_DK_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DK_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_DK_Windows.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAzwC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:07:24.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GV_DK_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DK_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_DK_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:06:37.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 6,
               "Title": "TK_XEMPHANCONG_Windows.cs [Design]",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
@@ -631,42 +405,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TK_XEMPHANCONG_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_XEMPHANCONG_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwC4AAAANAAAA",
+              "DocumentIndex": 7,
+              "Title": "TK_UPDATE_DIEM_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T10:32:19.097Z"
+              "WhenOpened": "2024-06-20T10:42:30.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GV_PHANCONG_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAmwCcAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "TK_UPDATE_DIEM_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_UPDATE_DIEM_Windows.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAnwE8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:57:18.065Z"
+              "WhenOpened": "2024-06-20T10:54:23.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GV_PHANCONG_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "TK_SV_DK_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_SV_DK_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_SV_DK_Windows.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAASwCgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:56:34.059Z"
+              "WhenOpened": "2024-06-20T10:35:27.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 10,
+              "Title": "TK_SV_DK_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_SV_DK_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_SV_DK_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_SV_DK_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:34:52.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TK_PHANCONG_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAIAywBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:43:35.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TK_PHANCONG_Windows.cs [Design]",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
@@ -677,7 +474,640 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TK_NS_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_NS_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_NS_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_NS_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_NS_Windows.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAApwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:26:16.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TK_KHMO_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_KHMO_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_KHMO_Windows.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:28:36.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TK_KHMO_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_KHMO_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_KHMO_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:27:01.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TK_INFORMATION.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_INFORMATION.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_INFORMATION.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:11:50.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TK_INFORMATION.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_INFORMATION.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_INFORMATION.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:11:11.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TK_DSSV_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSSV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DSSV_Windows.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA4wCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:29:50.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TK_NS_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_NS_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_NS_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_NS_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_NS_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:43:12.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TK_DSSV_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSSV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DSSV_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:28:53.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TK_DSHP_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSHP_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DSHP_Windows.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:10:23.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TK_DSHP_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSHP_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DSHP_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:10:18.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TK_DSDV_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSDV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DSDV_Windows.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAnwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:17:57.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TK_DSDV_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSDV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DSDV_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:09:14.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TK_DK_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DK_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DK_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DK_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DK_Windows.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:25:42.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TK_DK_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DK_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DK_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DK_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\TK_DK_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:25:41.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NVCB_INFORMATION.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NVCB_INFORMATION.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\NVCB_INFORMATION.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:31:54.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NV_KHMO_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_KHMO_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_KHMO_Windows.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAASwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:27:45.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NV_KHMO_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_KHMO_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_KHMO_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:21:13.337Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "NV_DSSV_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSSV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_DSSV_Windows.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAnwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:29:30.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NVCB_INFORMATION.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NVCB_INFORMATION.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\NVCB_INFORMATION.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAnwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:34:22.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NV_DSSV_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSSV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_DSSV_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:20:41.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NV_DSHP_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSHP_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_DSHP_Windows.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAnwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:24:09.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NV_DSHP_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSHP_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_DSHP_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:20:15.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NV_DSDV_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSDV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_DSDV_Windows.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAASwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:17:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NV_DSDV_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSDV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\NV_DSDV_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:16:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NHANVIENCOBAN_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:38:52.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GV_UPDATE_DIEM_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAnwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:27:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GV_UPDATE_DIEM_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:23:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GV_PHANCONG_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAMwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:57:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GV_PHANCONG_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_PHANCONG_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:56:34.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GV_KHMO_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_KHMO_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_KHMO_Windows.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAnwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:47:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GV_KHMO_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_KHMO_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_KHMO_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:46:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GV_INFORMATION.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_INFORMATION.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_INFORMATION.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAnwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:34:13.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GV_INFORMATION.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_INFORMATION.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_INFORMATION.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:33:13.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GIANGVIEN_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GIANGVIEN_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GIANGVIEN_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:54:56.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GV_DK_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DK_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_DK_Windows.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAxwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:07:24.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GV_DK_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DK_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DK_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_DK_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:06:37.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GV_DSDV_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSDV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_DSDV_Windows.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAxwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:43:00.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GV_DSDV_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSDV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_DSDV_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:42:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GV_DSHP_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSHP_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_DSHP_Windows.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:44:51.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GV_DSHP_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSHP_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_DSHP_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:44:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GIANGVIEN_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GIANGVIEN_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\GIANGVIEN_Windows.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:57:04.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\Program.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\Program.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\Program.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:35:08.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LoginWindow.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\LoginWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\LoginWindow.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAzwBwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:03:35.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoginWindow.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\LoginWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\LoginWindow.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\LoginWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:03:32.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GV_DSSV_Windows.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSSV_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSSV_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSSV_Windows.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\GV_DSSV_Windows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:36:27.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "NHANVIENCOBAN_Windows.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\NHANVIENCOBAN_Windows.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:41:56.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ViewRoleWindow.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewRoleWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\ViewRoleWindow.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAIwNoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:33:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ViewRoleWindow.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewRoleWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewRoleWindow.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\ViewRoleWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:33:11.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ViewPrivilegeWindow.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewPrivilegeWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\ViewPrivilegeWindow.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAiwDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:32:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ViewPrivilegeWindow.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewPrivilegeWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewPrivilegeWindow.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\ViewPrivilegeWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:32:54.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ViewListAccountWindow.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewListAccountWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\ViewListAccountWindow.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAIwNoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:32:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ViewListAccountWindow.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\ViewListAccountWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\ViewListAccountWindow.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\ViewListAccountWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:31:58.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\MainWindow.Designer.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.Designer.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\MainWindow.Designer.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:31:16.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\MainWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs",
+              "RelativeToolTip": "Oracle Database Management Application\\MainWindow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:28:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Oracle Database Management Application\\MainWindow.cs",
+              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\MainWindow.cs [Design]",
+              "RelativeToolTip": "Oracle Database Management Application\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:27:59.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
               "Title": "GV_UPDATE_DIEM_Windows.Designer.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.Designer.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_UPDATE_DIEM_Windows.Designer.cs",
@@ -689,41 +1119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "TK_PHANCONG_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_PHANCONG_Windows.cs",
-              "ViewState": "AQIAAPoAAAAAAAAAAAAIwBYBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T03:43:35.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TK_NS_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_NS_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_NS_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_NS_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_NS_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T03:43:12.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "TK_DSHP_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSHP_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_DSHP_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:10:18.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 69,
               "Title": "GIANGVIEN_Windows.Designer.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GIANGVIEN_Windows.Designer.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\GIANGVIEN_Windows.Designer.cs",
@@ -731,12 +1127,11 @@
               "RelativeToolTip": "Oracle Database Management Application\\GIANGVIEN_Windows.Designer.cs",
               "ViewState": "AQIAAIIAAAAAAAAAAAAUwI8AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:03:33.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T14:03:33.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 70,
               "Title": "GV_PHANCONG_Windows.Designer.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_PHANCONG_Windows.Designer.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_PHANCONG_Windows.Designer.cs",
@@ -748,145 +1143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "GV_DSDV_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSDV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_DSDV_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:42:38.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "GV_KHMO_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_KHMO_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_KHMO_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:47:18.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "NV_KHMO_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_KHMO_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_KHMO_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBsAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:27:45.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "NV_KHMO_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_KHMO_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_KHMO_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_KHMO_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:21:13.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "GV_KHMO_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_KHMO_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_KHMO_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_KHMO_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:46:43.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "GV_DSHP_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSHP_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_DSHP_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:44:51.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "NV_DSHP_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSHP_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_DSHP_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:24:09.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "NV_DSHP_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSHP_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSHP_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_DSHP_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:20:15.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "GV_DSHP_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSHP_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSHP_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_DSHP_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:44:32.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "GV_DSDV_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSDV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSDV_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_DSDV_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:43:00.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "NV_DSDV_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSDV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_DSDV_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:17:15.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "NV_DSDV_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSDV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_DSDV_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:16:09.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 71,
               "Title": "GV_DSSV_Windows.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSSV_Windows.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSSV_Windows.cs",
@@ -898,41 +1155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "NV_DSSV_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSSV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_DSSV_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:29:30.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "NV_DSSV_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSSV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSSV_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\NV_DSSV_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:20:41.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "GV_DSSV_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSSV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSSV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSSV_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_DSSV_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:36:27.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 72,
               "Title": "GV_DSSV_Windows.Designer.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_DSSV_Windows.Designer.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_DSSV_Windows.Designer.cs",
@@ -944,19 +1167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "GV_INFORMATION.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_INFORMATION.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_INFORMATION.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwB0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:34:13.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 73,
               "Title": "GV_INFORMATION.Designer.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.Designer.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_INFORMATION.Designer.cs",
@@ -968,99 +1179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "GV_INFORMATION.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\GV_INFORMATION.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\GV_INFORMATION.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\GV_INFORMATION.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:33:13.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "NVCB_INFORMATION.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NVCB_INFORMATION.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\NVCB_INFORMATION.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:31:54.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "NVCB_INFORMATION.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\NVCB_INFORMATION.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NVCB_INFORMATION.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\NVCB_INFORMATION.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:34:22.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "TK_DSSV_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSSV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_DSSV_Windows.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:29:50.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "TK_DSSV_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSSV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSSV_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_DSSV_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:28:53.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "TK_KHMO_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_KHMO_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_KHMO_Windows.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:28:36.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "TK_KHMO_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_KHMO_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_KHMO_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_KHMO_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:27:01.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "TK_DSHP_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSHP_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSHP_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_DSHP_Windows.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:10:23.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 74,
               "Title": "NV_DSDV_Windows.Designer.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\NV_DSDV_Windows.Designer.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\NV_DSDV_Windows.Designer.cs",
@@ -1072,53 +1191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "TK_DSDV_Windows.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSDV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_DSDV_Windows.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:17:57.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "TK_DSDV_Windows.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_DSDV_Windows.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_DSDV_Windows.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_DSDV_Windows.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:09:14.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "TK_INFORMATION.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_INFORMATION.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_INFORMATION.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAxwDAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:11:50.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "TK_INFORMATION.cs [Design]",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_INFORMATION.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.cs [Design]",
-              "RelativeToolTip": "Oracle Database Management Application\\TK_INFORMATION.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:11:11.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 75,
               "Title": "TK_INFORMATION.Designer.cs",
               "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TK_INFORMATION.Designer.cs",
               "RelativeDocumentMoniker": "Oracle Database Management Application\\TK_INFORMATION.Designer.cs",
@@ -1127,19 +1200,6 @@
               "ViewState": "AQIAABcAAAAAAAAAAAAywDkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T13:12:49.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "TruongKhoaWindows.Designer.cs",
-              "DocumentMoniker": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
-              "RelativeDocumentMoniker": "Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
-              "ToolTip": "D:\\CS\\CQATBM-04-Phanhe1\\Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
-              "RelativeToolTip": "Oracle Database Management Application\\TruongKhoaWindows.Designer.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAUwJYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:53:00.727Z",
-              "EditorCaption": ""
             }
           ]
         },

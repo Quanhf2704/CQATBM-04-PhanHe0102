@@ -112,3 +112,4 @@ D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_
 D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_XEMPHANCONG_Windows.resources
 D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_SV_DK_Windows.resources
 D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_UPDATE_DIEM_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_XEMTB_Windows.resources

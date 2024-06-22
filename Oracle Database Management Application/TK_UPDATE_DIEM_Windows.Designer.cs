@@ -65,10 +65,10 @@
             this.backbutton = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.cậpNhậtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.dIEMTHToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.dIEMQTToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.dIEMCKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dIEMTKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dIEMCKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dIEMQTToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dIEMTHToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -352,7 +352,7 @@
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(252, 12);
+            this.label1.Location = new System.Drawing.Point(249, 26);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(301, 26);
@@ -395,33 +395,33 @@
             this.cậpNhậtToolStripMenuItem.Size = new System.Drawing.Size(88, 51);
             this.cậpNhậtToolStripMenuItem.Text = "Cập nhật";
             // 
-            // dIEMTHToolStripMenuItem
+            // dIEMTKToolStripMenuItem
             // 
-            this.dIEMTHToolStripMenuItem.Name = "dIEMTHToolStripMenuItem";
-            this.dIEMTHToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.dIEMTHToolStripMenuItem.Text = "DIEMTH";
-            this.dIEMTHToolStripMenuItem.Click += new System.EventHandler(this.dIEMTHToolStripMenuItem_Click);
-            // 
-            // dIEMQTToolStripMenuItem
-            // 
-            this.dIEMQTToolStripMenuItem.Name = "dIEMQTToolStripMenuItem";
-            this.dIEMQTToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.dIEMQTToolStripMenuItem.Text = "DIEMQT";
-            this.dIEMQTToolStripMenuItem.Click += new System.EventHandler(this.dIEMQTToolStripMenuItem_Click);
+            this.dIEMTKToolStripMenuItem.Name = "dIEMTKToolStripMenuItem";
+            this.dIEMTKToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.dIEMTKToolStripMenuItem.Text = "DIEMTK";
+            this.dIEMTKToolStripMenuItem.Click += new System.EventHandler(this.dIEMTKToolStripMenuItem_Click);
             // 
             // dIEMCKToolStripMenuItem
             // 
             this.dIEMCKToolStripMenuItem.Name = "dIEMCKToolStripMenuItem";
-            this.dIEMCKToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.dIEMCKToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.dIEMCKToolStripMenuItem.Text = "DIEMCK";
             this.dIEMCKToolStripMenuItem.Click += new System.EventHandler(this.dIEMCKToolStripMenuItem_Click);
             // 
-            // dIEMTKToolStripMenuItem
+            // dIEMQTToolStripMenuItem
             // 
-            this.dIEMTKToolStripMenuItem.Name = "dIEMTKToolStripMenuItem";
-            this.dIEMTKToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.dIEMTKToolStripMenuItem.Text = "DIEMTK";
-            this.dIEMTKToolStripMenuItem.Click += new System.EventHandler(this.dIEMTKToolStripMenuItem_Click);
+            this.dIEMQTToolStripMenuItem.Name = "dIEMQTToolStripMenuItem";
+            this.dIEMQTToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.dIEMQTToolStripMenuItem.Text = "DIEMQT";
+            this.dIEMQTToolStripMenuItem.Click += new System.EventHandler(this.dIEMQTToolStripMenuItem_Click);
+            // 
+            // dIEMTHToolStripMenuItem
+            // 
+            this.dIEMTHToolStripMenuItem.Name = "dIEMTHToolStripMenuItem";
+            this.dIEMTHToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.dIEMTHToolStripMenuItem.Text = "DIEMTH";
+            this.dIEMTHToolStripMenuItem.Click += new System.EventHandler(this.dIEMTHToolStripMenuItem_Click);
             // 
             // TK_UPDATE_DIEM_Windows
             // 
