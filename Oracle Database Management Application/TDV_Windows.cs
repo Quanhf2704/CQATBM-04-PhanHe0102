@@ -27,8 +27,8 @@ namespace Oracle_Database_Management_Application
 
         private void TruongKhoaWindows_Load(object sender, EventArgs e)
         {
-            Account.username = "NV002";
-            Account.password = "123";
+            //Account.username = "NV002";
+            //Account.password = "123";
             Account.connectString = @"Data Source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = "
                 + Account.host + ")(PORT = " + Account.port + "))(CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = "
                 + Account.sid + "))); Password=" + Account.password + ";User ID=" + Account.username;

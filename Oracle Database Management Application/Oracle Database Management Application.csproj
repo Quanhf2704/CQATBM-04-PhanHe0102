@@ -564,6 +564,9 @@
     <EmbeddedResource Include="TDV_THONGBAO_Windows.resx">
       <DependentUpon>TDV_THONGBAO_Windows.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="TDV_Windows.resx">
+      <DependentUpon>TDV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TK_DK_Windows.resx">
       <DependentUpon>TK_DK_Windows.cs</DependentUpon>
     </EmbeddedResource>

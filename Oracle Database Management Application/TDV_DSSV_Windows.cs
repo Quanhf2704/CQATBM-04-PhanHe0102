@@ -31,7 +31,7 @@ namespace Oracle_Database_Management_Application
                 da.Fill(dt);
                 TDV_DSSV_dataGridView.DataSource = dt;
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)
