@@ -93,6 +93,9 @@ namespace Oracle_Database_Management_Application
                         MessageBox.Show("Đăng nhập với vai trò giáo vụ");
                         Account.username = textUsername.Text;
                         Account.password = textPass.Text;
+                        GIAOVU_Windows gIAOVU_Windows = new GIAOVU_Windows();
+                        gIAOVU_Windows.Show();
+                        this.Hide();
                     }
                     else if (result == 4)
                     {

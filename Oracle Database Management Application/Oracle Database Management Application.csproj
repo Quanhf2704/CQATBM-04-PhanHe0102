@@ -85,6 +85,60 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnnouncementWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnouncementWindow.Designer.cs">
+      <DependentUpon>AnnouncementWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignmentWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignmentWindow.Designer.cs">
+      <DependentUpon>AssignmentWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeInfoHRWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeInfoHRWindow.Designer.cs">
+      <DependentUpon>ChangeInfoHRWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GVU_INFOR_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GVU_INFOR_Window.Designer.cs">
+      <DependentUpon>GVU_INFOR_Window.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GIAOVU_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GIAOVU_Windows.Designer.cs">
+      <DependentUpon>GIAOVU_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuleWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleWindow.Designer.cs">
+      <DependentUpon>ModuleWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GVU_KHMO_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GVU_KHMO_Window.Designer.cs">
+      <DependentUpon>GVU_KHMO_Window.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationWindow.Designer.cs">
+      <DependentUpon>RegistrationWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentWindow.Designer.cs">
+      <DependentUpon>StudentWindow.cs</DependentUpon>
+    </Compile>
     <Compile Include="SV_DangKyHocPhan_Windows.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -303,6 +357,12 @@
     <Compile Include="TruongKhoaWindows.Designer.cs">
       <DependentUpon>TruongKhoaWindows.cs</DependentUpon>
     </Compile>
+    <Compile Include="GVU_UnitWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GVU_UnitWindow.Designer.cs">
+      <DependentUpon>GVU_UnitWindow.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewListAccountWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -321,6 +381,33 @@
     <Compile Include="ViewRoleWindow.Designer.cs">
       <DependentUpon>ViewRoleWindow.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AnnouncementWindow.resx">
+      <DependentUpon>AnnouncementWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignmentWindow.resx">
+      <DependentUpon>AssignmentWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeInfoHRWindow.resx">
+      <DependentUpon>ChangeInfoHRWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GVU_INFOR_Window.resx">
+      <DependentUpon>GVU_INFOR_Window.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GIAOVU_Windows.resx">
+      <DependentUpon>GIAOVU_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuleWindow.resx">
+      <DependentUpon>ModuleWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GVU_KHMO_Window.resx">
+      <DependentUpon>GVU_KHMO_Window.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationWindow.resx">
+      <DependentUpon>RegistrationWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentWindow.resx">
+      <DependentUpon>StudentWindow.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SV_DangKyHocPhan_Windows.resx">
       <DependentUpon>SV_DangKyHocPhan_Windows.cs</DependentUpon>
     </EmbeddedResource>
@@ -437,6 +524,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="TruongKhoaWindows.resx">
       <DependentUpon>TruongKhoaWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GVU_UnitWindow.resx">
+      <DependentUpon>GVU_UnitWindow.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewListAccountWindow.resx">
       <DependentUpon>ViewListAccountWindow.cs</DependentUpon>
