@@ -33,7 +33,7 @@ namespace Oracle_Database_Management_Application
                 da.Fill(dt);
                 dataGridViewPriv.DataSource = dt;
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)
@@ -57,7 +57,7 @@ namespace Oracle_Database_Management_Application
                 da.Fill(dt);
                 dataGridViewPriv.DataSource = dt;
 
-                //conn.Close();
+                conn.Close();
 
             }
             catch (Exception ex)

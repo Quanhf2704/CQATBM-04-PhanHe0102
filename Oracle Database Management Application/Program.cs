@@ -8,12 +8,12 @@ namespace Oracle_Database_Management_Application
 {
     public static class Account
     {
-        public static string username = "sv001";
-        public static string password = "123";
+        public static string username = "userdba";
+        public static string password = "111";
         public static string connectString;
         public static string host = "localhost";
-        public static int port = 15211;
-        public static string sid = "xe";
+        public static int port = 1521;
+        public static string sid = "XEPDB1";
 
     }
 
@@ -28,6 +28,9 @@ namespace Oracle_Database_Management_Application
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LoginWindow());
+            //Application.Run(new TruongKhoaWindows());
+            //Application.Run(new NHANVIENCOBAN_Windows());
+            //Application.Run(new GIANGVIEN_Windows());
         }
     }
 }

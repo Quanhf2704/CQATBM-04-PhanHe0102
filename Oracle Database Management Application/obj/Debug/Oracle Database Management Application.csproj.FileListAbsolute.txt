@@ -17,6 +17,8 @@ F:\Oracle Database Management Application\Oracle Database Management Application
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.LoginWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.MainWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.Properties.Resources.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewListAccountWindow.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewPrivilegeWindow.resources
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.GenerateResource.cache
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CoreCompileInputs.cache
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.exe
@@ -46,8 +48,68 @@ F:\Oracle Database Management Application\Oracle Database Management Application
 F:\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\System.Threading.Tasks.Extensions.xml
 F:\Oracle Database Management Application\Oracle Database Management Application\bin\Debug\System.ValueTuple.xml
 F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CopyComplete
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.DanhSachHocPhan.resources
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.DangKyHocPhan.resources
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ThongBao.resources
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ThongTinCaNhan.resources
-F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.KeHoachMoMon.resources
+F:\Oracle Database Management Application\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewRoleWindow.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.AssemblyReference.cache
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.LoginWindow.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.MainWindow.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.Properties.Resources.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TruongKhoaWindows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewListAccountWindow.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewPrivilegeWindow.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewRoleWindow.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.GenerateResource.cache
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CoreCompileInputs.cache
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.exe
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.pdb
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe.config
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.pdb
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Buffers.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Formats.Asn1.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Memory.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Numerics.Vectors.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Text.Encodings.Web.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Text.Json.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.ValueTuple.dll
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Buffers.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Formats.Asn1.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Memory.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Numerics.Vectors.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Text.Encodings.Web.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Text.Json.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\bin\Debug\System.ValueTuple.xml
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle D.09E362F5.Up2Date
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_NS_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DK_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_PHANCONG_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NHANVIENCOBAN_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NVCB_INFORMATION.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GIANGVIEN_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DSDV_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DSHP_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DSSV_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_KHMO_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_INFORMATION.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_DSDV_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_DSHP_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_DSSV_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_KHMO_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_INFORMATION.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DSSV_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DSDV_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DSHP_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_KHMO_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_PHANCONG_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DK_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_UPDATE_DIEM_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_XEMPHANCONG_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_SV_DK_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_UPDATE_DIEM_Windows.resources
+D:\CS\CQATBM-04-Phanhe1\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_XEMTB_Windows.resources
