@@ -32,20 +32,6 @@ namespace Oracle_Database_Management_Application
             Account.connectString = @"Data Source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = "
                 + Account.host + ")(PORT = " + Account.port + "))(CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = "
                 + Account.sid + "))); Password=" + Account.password + ";User ID=" + Account.username;
-            OracleConnection conn = new OracleConnection();
-            conn.ConnectionString = Account.connectString;
-            OracleCommand cmd = new OracleCommand("SELECT * FROM USERDBA.PHANCONG", conn);
-            try
-            {
-                conn.Open();
-                OracleDataReader rd = cmd.ExecuteReader();
-  
-                conn.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
         }
 
         private void dsdvButton_Click(object sender, EventArgs e)

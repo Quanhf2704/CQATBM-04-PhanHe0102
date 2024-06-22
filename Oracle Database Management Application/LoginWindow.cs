@@ -117,6 +117,9 @@ namespace Oracle_Database_Management_Application
                         MessageBox.Show("Đăng nhập với vai trò sinh viên");
                         Account.username = textUsername.Text;
                         Account.password = textPass.Text;
+                        SINHVIEN_Windows sINHVIEN_Windows = new SINHVIEN_Windows();
+                        sINHVIEN_Windows.Show();
+                        this.Hide();
                     }
 
 
