@@ -87,6 +87,9 @@ namespace Oracle_Database_Management_Application
                         MessageBox.Show("Đăng nhập với vai trò trưởng đơn vị");
                         Account.username = textUsername.Text;
                         Account.password = textPass.Text;
+                        TDV_Windows tdvWindows = new TDV_Windows();
+                        tdvWindows.Show();
+                        this.Hide();
                     }
                     else if (result == 3)
                     {

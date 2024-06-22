@@ -279,6 +279,60 @@
     <Compile Include="SV_ThongTinCaNhan_Windows.Designer.cs">
       <DependentUpon>SV_ThongTinCaNhan_Windows.cs</DependentUpon>
     </Compile>
+    <Compile Include="TDV_DK_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_DK_Windows.Designer.cs">
+      <DependentUpon>TDV_DK_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_DSDV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_DSDV_Windows.Designer.cs">
+      <DependentUpon>TDV_DSDV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_DSHP_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_DSHP_Windows.Designer.cs">
+      <DependentUpon>TDV_DSHP_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_DSSV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_DSSV_Windows.Designer.cs">
+      <DependentUpon>TDV_DSSV_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_KHMO_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_KHMO_Windows.Designer.cs">
+      <DependentUpon>TDV_KHMO_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_NS_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_NS_Windows.Designer.cs">
+      <DependentUpon>TDV_NS_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_PHANCONG_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_PHANCONG_Windows.Designer.cs">
+      <DependentUpon>TDV_PHANCONG_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_THONGBAO_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_THONGBAO_Windows.Designer.cs">
+      <DependentUpon>TDV_THONGBAO_Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TDV_Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TDV_Windows.Designer.cs">
+      <DependentUpon>TDV_Windows.cs</DependentUpon>
+    </Compile>
     <Compile Include="TK_DK_Windows.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -485,6 +539,30 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SV_ThongTinCaNhan_Windows.resx">
       <DependentUpon>SV_ThongTinCaNhan_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_DK_Windows.resx">
+      <DependentUpon>TDV_DK_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_DSDV_Windows.resx">
+      <DependentUpon>TDV_DSDV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_DSHP_Windows.resx">
+      <DependentUpon>TDV_DSHP_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_DSSV_Windows.resx">
+      <DependentUpon>TDV_DSSV_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_KHMO_Windows.resx">
+      <DependentUpon>TDV_KHMO_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_NS_Windows.resx">
+      <DependentUpon>TDV_NS_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_PHANCONG_Windows.resx">
+      <DependentUpon>TDV_PHANCONG_Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TDV_THONGBAO_Windows.resx">
+      <DependentUpon>TDV_THONGBAO_Windows.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TK_DK_Windows.resx">
       <DependentUpon>TK_DK_Windows.cs</DependentUpon>
