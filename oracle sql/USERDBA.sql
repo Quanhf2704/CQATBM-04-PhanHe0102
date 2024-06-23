@@ -495,8 +495,27 @@ UPDATE THONGBAO SET OLS_COLUMN = TO_DATA_LABEL('CHINHSACH', 'TDV:KHMT:CS1') WHER
 INSERT INTO THONGBAO VALUES (24,    't4: Thông báo đến trưởng bộ môn KHMT tham dự lễ tốt nghiệp',      'Trưởng đơn vị',       null, null, null);
 UPDATE THONGBAO SET OLS_COLUMN = TO_DATA_LABEL('CHINHSACH', 'TDV:KHMT') WHERE ID = 24;
 
+--CÂU H
+--H1: t5: phát tán thông báo đến tất cả user trong database
+INSERT INTO THONGBAO VALUES (25,    't5: Thông báo đến toàn trường lịch sửa chữa mạng lưới điện 2 cơ sở.',      null,       null, null, null);
+UPDATE THONGBAO SET OLS_COLUMN = TO_DATA_LABEL('CHINHSACH', 'SV') WHERE ID = 25;
+--H2: t6: phát đến đến toàn đội ngũ nhân viên trong trường
+INSERT INTO THONGBAO VALUES (26,    't6: Thông báo đến đội ngũ nhân viên kế hoạch giảng dạy năm 2025.',      null,       null, null, null);
+UPDATE THONGBAO SET OLS_COLUMN = TO_DATA_LABEL('CHINHSACH', 'NV') WHERE ID = 26;
+--H3: t7: phát tán đến nhân viên của bộ môn công nghệ tri thức 
+INSERT INTO THONGBAO VALUES (27,    't7: Thông báo đến đội ngũ nhân viên bộ môn công nghệ tri thức cơ sở 2 thời điêm kết thúc năm học.',      'Nhân viên',  'CNTT', 'CS2', null);
+UPDATE THONGBAO SET OLS_COLUMN = TO_DATA_LABEL('CHINHSACH', 'NV:CNTT:CS2') WHERE ID = 27;
+
 --TẠO USER
---TẠO USER
-GRANT SELECT ON THONGBAO TO TRUONGKHOA, TRUONGDONVI, GIAOVU, SINHVIEN;
+CREATE USER NV003 IDENTIFIED BY 123;
+CREATE USER NV004 IDENTIFIED BY 123;
+CREATE USER NV005 IDENTIFIED BY 123;
+GRANT CONNECT TO NV003, NV004, NV005;
+EXEC USERDBA.grant_role_for_user('TRUONGDONVI', 'NV003');
+EXEC USERDBA.grant_role_for_user('TRUONGDONVI', 'NV004');
+EXEC USERDBA.grant_role_for_user('TRUONGDONVI', 'NV005');
+
+
+GRANT SELECT ON THONGBAO TO NV001, NV002, NV003, NV004, NV005,NV008, SV0001;
 
 SELECT * FROM THONGBAO;

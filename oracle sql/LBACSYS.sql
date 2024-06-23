@@ -117,13 +117,13 @@ EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 
 --CÂU C
 EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 'NV008', max_read_label => 'GVU:HTTT,CNPM,KHMT,CNTT,TGMT,MMT:TRUONG');
 --CÂU D
-EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 'NV002', max_read_label => 'TDV:CNTT:CS2');
+EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 'NV003', max_read_label => 'TDV:CNTT:CS2');
 --CÂU E
 EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 'SV0001', max_read_label => 'SV:HTTT:CS1');
 --CÂU F
 EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 'NV004', max_read_label => 'TDV:KHMT:CS1');
 --CÂU G
-EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 'NV004', max_read_label => 'TDV:KHMT:CS2');
+EXECUTE SA_USER_ADMIN.SET_USER_LABELS (policy_name => 'CHINHSACH', user_name => 'NV005', max_read_label => 'TDV:KHMT:CS2');
 
 --LỆNH TEST
 --SELECT * FROM USERDBA.THONGBAO;
