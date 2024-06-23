@@ -38,17 +38,19 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.label1.Location = new System.Drawing.Point(141, 27);
+            this.label1.Location = new System.Drawing.Point(125, 22);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(494, 37);
+            this.label1.Size = new System.Drawing.Size(413, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "QUẢN LÝ ĐĂNG KÝ HỌC PHẦN";
             // 
             // backButton
             // 
-            this.backButton.Location = new System.Drawing.Point(695, 398);
+            this.backButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.backButton.Location = new System.Drawing.Point(618, 318);
+            this.backButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.backButton.Name = "backButton";
-            this.backButton.Size = new System.Drawing.Size(93, 40);
+            this.backButton.Size = new System.Drawing.Size(83, 32);
             this.backButton.TabIndex = 1;
             this.backButton.Text = "Back";
             this.backButton.UseVisualStyleBackColor = true;
@@ -57,21 +59,24 @@
             // TK_DK_dataGridView
             // 
             this.TK_DK_dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.TK_DK_dataGridView.Location = new System.Drawing.Point(12, 82);
+            this.TK_DK_dataGridView.Location = new System.Drawing.Point(11, 66);
+            this.TK_DK_dataGridView.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.TK_DK_dataGridView.Name = "TK_DK_dataGridView";
             this.TK_DK_dataGridView.RowHeadersWidth = 62;
             this.TK_DK_dataGridView.RowTemplate.Height = 28;
-            this.TK_DK_dataGridView.Size = new System.Drawing.Size(776, 310);
+            this.TK_DK_dataGridView.Size = new System.Drawing.Size(690, 248);
             this.TK_DK_dataGridView.TabIndex = 2;
             // 
             // TK_DK_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.CancelButton = this.backButton;
+            this.ClientSize = new System.Drawing.Size(711, 360);
             this.Controls.Add(this.TK_DK_dataGridView);
             this.Controls.Add(this.backButton);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "TK_DK_Windows";
             this.Text = "Quản lý đăng ký học phần";
             this.Load += new System.EventHandler(this.TK_DK_Windows_Load);

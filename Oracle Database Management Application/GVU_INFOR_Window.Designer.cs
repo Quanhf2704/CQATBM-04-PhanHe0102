@@ -54,9 +54,9 @@
             // 
             this.lblHRInfo.AutoSize = true;
             this.lblHRInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHRInfo.Location = new System.Drawing.Point(288, 9);
+            this.lblHRInfo.Location = new System.Drawing.Point(256, 7);
             this.lblHRInfo.Name = "lblHRInfo";
-            this.lblHRInfo.Size = new System.Drawing.Size(417, 55);
+            this.lblHRInfo.Size = new System.Drawing.Size(345, 46);
             this.lblHRInfo.TabIndex = 2;
             this.lblHRInfo.Text = "Thông tin Nhân sự";
             this.lblHRInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -65,9 +65,9 @@
             // 
             this.lblEmpCode.AutoSize = true;
             this.lblEmpCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmpCode.Location = new System.Drawing.Point(162, 129);
+            this.lblEmpCode.Location = new System.Drawing.Point(144, 103);
             this.lblEmpCode.Name = "lblEmpCode";
-            this.lblEmpCode.Size = new System.Drawing.Size(117, 22);
+            this.lblEmpCode.Size = new System.Drawing.Size(95, 18);
             this.lblEmpCode.TabIndex = 3;
             this.lblEmpCode.Text = "Mã nhân viên";
             this.lblEmpCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -76,9 +76,9 @@
             // 
             this.lblName.AutoSize = true;
             this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(162, 213);
+            this.lblName.Location = new System.Drawing.Point(144, 170);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(63, 22);
+            this.lblName.Size = new System.Drawing.Size(52, 18);
             this.lblName.TabIndex = 4;
             this.lblName.Text = "Họ tên";
             this.lblName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -87,9 +87,9 @@
             // 
             this.lblSex.AutoSize = true;
             this.lblSex.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSex.Location = new System.Drawing.Point(162, 301);
+            this.lblSex.Location = new System.Drawing.Point(144, 241);
             this.lblSex.Name = "lblSex";
-            this.lblSex.Size = new System.Drawing.Size(46, 22);
+            this.lblSex.Size = new System.Drawing.Size(37, 18);
             this.lblSex.TabIndex = 5;
             this.lblSex.Text = "Phái";
             this.lblSex.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -98,9 +98,9 @@
             // 
             this.lblBirthday.AutoSize = true;
             this.lblBirthday.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBirthday.Location = new System.Drawing.Point(162, 389);
+            this.lblBirthday.Location = new System.Drawing.Point(144, 311);
             this.lblBirthday.Name = "lblBirthday";
-            this.lblBirthday.Size = new System.Drawing.Size(90, 22);
+            this.lblBirthday.Size = new System.Drawing.Size(73, 18);
             this.lblBirthday.TabIndex = 6;
             this.lblBirthday.Text = "Ngày sinh";
             this.lblBirthday.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -109,9 +109,9 @@
             // 
             this.lblSubsidy.AutoSize = true;
             this.lblSubsidy.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSubsidy.Location = new System.Drawing.Point(533, 129);
+            this.lblSubsidy.Location = new System.Drawing.Point(474, 103);
             this.lblSubsidy.Name = "lblSubsidy";
-            this.lblSubsidy.Size = new System.Drawing.Size(76, 22);
+            this.lblSubsidy.Size = new System.Drawing.Size(62, 18);
             this.lblSubsidy.TabIndex = 7;
             this.lblSubsidy.Text = "Phụ cấp";
             this.lblSubsidy.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -120,9 +120,9 @@
             // 
             this.lblPhoneNumber.AutoSize = true;
             this.lblPhoneNumber.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPhoneNumber.Location = new System.Drawing.Point(533, 213);
+            this.lblPhoneNumber.Location = new System.Drawing.Point(474, 170);
             this.lblPhoneNumber.Name = "lblPhoneNumber";
-            this.lblPhoneNumber.Size = new System.Drawing.Size(91, 22);
+            this.lblPhoneNumber.Size = new System.Drawing.Size(74, 18);
             this.lblPhoneNumber.TabIndex = 8;
             this.lblPhoneNumber.Text = "Điện thoại";
             this.lblPhoneNumber.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -131,9 +131,9 @@
             // 
             this.lblRole.AutoSize = true;
             this.lblRole.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRole.Location = new System.Drawing.Point(533, 301);
+            this.lblRole.Location = new System.Drawing.Point(474, 241);
             this.lblRole.Name = "lblRole";
-            this.lblRole.Size = new System.Drawing.Size(62, 22);
+            this.lblRole.Size = new System.Drawing.Size(50, 18);
             this.lblRole.TabIndex = 9;
             this.lblRole.Text = "Vai trò";
             this.lblRole.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -142,19 +142,20 @@
             // 
             this.lblUnitCode.AutoSize = true;
             this.lblUnitCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUnitCode.Location = new System.Drawing.Point(533, 389);
+            this.lblUnitCode.Location = new System.Drawing.Point(474, 311);
             this.lblUnitCode.Name = "lblUnitCode";
-            this.lblUnitCode.Size = new System.Drawing.Size(87, 22);
+            this.lblUnitCode.Size = new System.Drawing.Size(72, 18);
             this.lblUnitCode.TabIndex = 10;
             this.lblUnitCode.Text = "Mã đơn vị";
             this.lblUnitCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(858, 493);
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnBack.Location = new System.Drawing.Point(763, 394);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(108, 40);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 13;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -162,74 +163,82 @@
             // 
             // txtEmpCode
             // 
-            this.txtEmpCode.Location = new System.Drawing.Point(285, 125);
+            this.txtEmpCode.Location = new System.Drawing.Point(253, 100);
+            this.txtEmpCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtEmpCode.Name = "txtEmpCode";
             this.txtEmpCode.ReadOnly = true;
-            this.txtEmpCode.Size = new System.Drawing.Size(192, 26);
+            this.txtEmpCode.Size = new System.Drawing.Size(171, 22);
             this.txtEmpCode.TabIndex = 14;
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(285, 209);
+            this.txtName.Location = new System.Drawing.Point(253, 167);
+            this.txtName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtName.Name = "txtName";
             this.txtName.ReadOnly = true;
-            this.txtName.Size = new System.Drawing.Size(192, 26);
+            this.txtName.Size = new System.Drawing.Size(171, 22);
             this.txtName.TabIndex = 15;
             // 
             // txtSex
             // 
-            this.txtSex.Location = new System.Drawing.Point(285, 297);
+            this.txtSex.Location = new System.Drawing.Point(253, 238);
+            this.txtSex.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtSex.Name = "txtSex";
             this.txtSex.ReadOnly = true;
-            this.txtSex.Size = new System.Drawing.Size(192, 26);
+            this.txtSex.Size = new System.Drawing.Size(171, 22);
             this.txtSex.TabIndex = 16;
             // 
             // txtBirthday
             // 
-            this.txtBirthday.Location = new System.Drawing.Point(285, 388);
+            this.txtBirthday.Location = new System.Drawing.Point(253, 310);
+            this.txtBirthday.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtBirthday.Name = "txtBirthday";
             this.txtBirthday.ReadOnly = true;
-            this.txtBirthday.Size = new System.Drawing.Size(192, 26);
+            this.txtBirthday.Size = new System.Drawing.Size(171, 22);
             this.txtBirthday.TabIndex = 17;
             // 
             // txtPhoneNumber
             // 
-            this.txtPhoneNumber.Location = new System.Drawing.Point(630, 209);
+            this.txtPhoneNumber.Location = new System.Drawing.Point(560, 167);
+            this.txtPhoneNumber.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtPhoneNumber.Name = "txtPhoneNumber";
             this.txtPhoneNumber.ReadOnly = true;
-            this.txtPhoneNumber.Size = new System.Drawing.Size(192, 26);
+            this.txtPhoneNumber.Size = new System.Drawing.Size(171, 22);
             this.txtPhoneNumber.TabIndex = 18;
             // 
             // txtSubsidy
             // 
-            this.txtSubsidy.Location = new System.Drawing.Point(630, 125);
+            this.txtSubsidy.Location = new System.Drawing.Point(560, 100);
+            this.txtSubsidy.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtSubsidy.Name = "txtSubsidy";
             this.txtSubsidy.ReadOnly = true;
-            this.txtSubsidy.Size = new System.Drawing.Size(192, 26);
+            this.txtSubsidy.Size = new System.Drawing.Size(171, 22);
             this.txtSubsidy.TabIndex = 19;
             // 
             // txtRole
             // 
-            this.txtRole.Location = new System.Drawing.Point(630, 297);
+            this.txtRole.Location = new System.Drawing.Point(560, 238);
+            this.txtRole.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtRole.Name = "txtRole";
             this.txtRole.ReadOnly = true;
-            this.txtRole.Size = new System.Drawing.Size(192, 26);
+            this.txtRole.Size = new System.Drawing.Size(171, 22);
             this.txtRole.TabIndex = 20;
             // 
             // txtUnitCode
             // 
-            this.txtUnitCode.Location = new System.Drawing.Point(630, 389);
+            this.txtUnitCode.Location = new System.Drawing.Point(560, 311);
+            this.txtUnitCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtUnitCode.Name = "txtUnitCode";
             this.txtUnitCode.ReadOnly = true;
-            this.txtUnitCode.Size = new System.Drawing.Size(192, 26);
+            this.txtUnitCode.Size = new System.Drawing.Size(171, 22);
             this.txtUnitCode.TabIndex = 21;
             // 
             // btnChangeInfo
             // 
-            this.btnChangeInfo.Location = new System.Drawing.Point(722, 493);
+            this.btnChangeInfo.Location = new System.Drawing.Point(642, 394);
             this.btnChangeInfo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnChangeInfo.Name = "btnChangeInfo";
-            this.btnChangeInfo.Size = new System.Drawing.Size(130, 40);
+            this.btnChangeInfo.Size = new System.Drawing.Size(116, 32);
             this.btnChangeInfo.TabIndex = 22;
             this.btnChangeInfo.Text = "Sửa thông tin";
             this.btnChangeInfo.UseVisualStyleBackColor = true;
@@ -237,20 +246,21 @@
             // 
             // btnRefresh
             // 
-            this.btnRefresh.Location = new System.Drawing.Point(586, 493);
+            this.btnRefresh.Location = new System.Drawing.Point(521, 394);
             this.btnRefresh.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRefresh.Name = "btnRefresh";
-            this.btnRefresh.Size = new System.Drawing.Size(130, 40);
+            this.btnRefresh.Size = new System.Drawing.Size(116, 32);
             this.btnRefresh.TabIndex = 23;
             this.btnRefresh.Text = "Làm mới";
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
-            // HRWindow
+            // GVU_INFOR_Window
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 544);
+            this.CancelButton = this.btnBack;
+            this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.btnChangeInfo);
             this.Controls.Add(this.txtUnitCode);
@@ -271,7 +281,8 @@
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.lblEmpCode);
             this.Controls.Add(this.lblHRInfo);
-            this.Name = "HRWindow";
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Name = "GVU_INFOR_Window";
             this.Text = "Thông tin Nhân sự";
             this.Load += new System.EventHandler(this.HRWindow_Load);
             this.ResumeLayout(false);

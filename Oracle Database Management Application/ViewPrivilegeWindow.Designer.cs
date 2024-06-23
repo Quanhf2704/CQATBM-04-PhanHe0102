@@ -58,6 +58,7 @@
             // 
             // btnBack
             // 
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnBack.Location = new System.Drawing.Point(763, 394);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
@@ -105,7 +106,7 @@
             this.lblPriv.AutoSize = true;
             this.lblPriv.Location = new System.Drawing.Point(535, 114);
             this.lblPriv.Name = "lblPriv";
-            this.lblPriv.Size = new System.Drawing.Size(62, 17);
+            this.lblPriv.Size = new System.Drawing.Size(60, 16);
             this.lblPriv.TabIndex = 18;
             this.lblPriv.Text = "Privilege";
             // 
@@ -114,7 +115,7 @@
             this.lblObject.AutoSize = true;
             this.lblObject.Location = new System.Drawing.Point(535, 149);
             this.lblObject.Name = "lblObject";
-            this.lblObject.Size = new System.Drawing.Size(49, 17);
+            this.lblObject.Size = new System.Drawing.Size(46, 16);
             this.lblObject.TabIndex = 19;
             this.lblObject.Text = "Object";
             // 
@@ -123,7 +124,7 @@
             this.lblUserRole.AutoSize = true;
             this.lblUserRole.Location = new System.Drawing.Point(535, 177);
             this.lblUserRole.Name = "lblUserRole";
-            this.lblUserRole.Size = new System.Drawing.Size(71, 17);
+            this.lblUserRole.Size = new System.Drawing.Size(69, 16);
             this.lblUserRole.TabIndex = 20;
             this.lblUserRole.Text = "User/Role";
             // 
@@ -153,7 +154,7 @@
             this.checkBoxGrantOption.AutoSize = true;
             this.checkBoxGrantOption.Location = new System.Drawing.Point(630, 205);
             this.checkBoxGrantOption.Name = "checkBoxGrantOption";
-            this.checkBoxGrantOption.Size = new System.Drawing.Size(140, 21);
+            this.checkBoxGrantOption.Size = new System.Drawing.Size(128, 20);
             this.checkBoxGrantOption.TabIndex = 24;
             this.checkBoxGrantOption.Text = "with Grant Option";
             this.checkBoxGrantOption.UseVisualStyleBackColor = true;
@@ -184,6 +185,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnBack;
             this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnGrantforRole);
             this.Controls.Add(this.btnRevoke);

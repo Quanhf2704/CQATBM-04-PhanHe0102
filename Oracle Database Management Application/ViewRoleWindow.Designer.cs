@@ -96,7 +96,7 @@ namespace Oracle_Database_Management_Application
             this.lblRole.AutoSize = true;
             this.lblRole.Location = new System.Drawing.Point(528, 116);
             this.lblRole.Name = "lblRole";
-            this.lblRole.Size = new System.Drawing.Size(37, 17);
+            this.lblRole.Size = new System.Drawing.Size(36, 16);
             this.lblRole.TabIndex = 24;
             this.lblRole.Text = "Role";
             // 
@@ -105,7 +105,7 @@ namespace Oracle_Database_Management_Application
             this.lblUser.AutoSize = true;
             this.lblUser.Location = new System.Drawing.Point(528, 147);
             this.lblUser.Name = "lblUser";
-            this.lblUser.Size = new System.Drawing.Size(38, 17);
+            this.lblUser.Size = new System.Drawing.Size(36, 16);
             this.lblUser.TabIndex = 25;
             this.lblUser.Text = "User";
             // 
@@ -166,6 +166,7 @@ namespace Oracle_Database_Management_Application
             // 
             // btnBack
             // 
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnBack.Location = new System.Drawing.Point(761, 392);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
@@ -179,6 +180,7 @@ namespace Oracle_Database_Management_Application
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnBack;
             this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnRevokeRole);

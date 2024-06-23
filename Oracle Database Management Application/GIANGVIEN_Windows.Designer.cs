@@ -44,18 +44,20 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(318, 21);
+            this.label1.Location = new System.Drawing.Point(442, 21);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(132, 25);
+            this.label1.Size = new System.Drawing.Size(173, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "GIẢNG VIÊN";
             // 
             // backbutton
             // 
             this.backbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.backbutton.Location = new System.Drawing.Point(690, 404);
+            this.backbutton.Location = new System.Drawing.Point(920, 497);
+            this.backbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.backbutton.Name = "backbutton";
-            this.backbutton.Size = new System.Drawing.Size(98, 34);
+            this.backbutton.Size = new System.Drawing.Size(131, 42);
             this.backbutton.TabIndex = 12;
             this.backbutton.Text = "Quay lại";
             this.backbutton.UseVisualStyleBackColor = true;
@@ -64,9 +66,10 @@
             // khmobutton
             // 
             this.khmobutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.khmobutton.Location = new System.Drawing.Point(90, 257);
+            this.khmobutton.Location = new System.Drawing.Point(146, 312);
+            this.khmobutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.khmobutton.Name = "khmobutton";
-            this.khmobutton.Size = new System.Drawing.Size(230, 47);
+            this.khmobutton.Size = new System.Drawing.Size(307, 68);
             this.khmobutton.TabIndex = 11;
             this.khmobutton.Text = "Kế hoạch mở";
             this.khmobutton.UseVisualStyleBackColor = true;
@@ -75,9 +78,10 @@
             // hpbutton
             // 
             this.hpbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hpbutton.Location = new System.Drawing.Point(493, 166);
+            this.hpbutton.Location = new System.Drawing.Point(598, 204);
+            this.hpbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.hpbutton.Name = "hpbutton";
-            this.hpbutton.Size = new System.Drawing.Size(222, 55);
+            this.hpbutton.Size = new System.Drawing.Size(296, 68);
             this.hpbutton.TabIndex = 10;
             this.hpbutton.Text = "Danh sách học phần";
             this.hpbutton.UseVisualStyleBackColor = true;
@@ -86,9 +90,10 @@
             // dvbutton
             // 
             this.dvbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dvbutton.Location = new System.Drawing.Point(90, 166);
+            this.dvbutton.Location = new System.Drawing.Point(146, 98);
+            this.dvbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dvbutton.Name = "dvbutton";
-            this.dvbutton.Size = new System.Drawing.Size(230, 55);
+            this.dvbutton.Size = new System.Drawing.Size(307, 68);
             this.dvbutton.TabIndex = 9;
             this.dvbutton.Text = "Danh sách đơn vị";
             this.dvbutton.UseVisualStyleBackColor = true;
@@ -97,9 +102,10 @@
             // svbutton
             // 
             this.svbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.svbutton.Location = new System.Drawing.Point(493, 86);
+            this.svbutton.Location = new System.Drawing.Point(598, 98);
+            this.svbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.svbutton.Name = "svbutton";
-            this.svbutton.Size = new System.Drawing.Size(222, 42);
+            this.svbutton.Size = new System.Drawing.Size(296, 68);
             this.svbutton.TabIndex = 8;
             this.svbutton.Text = "Danh sách sinh viên";
             this.svbutton.UseVisualStyleBackColor = true;
@@ -108,9 +114,10 @@
             // viewInforbutton
             // 
             this.viewInforbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.viewInforbutton.Location = new System.Drawing.Point(90, 86);
+            this.viewInforbutton.Location = new System.Drawing.Point(146, 204);
+            this.viewInforbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.viewInforbutton.Name = "viewInforbutton";
-            this.viewInforbutton.Size = new System.Drawing.Size(230, 42);
+            this.viewInforbutton.Size = new System.Drawing.Size(307, 68);
             this.viewInforbutton.TabIndex = 7;
             this.viewInforbutton.Text = "Xem thông tin cá nhân";
             this.viewInforbutton.UseVisualStyleBackColor = true;
@@ -119,9 +126,10 @@
             // PHANCONGbutton
             // 
             this.PHANCONGbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PHANCONGbutton.Location = new System.Drawing.Point(90, 343);
+            this.PHANCONGbutton.Location = new System.Drawing.Point(146, 415);
+            this.PHANCONGbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.PHANCONGbutton.Name = "PHANCONGbutton";
-            this.PHANCONGbutton.Size = new System.Drawing.Size(230, 45);
+            this.PHANCONGbutton.Size = new System.Drawing.Size(307, 68);
             this.PHANCONGbutton.TabIndex = 13;
             this.PHANCONGbutton.Text = "Xem phân công";
             this.PHANCONGbutton.UseVisualStyleBackColor = true;
@@ -130,9 +138,10 @@
             // SVDKbutton
             // 
             this.SVDKbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SVDKbutton.Location = new System.Drawing.Point(493, 259);
+            this.SVDKbutton.Location = new System.Drawing.Point(598, 312);
+            this.SVDKbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.SVDKbutton.Name = "SVDKbutton";
-            this.SVDKbutton.Size = new System.Drawing.Size(222, 45);
+            this.SVDKbutton.Size = new System.Drawing.Size(296, 68);
             this.SVDKbutton.TabIndex = 14;
             this.SVDKbutton.Text = "Xem sinh viên đăng kí vào lớp";
             this.SVDKbutton.UseVisualStyleBackColor = true;
@@ -141,9 +150,10 @@
             // CAPNHATDIEMbutton
             // 
             this.CAPNHATDIEMbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CAPNHATDIEMbutton.Location = new System.Drawing.Point(493, 343);
+            this.CAPNHATDIEMbutton.Location = new System.Drawing.Point(598, 415);
+            this.CAPNHATDIEMbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.CAPNHATDIEMbutton.Name = "CAPNHATDIEMbutton";
-            this.CAPNHATDIEMbutton.Size = new System.Drawing.Size(222, 45);
+            this.CAPNHATDIEMbutton.Size = new System.Drawing.Size(296, 68);
             this.CAPNHATDIEMbutton.TabIndex = 15;
             this.CAPNHATDIEMbutton.Text = "Cập nhật điểm số";
             this.CAPNHATDIEMbutton.UseVisualStyleBackColor = true;
@@ -151,9 +161,10 @@
             // 
             // GIANGVIEN_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.CancelButton = this.backbutton;
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.CAPNHATDIEMbutton);
             this.Controls.Add(this.SVDKbutton);
             this.Controls.Add(this.PHANCONGbutton);
@@ -164,6 +175,7 @@
             this.Controls.Add(this.svbutton);
             this.Controls.Add(this.viewInforbutton);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "GIANGVIEN_Windows";
             this.Text = "Giảng viên";
             this.Load += new System.EventHandler(this.GIANGVIEN_Windows_Load);

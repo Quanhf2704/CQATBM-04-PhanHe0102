@@ -36,9 +36,11 @@
             // 
             // backButton
             // 
-            this.backButton.Location = new System.Drawing.Point(698, 398);
+            this.backButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.backButton.Location = new System.Drawing.Point(620, 318);
+            this.backButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.backButton.Name = "backButton";
-            this.backButton.Size = new System.Drawing.Size(90, 40);
+            this.backButton.Size = new System.Drawing.Size(80, 32);
             this.backButton.TabIndex = 0;
             this.backButton.Text = "Back";
             this.backButton.UseVisualStyleBackColor = true;
@@ -48,30 +50,33 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(254, 31);
+            this.label1.Location = new System.Drawing.Point(226, 25);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(244, 37);
+            this.label1.Size = new System.Drawing.Size(206, 31);
             this.label1.TabIndex = 1;
             this.label1.Text = "KẾ HOẠCH MỞ";
             // 
             // TK_KHM_dataGridView
             // 
             this.TK_KHM_dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.TK_KHM_dataGridView.Location = new System.Drawing.Point(12, 91);
+            this.TK_KHM_dataGridView.Location = new System.Drawing.Point(11, 73);
+            this.TK_KHM_dataGridView.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.TK_KHM_dataGridView.Name = "TK_KHM_dataGridView";
             this.TK_KHM_dataGridView.RowHeadersWidth = 62;
             this.TK_KHM_dataGridView.RowTemplate.Height = 28;
-            this.TK_KHM_dataGridView.Size = new System.Drawing.Size(776, 301);
+            this.TK_KHM_dataGridView.Size = new System.Drawing.Size(690, 241);
             this.TK_KHM_dataGridView.TabIndex = 2;
             // 
             // TK_KHMO_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.CancelButton = this.backButton;
+            this.ClientSize = new System.Drawing.Size(711, 360);
             this.Controls.Add(this.TK_KHM_dataGridView);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.backButton);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "TK_KHMO_Windows";
             this.Text = "Kế hoạch mở";
             this.Load += new System.EventHandler(this.TK_KHMO_Windows_Load);

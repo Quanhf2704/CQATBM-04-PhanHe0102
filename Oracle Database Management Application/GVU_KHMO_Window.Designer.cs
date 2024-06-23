@@ -47,10 +47,10 @@
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(630, 495);
+            this.btnAdd.Location = new System.Drawing.Point(560, 396);
             this.btnAdd.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(108, 40);
+            this.btnAdd.Size = new System.Drawing.Size(96, 32);
             this.btnAdd.TabIndex = 32;
             this.btnAdd.Text = "Thêm mới";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -58,10 +58,10 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(744, 495);
+            this.btnUpdate.Location = new System.Drawing.Point(661, 396);
             this.btnUpdate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(108, 40);
+            this.btnUpdate.Size = new System.Drawing.Size(96, 32);
             this.btnUpdate.TabIndex = 31;
             this.btnUpdate.Text = "Cập nhật";
             this.btnUpdate.UseVisualStyleBackColor = true;
@@ -69,10 +69,11 @@
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(858, 495);
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnBack.Location = new System.Drawing.Point(763, 396);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(108, 40);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 30;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -81,53 +82,56 @@
             // dataGridViewListOpenPlan
             // 
             this.dataGridViewListOpenPlan.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewListOpenPlan.Location = new System.Drawing.Point(36, 68);
+            this.dataGridViewListOpenPlan.Location = new System.Drawing.Point(32, 54);
             this.dataGridViewListOpenPlan.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridViewListOpenPlan.Name = "dataGridViewListOpenPlan";
             this.dataGridViewListOpenPlan.RowHeadersWidth = 62;
             this.dataGridViewListOpenPlan.RowTemplate.Height = 28;
-            this.dataGridViewListOpenPlan.Size = new System.Drawing.Size(573, 423);
+            this.dataGridViewListOpenPlan.Size = new System.Drawing.Size(509, 338);
             this.dataGridViewListOpenPlan.TabIndex = 29;
             // 
             // lblOpenPlanInfo
             // 
             this.lblOpenPlanInfo.AutoSize = true;
             this.lblOpenPlanInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblOpenPlanInfo.Location = new System.Drawing.Point(238, 9);
+            this.lblOpenPlanInfo.Location = new System.Drawing.Point(212, 7);
             this.lblOpenPlanInfo.Name = "lblOpenPlanInfo";
-            this.lblOpenPlanInfo.Size = new System.Drawing.Size(521, 55);
+            this.lblOpenPlanInfo.Size = new System.Drawing.Size(433, 46);
             this.lblOpenPlanInfo.TabIndex = 28;
             this.lblOpenPlanInfo.Text = "Thông tin Kế hoạch mở";
             this.lblOpenPlanInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // txtEducationProgram
             // 
-            this.txtEducationProgram.Location = new System.Drawing.Point(835, 204);
+            this.txtEducationProgram.Location = new System.Drawing.Point(742, 163);
+            this.txtEducationProgram.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtEducationProgram.Name = "txtEducationProgram";
-            this.txtEducationProgram.Size = new System.Drawing.Size(131, 26);
+            this.txtEducationProgram.Size = new System.Drawing.Size(117, 22);
             this.txtEducationProgram.TabIndex = 59;
             // 
             // txtYear
             // 
-            this.txtYear.Location = new System.Drawing.Point(752, 164);
+            this.txtYear.Location = new System.Drawing.Point(668, 131);
+            this.txtYear.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtYear.Name = "txtYear";
-            this.txtYear.Size = new System.Drawing.Size(214, 26);
+            this.txtYear.Size = new System.Drawing.Size(191, 22);
             this.txtYear.TabIndex = 58;
             // 
             // txtSemester
             // 
-            this.txtSemester.Location = new System.Drawing.Point(752, 124);
+            this.txtSemester.Location = new System.Drawing.Point(668, 99);
+            this.txtSemester.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtSemester.Name = "txtSemester";
-            this.txtSemester.Size = new System.Drawing.Size(214, 26);
+            this.txtSemester.Size = new System.Drawing.Size(191, 22);
             this.txtSemester.TabIndex = 57;
             // 
             // lblEducationProgram
             // 
             this.lblEducationProgram.AutoSize = true;
             this.lblEducationProgram.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEducationProgram.Location = new System.Drawing.Point(626, 204);
+            this.lblEducationProgram.Location = new System.Drawing.Point(556, 163);
             this.lblEducationProgram.Name = "lblEducationProgram";
-            this.lblEducationProgram.Size = new System.Drawing.Size(203, 22);
+            this.lblEducationProgram.Size = new System.Drawing.Size(168, 18);
             this.lblEducationProgram.TabIndex = 56;
             this.lblEducationProgram.Text = "Mã chương trình đào tạo";
             this.lblEducationProgram.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -136,9 +140,9 @@
             // 
             this.lblYear.AutoSize = true;
             this.lblYear.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblYear.Location = new System.Drawing.Point(626, 164);
+            this.lblYear.Location = new System.Drawing.Point(556, 131);
             this.lblYear.Name = "lblYear";
-            this.lblYear.Size = new System.Drawing.Size(47, 22);
+            this.lblYear.Size = new System.Drawing.Size(40, 18);
             this.lblYear.TabIndex = 55;
             this.lblYear.Text = "Năm";
             this.lblYear.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -147,47 +151,49 @@
             // 
             this.lblSemester.AutoSize = true;
             this.lblSemester.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSemester.Location = new System.Drawing.Point(626, 124);
+            this.lblSemester.Location = new System.Drawing.Point(556, 99);
             this.lblSemester.Name = "lblSemester";
-            this.lblSemester.Size = new System.Drawing.Size(60, 22);
+            this.lblSemester.Size = new System.Drawing.Size(51, 18);
             this.lblSemester.TabIndex = 54;
             this.lblSemester.Text = "Học kì";
             this.lblSemester.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // txtCourseCode
             // 
-            this.txtCourseCode.Location = new System.Drawing.Point(752, 82);
+            this.txtCourseCode.Location = new System.Drawing.Point(668, 66);
+            this.txtCourseCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtCourseCode.Name = "txtCourseCode";
-            this.txtCourseCode.Size = new System.Drawing.Size(214, 26);
+            this.txtCourseCode.Size = new System.Drawing.Size(191, 22);
             this.txtCourseCode.TabIndex = 53;
             // 
             // lblCourseCode
             // 
             this.lblCourseCode.AutoSize = true;
             this.lblCourseCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCourseCode.Location = new System.Drawing.Point(626, 82);
+            this.lblCourseCode.Location = new System.Drawing.Point(556, 66);
             this.lblCourseCode.Name = "lblCourseCode";
-            this.lblCourseCode.Size = new System.Drawing.Size(113, 22);
+            this.lblCourseCode.Size = new System.Drawing.Size(94, 18);
             this.lblCourseCode.TabIndex = 52;
             this.lblCourseCode.Text = "Mã học phần";
             this.lblCourseCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // btnRefresh
             // 
-            this.btnRefresh.Location = new System.Drawing.Point(516, 495);
+            this.btnRefresh.Location = new System.Drawing.Point(459, 396);
             this.btnRefresh.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRefresh.Name = "btnRefresh";
-            this.btnRefresh.Size = new System.Drawing.Size(108, 40);
+            this.btnRefresh.Size = new System.Drawing.Size(96, 32);
             this.btnRefresh.TabIndex = 60;
             this.btnRefresh.Text = "Làm mới";
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
-            // OpenPlanWindow
+            // GVU_KHMO_Window
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 544);
+            this.CancelButton = this.btnBack;
+            this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.txtEducationProgram);
             this.Controls.Add(this.txtYear);
@@ -202,7 +208,8 @@
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.dataGridViewListOpenPlan);
             this.Controls.Add(this.lblOpenPlanInfo);
-            this.Name = "OpenPlanWindow";
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Name = "GVU_KHMO_Window";
             this.Text = "Thông tin Kế hoạch mở";
             this.Load += new System.EventHandler(this.OpenPlanWindow_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewListOpenPlan)).EndInit();

@@ -41,19 +41,20 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(332, 32);
+            this.label1.Location = new System.Drawing.Point(443, 39);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(115, 25);
+            this.label1.Size = new System.Drawing.Size(151, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "SINH VIÊN";
             // 
             // dshpbutton
             // 
             this.dshpbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dshpbutton.Location = new System.Drawing.Point(460, 127);
-            this.dshpbutton.Margin = new System.Windows.Forms.Padding(2);
+            this.dshpbutton.Location = new System.Drawing.Point(613, 156);
+            this.dshpbutton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dshpbutton.Name = "dshpbutton";
-            this.dshpbutton.Size = new System.Drawing.Size(181, 43);
+            this.dshpbutton.Size = new System.Drawing.Size(241, 53);
             this.dshpbutton.TabIndex = 25;
             this.dshpbutton.Text = "Danh sách học phần";
             this.dshpbutton.UseVisualStyleBackColor = true;
@@ -62,10 +63,10 @@
             // khmoButton
             // 
             this.khmoButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.khmoButton.Location = new System.Drawing.Point(129, 218);
-            this.khmoButton.Margin = new System.Windows.Forms.Padding(2);
+            this.khmoButton.Location = new System.Drawing.Point(172, 268);
+            this.khmoButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.khmoButton.Name = "khmoButton";
-            this.khmoButton.Size = new System.Drawing.Size(175, 41);
+            this.khmoButton.Size = new System.Drawing.Size(233, 50);
             this.khmoButton.TabIndex = 23;
             this.khmoButton.Text = "Kế hoạch mở";
             this.khmoButton.UseVisualStyleBackColor = true;
@@ -74,10 +75,10 @@
             // qldkhpButton
             // 
             this.qldkhpButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.qldkhpButton.Location = new System.Drawing.Point(460, 227);
-            this.qldkhpButton.Margin = new System.Windows.Forms.Padding(2);
+            this.qldkhpButton.Location = new System.Drawing.Point(613, 279);
+            this.qldkhpButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.qldkhpButton.Name = "qldkhpButton";
-            this.qldkhpButton.Size = new System.Drawing.Size(181, 43);
+            this.qldkhpButton.Size = new System.Drawing.Size(241, 53);
             this.qldkhpButton.TabIndex = 22;
             this.qldkhpButton.Text = "Đăng ký học phần";
             this.qldkhpButton.UseVisualStyleBackColor = true;
@@ -85,11 +86,12 @@
             // 
             // quaylaiButton
             // 
+            this.quaylaiButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.quaylaiButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.quaylaiButton.Location = new System.Drawing.Point(704, 402);
-            this.quaylaiButton.Margin = new System.Windows.Forms.Padding(2);
+            this.quaylaiButton.Location = new System.Drawing.Point(939, 495);
+            this.quaylaiButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.quaylaiButton.Name = "quaylaiButton";
-            this.quaylaiButton.Size = new System.Drawing.Size(85, 37);
+            this.quaylaiButton.Size = new System.Drawing.Size(113, 46);
             this.quaylaiButton.TabIndex = 31;
             this.quaylaiButton.Text = "Quay lại";
             this.quaylaiButton.UseVisualStyleBackColor = true;
@@ -98,9 +100,10 @@
             // inforbutton
             // 
             this.inforbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.inforbutton.Location = new System.Drawing.Point(129, 127);
+            this.inforbutton.Location = new System.Drawing.Point(172, 156);
+            this.inforbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.inforbutton.Name = "inforbutton";
-            this.inforbutton.Size = new System.Drawing.Size(175, 43);
+            this.inforbutton.Size = new System.Drawing.Size(233, 53);
             this.inforbutton.TabIndex = 26;
             this.inforbutton.Text = "Xem thông tin cá nhân";
             this.inforbutton.UseVisualStyleBackColor = true;
@@ -109,9 +112,10 @@
             // XEMTBbutton
             // 
             this.XEMTBbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.XEMTBbutton.Location = new System.Drawing.Point(129, 315);
+            this.XEMTBbutton.Location = new System.Drawing.Point(172, 388);
+            this.XEMTBbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.XEMTBbutton.Name = "XEMTBbutton";
-            this.XEMTBbutton.Size = new System.Drawing.Size(175, 45);
+            this.XEMTBbutton.Size = new System.Drawing.Size(233, 55);
             this.XEMTBbutton.TabIndex = 30;
             this.XEMTBbutton.Text = "Xem thông báo";
             this.XEMTBbutton.UseVisualStyleBackColor = true;
@@ -119,9 +123,10 @@
             // 
             // SINHVIEN_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.CancelButton = this.quaylaiButton;
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.quaylaiButton);
             this.Controls.Add(this.XEMTBbutton);
             this.Controls.Add(this.inforbutton);
@@ -129,6 +134,7 @@
             this.Controls.Add(this.khmoButton);
             this.Controls.Add(this.qldkhpButton);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "SINHVIEN_Windows";
             this.Text = "Sinh viên";
             this.Load += new System.EventHandler(this.SINHVIEN_Windows_Load);

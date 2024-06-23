@@ -42,10 +42,10 @@
             // 
             // btnViewInfoAssignment
             // 
-            this.btnViewInfoAssignment.Location = new System.Drawing.Point(295, 169);
-            this.btnViewInfoAssignment.Margin = new System.Windows.Forms.Padding(2);
+            this.btnViewInfoAssignment.Location = new System.Drawing.Point(503, 162);
+            this.btnViewInfoAssignment.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewInfoAssignment.Name = "btnViewInfoAssignment";
-            this.btnViewInfoAssignment.Size = new System.Drawing.Size(79, 52);
+            this.btnViewInfoAssignment.Size = new System.Drawing.Size(214, 64);
             this.btnViewInfoAssignment.TabIndex = 0;
             this.btnViewInfoAssignment.Text = "Xem thông tin Phân công";
             this.btnViewInfoAssignment.UseVisualStyleBackColor = true;
@@ -55,20 +55,19 @@
             // 
             this.lblWelcome.AutoSize = true;
             this.lblWelcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWelcome.Location = new System.Drawing.Point(259, 37);
-            this.lblWelcome.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblWelcome.Location = new System.Drawing.Point(339, 9);
             this.lblWelcome.Name = "lblWelcome";
-            this.lblWelcome.Size = new System.Drawing.Size(151, 37);
+            this.lblWelcome.Size = new System.Drawing.Size(186, 46);
             this.lblWelcome.TabIndex = 2;
             this.lblWelcome.Text = "GIÁO VỤ";
             this.lblWelcome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnViewInfoHR
             // 
-            this.btnViewInfoHR.Location = new System.Drawing.Point(118, 101);
-            this.btnViewInfoHR.Margin = new System.Windows.Forms.Padding(2);
+            this.btnViewInfoHR.Location = new System.Drawing.Point(148, 80);
+            this.btnViewInfoHR.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewInfoHR.Name = "btnViewInfoHR";
-            this.btnViewInfoHR.Size = new System.Drawing.Size(79, 52);
+            this.btnViewInfoHR.Size = new System.Drawing.Size(214, 64);
             this.btnViewInfoHR.TabIndex = 4;
             this.btnViewInfoHR.Text = "Xem thông tin Nhân sự";
             this.btnViewInfoHR.UseVisualStyleBackColor = true;
@@ -76,10 +75,10 @@
             // 
             // btnViewInfoStudent
             // 
-            this.btnViewInfoStudent.Location = new System.Drawing.Point(235, 101);
-            this.btnViewInfoStudent.Margin = new System.Windows.Forms.Padding(2);
+            this.btnViewInfoStudent.Location = new System.Drawing.Point(148, 162);
+            this.btnViewInfoStudent.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewInfoStudent.Name = "btnViewInfoStudent";
-            this.btnViewInfoStudent.Size = new System.Drawing.Size(79, 52);
+            this.btnViewInfoStudent.Size = new System.Drawing.Size(214, 64);
             this.btnViewInfoStudent.TabIndex = 5;
             this.btnViewInfoStudent.Text = "Xem thông tin Sinh viên";
             this.btnViewInfoStudent.UseVisualStyleBackColor = true;
@@ -87,10 +86,10 @@
             // 
             // btnVIewInfoModule
             // 
-            this.btnVIewInfoModule.Location = new System.Drawing.Point(471, 101);
-            this.btnVIewInfoModule.Margin = new System.Windows.Forms.Padding(2);
+            this.btnVIewInfoModule.Location = new System.Drawing.Point(148, 323);
+            this.btnVIewInfoModule.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnVIewInfoModule.Name = "btnVIewInfoModule";
-            this.btnVIewInfoModule.Size = new System.Drawing.Size(79, 52);
+            this.btnVIewInfoModule.Size = new System.Drawing.Size(214, 64);
             this.btnVIewInfoModule.TabIndex = 6;
             this.btnVIewInfoModule.Text = "Xem thông tin Học phần";
             this.btnVIewInfoModule.UseVisualStyleBackColor = true;
@@ -98,10 +97,10 @@
             // 
             // btnViewInfoOpenPlan
             // 
-            this.btnViewInfoOpenPlan.Location = new System.Drawing.Point(171, 169);
-            this.btnViewInfoOpenPlan.Margin = new System.Windows.Forms.Padding(2);
+            this.btnViewInfoOpenPlan.Location = new System.Drawing.Point(503, 80);
+            this.btnViewInfoOpenPlan.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewInfoOpenPlan.Name = "btnViewInfoOpenPlan";
-            this.btnViewInfoOpenPlan.Size = new System.Drawing.Size(89, 52);
+            this.btnViewInfoOpenPlan.Size = new System.Drawing.Size(214, 64);
             this.btnViewInfoOpenPlan.TabIndex = 7;
             this.btnViewInfoOpenPlan.Text = "Xem thông tin Kế hoạch mở";
             this.btnViewInfoOpenPlan.UseVisualStyleBackColor = true;
@@ -109,10 +108,10 @@
             // 
             // btnViewInfoUnit
             // 
-            this.btnViewInfoUnit.Location = new System.Drawing.Point(352, 101);
-            this.btnViewInfoUnit.Margin = new System.Windows.Forms.Padding(2);
+            this.btnViewInfoUnit.Location = new System.Drawing.Point(148, 247);
+            this.btnViewInfoUnit.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewInfoUnit.Name = "btnViewInfoUnit";
-            this.btnViewInfoUnit.Size = new System.Drawing.Size(79, 52);
+            this.btnViewInfoUnit.Size = new System.Drawing.Size(214, 64);
             this.btnViewInfoUnit.TabIndex = 8;
             this.btnViewInfoUnit.Text = "Xem thông tin Đơn vị";
             this.btnViewInfoUnit.UseVisualStyleBackColor = true;
@@ -120,10 +119,10 @@
             // 
             // btnViewInfoRegistration
             // 
-            this.btnViewInfoRegistration.Location = new System.Drawing.Point(405, 162);
-            this.btnViewInfoRegistration.Margin = new System.Windows.Forms.Padding(2);
+            this.btnViewInfoRegistration.Location = new System.Drawing.Point(503, 247);
+            this.btnViewInfoRegistration.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnViewInfoRegistration.Name = "btnViewInfoRegistration";
-            this.btnViewInfoRegistration.Size = new System.Drawing.Size(91, 65);
+            this.btnViewInfoRegistration.Size = new System.Drawing.Size(214, 64);
             this.btnViewInfoRegistration.TabIndex = 9;
             this.btnViewInfoRegistration.Text = "Xóa hoặc thêm mới thông tin Đăng ký";
             this.btnViewInfoRegistration.UseVisualStyleBackColor = true;
@@ -131,10 +130,10 @@
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(572, 320);
-            this.btnBack.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.btnBack.Location = new System.Drawing.Point(763, 394);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(72, 26);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 12;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -142,10 +141,10 @@
             // 
             // btnAnnounement
             // 
-            this.btnAnnounement.Location = new System.Drawing.Point(295, 240);
-            this.btnAnnounement.Margin = new System.Windows.Forms.Padding(2);
+            this.btnAnnounement.Location = new System.Drawing.Point(503, 323);
+            this.btnAnnounement.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAnnounement.Name = "btnAnnounement";
-            this.btnAnnounement.Size = new System.Drawing.Size(79, 52);
+            this.btnAnnounement.Size = new System.Drawing.Size(214, 64);
             this.btnAnnounement.TabIndex = 13;
             this.btnAnnounement.Text = "Xem thông báo";
             this.btnAnnounement.UseVisualStyleBackColor = true;
@@ -153,9 +152,10 @@
             // 
             // GIAOVU_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(652, 354);
+            this.CancelButton = this.btnBack;
+            this.ClientSize = new System.Drawing.Size(869, 436);
             this.Controls.Add(this.btnAnnounement);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnViewInfoRegistration);
@@ -166,7 +166,7 @@
             this.Controls.Add(this.btnViewInfoHR);
             this.Controls.Add(this.lblWelcome);
             this.Controls.Add(this.btnViewInfoAssignment);
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "GIAOVU_Windows";
             this.Text = "Giáo vụ";
             this.Load += new System.EventHandler(this.GIAOVU_Windows_Load);

@@ -47,10 +47,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(403, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(258, 31);
+            this.label1.Size = new System.Drawing.Size(269, 32);
             this.label1.TabIndex = 1;
             this.label1.Text = "QUẢN LÝ NHÂN SỰ";
             // 
@@ -128,6 +128,7 @@
             // 
             // backButton
             // 
+            this.backButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.backButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.backButton.Location = new System.Drawing.Point(904, 474);
             this.backButton.Name = "backButton";
@@ -167,7 +168,7 @@
             this.lbl_phoneNo.TabIndex = 10;
             this.lbl_phoneNo.Text = "Số điện thoại mới:";
             // 
-            // TK_NS_Windows
+            // TDV_NS_Windows
             // 
             this.AcceptButton = this.btn_Save;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -181,7 +182,7 @@
             this.Controls.Add(this.QLNSlistView);
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "TK_NS_Windows";
+            this.Name = "TDV_NS_Windows";
             this.Text = "Quản lý nhân sự";
             this.Load += new System.EventHandler(this.TK_NS_Windows_Load);
             this.ResumeLayout(false);

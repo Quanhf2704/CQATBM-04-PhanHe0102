@@ -55,53 +55,59 @@
             // 
             // txtTotalPoint
             // 
-            this.txtTotalPoint.Location = new System.Drawing.Point(653, 262);
+            this.txtTotalPoint.Location = new System.Drawing.Point(580, 210);
+            this.txtTotalPoint.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtTotalPoint.Name = "txtTotalPoint";
-            this.txtTotalPoint.Size = new System.Drawing.Size(199, 26);
+            this.txtTotalPoint.Size = new System.Drawing.Size(177, 22);
             this.txtTotalPoint.TabIndex = 56;
             // 
             // txtFinalPoint
             // 
-            this.txtFinalPoint.Location = new System.Drawing.Point(653, 219);
+            this.txtFinalPoint.Location = new System.Drawing.Point(580, 175);
+            this.txtFinalPoint.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtFinalPoint.Name = "txtFinalPoint";
-            this.txtFinalPoint.Size = new System.Drawing.Size(199, 26);
+            this.txtFinalPoint.Size = new System.Drawing.Size(177, 22);
             this.txtFinalPoint.TabIndex = 55;
             // 
             // txtProcessPoint
             // 
-            this.txtProcessPoint.Location = new System.Drawing.Point(653, 177);
+            this.txtProcessPoint.Location = new System.Drawing.Point(580, 142);
+            this.txtProcessPoint.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtProcessPoint.Name = "txtProcessPoint";
-            this.txtProcessPoint.Size = new System.Drawing.Size(199, 26);
+            this.txtProcessPoint.Size = new System.Drawing.Size(177, 22);
             this.txtProcessPoint.TabIndex = 54;
             // 
             // txtPracticePoint
             // 
-            this.txtPracticePoint.Location = new System.Drawing.Point(653, 136);
+            this.txtPracticePoint.Location = new System.Drawing.Point(580, 109);
+            this.txtPracticePoint.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtPracticePoint.Name = "txtPracticePoint";
-            this.txtPracticePoint.Size = new System.Drawing.Size(199, 26);
+            this.txtPracticePoint.Size = new System.Drawing.Size(177, 22);
             this.txtPracticePoint.TabIndex = 53;
             // 
             // txtCourseCode
             // 
-            this.txtCourseCode.Location = new System.Drawing.Point(257, 217);
+            this.txtCourseCode.Location = new System.Drawing.Point(228, 174);
+            this.txtCourseCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtCourseCode.Name = "txtCourseCode";
-            this.txtCourseCode.Size = new System.Drawing.Size(214, 26);
+            this.txtCourseCode.Size = new System.Drawing.Size(191, 22);
             this.txtCourseCode.TabIndex = 50;
             // 
             // txtTeacherCode
             // 
-            this.txtTeacherCode.Location = new System.Drawing.Point(257, 177);
+            this.txtTeacherCode.Location = new System.Drawing.Point(228, 142);
+            this.txtTeacherCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtTeacherCode.Name = "txtTeacherCode";
-            this.txtTeacherCode.Size = new System.Drawing.Size(214, 26);
+            this.txtTeacherCode.Size = new System.Drawing.Size(191, 22);
             this.txtTeacherCode.TabIndex = 49;
             // 
             // lblTotalPoint
             // 
             this.lblTotalPoint.AutoSize = true;
             this.lblTotalPoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTotalPoint.Location = new System.Drawing.Point(512, 262);
+            this.lblTotalPoint.Location = new System.Drawing.Point(455, 210);
             this.lblTotalPoint.Name = "lblTotalPoint";
-            this.lblTotalPoint.Size = new System.Drawing.Size(120, 22);
+            this.lblTotalPoint.Size = new System.Drawing.Size(100, 18);
             this.lblTotalPoint.TabIndex = 47;
             this.lblTotalPoint.Text = "Điểm tổng kết";
             this.lblTotalPoint.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -110,9 +116,9 @@
             // 
             this.lblFinalPoint.AutoSize = true;
             this.lblFinalPoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFinalPoint.Location = new System.Drawing.Point(512, 219);
+            this.lblFinalPoint.Location = new System.Drawing.Point(455, 175);
             this.lblFinalPoint.Name = "lblFinalPoint";
-            this.lblFinalPoint.Size = new System.Drawing.Size(112, 22);
+            this.lblFinalPoint.Size = new System.Drawing.Size(94, 18);
             this.lblFinalPoint.TabIndex = 46;
             this.lblFinalPoint.Text = "Điểm cuối kỳ";
             this.lblFinalPoint.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -121,9 +127,9 @@
             // 
             this.lblProcessPoint.AutoSize = true;
             this.lblProcessPoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblProcessPoint.Location = new System.Drawing.Point(512, 177);
+            this.lblProcessPoint.Location = new System.Drawing.Point(455, 142);
             this.lblProcessPoint.Name = "lblProcessPoint";
-            this.lblProcessPoint.Size = new System.Drawing.Size(126, 22);
+            this.lblProcessPoint.Size = new System.Drawing.Size(103, 18);
             this.lblProcessPoint.TabIndex = 45;
             this.lblProcessPoint.Text = "Điểm quá trình";
             this.lblProcessPoint.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -132,9 +138,9 @@
             // 
             this.lblPracticePoint.AutoSize = true;
             this.lblPracticePoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPracticePoint.Location = new System.Drawing.Point(512, 136);
+            this.lblPracticePoint.Location = new System.Drawing.Point(455, 109);
             this.lblPracticePoint.Name = "lblPracticePoint";
-            this.lblPracticePoint.Size = new System.Drawing.Size(135, 22);
+            this.lblPracticePoint.Size = new System.Drawing.Size(111, 18);
             this.lblPracticePoint.TabIndex = 44;
             this.lblPracticePoint.Text = "Điểm thực hành";
             this.lblPracticePoint.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -143,9 +149,9 @@
             // 
             this.lblCourseCode.AutoSize = true;
             this.lblCourseCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCourseCode.Location = new System.Drawing.Point(131, 217);
+            this.lblCourseCode.Location = new System.Drawing.Point(116, 174);
             this.lblCourseCode.Name = "lblCourseCode";
-            this.lblCourseCode.Size = new System.Drawing.Size(113, 22);
+            this.lblCourseCode.Size = new System.Drawing.Size(94, 18);
             this.lblCourseCode.TabIndex = 41;
             this.lblCourseCode.Text = "Mã học phần";
             this.lblCourseCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -154,37 +160,38 @@
             // 
             this.lblTeacherCode.AutoSize = true;
             this.lblTeacherCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTeacherCode.Location = new System.Drawing.Point(131, 177);
+            this.lblTeacherCode.Location = new System.Drawing.Point(116, 142);
             this.lblTeacherCode.Name = "lblTeacherCode";
-            this.lblTeacherCode.Size = new System.Drawing.Size(111, 22);
+            this.lblTeacherCode.Size = new System.Drawing.Size(91, 18);
             this.lblTeacherCode.TabIndex = 40;
             this.lblTeacherCode.Text = "Mã giáo viên";
             this.lblTeacherCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // txtStudentCode
             // 
-            this.txtStudentCode.Location = new System.Drawing.Point(257, 135);
+            this.txtStudentCode.Location = new System.Drawing.Point(228, 108);
+            this.txtStudentCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtStudentCode.Name = "txtStudentCode";
-            this.txtStudentCode.Size = new System.Drawing.Size(214, 26);
+            this.txtStudentCode.Size = new System.Drawing.Size(191, 22);
             this.txtStudentCode.TabIndex = 39;
             // 
             // lblStudentCode
             // 
             this.lblStudentCode.AutoSize = true;
             this.lblStudentCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblStudentCode.Location = new System.Drawing.Point(131, 135);
+            this.lblStudentCode.Location = new System.Drawing.Point(116, 108);
             this.lblStudentCode.Name = "lblStudentCode";
-            this.lblStudentCode.Size = new System.Drawing.Size(110, 22);
+            this.lblStudentCode.Size = new System.Drawing.Size(90, 18);
             this.lblStudentCode.TabIndex = 38;
             this.lblStudentCode.Text = "Mã sinh viên";
             this.lblStudentCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(630, 493);
+            this.btnAdd.Location = new System.Drawing.Point(560, 394);
             this.btnAdd.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(108, 40);
+            this.btnAdd.Size = new System.Drawing.Size(96, 32);
             this.btnAdd.TabIndex = 60;
             this.btnAdd.Text = "Thêm mới";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -192,10 +199,10 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(744, 493);
+            this.btnDelete.Location = new System.Drawing.Point(661, 394);
             this.btnDelete.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(108, 40);
+            this.btnDelete.Size = new System.Drawing.Size(96, 32);
             this.btnDelete.TabIndex = 59;
             this.btnDelete.Text = "Xóa";
             this.btnDelete.UseVisualStyleBackColor = true;
@@ -203,10 +210,11 @@
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(858, 493);
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnBack.Location = new System.Drawing.Point(763, 394);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(108, 40);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 58;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -214,32 +222,35 @@
             // 
             // txtEducationProgram
             // 
-            this.txtEducationProgram.Location = new System.Drawing.Point(340, 344);
+            this.txtEducationProgram.Location = new System.Drawing.Point(302, 275);
+            this.txtEducationProgram.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtEducationProgram.Name = "txtEducationProgram";
-            this.txtEducationProgram.Size = new System.Drawing.Size(131, 26);
+            this.txtEducationProgram.Size = new System.Drawing.Size(117, 22);
             this.txtEducationProgram.TabIndex = 66;
             // 
             // txtYear
             // 
-            this.txtYear.Location = new System.Drawing.Point(257, 302);
+            this.txtYear.Location = new System.Drawing.Point(228, 242);
+            this.txtYear.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtYear.Name = "txtYear";
-            this.txtYear.Size = new System.Drawing.Size(214, 26);
+            this.txtYear.Size = new System.Drawing.Size(191, 22);
             this.txtYear.TabIndex = 65;
             // 
             // txtSemester
             // 
-            this.txtSemester.Location = new System.Drawing.Point(257, 258);
+            this.txtSemester.Location = new System.Drawing.Point(228, 206);
+            this.txtSemester.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtSemester.Name = "txtSemester";
-            this.txtSemester.Size = new System.Drawing.Size(214, 26);
+            this.txtSemester.Size = new System.Drawing.Size(191, 22);
             this.txtSemester.TabIndex = 64;
             // 
             // lblEducationProgram
             // 
             this.lblEducationProgram.AutoSize = true;
             this.lblEducationProgram.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEducationProgram.Location = new System.Drawing.Point(131, 344);
+            this.lblEducationProgram.Location = new System.Drawing.Point(116, 275);
             this.lblEducationProgram.Name = "lblEducationProgram";
-            this.lblEducationProgram.Size = new System.Drawing.Size(203, 22);
+            this.lblEducationProgram.Size = new System.Drawing.Size(168, 18);
             this.lblEducationProgram.TabIndex = 63;
             this.lblEducationProgram.Text = "Mã chương trình đào tạo";
             this.lblEducationProgram.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -248,9 +259,9 @@
             // 
             this.lblYear.AutoSize = true;
             this.lblYear.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblYear.Location = new System.Drawing.Point(131, 302);
+            this.lblYear.Location = new System.Drawing.Point(116, 242);
             this.lblYear.Name = "lblYear";
-            this.lblYear.Size = new System.Drawing.Size(47, 22);
+            this.lblYear.Size = new System.Drawing.Size(40, 18);
             this.lblYear.TabIndex = 62;
             this.lblYear.Text = "Năm";
             this.lblYear.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -259,18 +270,19 @@
             // 
             this.lblSemester.AutoSize = true;
             this.lblSemester.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSemester.Location = new System.Drawing.Point(131, 258);
+            this.lblSemester.Location = new System.Drawing.Point(116, 206);
             this.lblSemester.Name = "lblSemester";
-            this.lblSemester.Size = new System.Drawing.Size(60, 22);
+            this.lblSemester.Size = new System.Drawing.Size(51, 18);
             this.lblSemester.TabIndex = 61;
             this.lblSemester.Text = "Học kì";
             this.lblSemester.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // RegistrationWindow
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 544);
+            this.CancelButton = this.btnBack;
+            this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.txtEducationProgram);
             this.Controls.Add(this.txtYear);
             this.Controls.Add(this.txtSemester);
@@ -294,6 +306,7 @@
             this.Controls.Add(this.lblTeacherCode);
             this.Controls.Add(this.txtStudentCode);
             this.Controls.Add(this.lblStudentCode);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "RegistrationWindow";
             this.Text = "Xóa hoặc thêm mới thông tin Đăng ký";
             this.ResumeLayout(false);

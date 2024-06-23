@@ -69,7 +69,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.label1.Location = new System.Drawing.Point(246, 20);
+            this.label1.Location = new System.Drawing.Point(267, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(179, 31);
             this.label1.TabIndex = 0;
@@ -370,10 +370,11 @@
             this.newmacttextBox.Size = new System.Drawing.Size(79, 22);
             this.newmacttextBox.TabIndex = 24;
             // 
-            // TK_PHANCONG_Windows
+            // TDV_PHANCONG_Windows
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.backButton;
             this.ClientSize = new System.Drawing.Size(711, 360);
             this.Controls.Add(this.newmacttextBox);
             this.Controls.Add(this.newnamtextBox);
@@ -399,7 +400,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "TK_PHANCONG_Windows";
+            this.Name = "TDV_PHANCONG_Windows";
             this.Text = "Phân công";
             this.Load += new System.EventHandler(this.TK_PHANCONG_Windows_Load);
             this.menuStrip1.ResumeLayout(false);

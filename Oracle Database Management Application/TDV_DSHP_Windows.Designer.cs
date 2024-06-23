@@ -57,6 +57,7 @@
             // 
             // quaylaiButton
             // 
+            this.quaylaiButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.quaylaiButton.Location = new System.Drawing.Point(609, 316);
             this.quaylaiButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.quaylaiButton.Name = "quaylaiButton";
@@ -70,6 +71,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.quaylaiButton;
             this.ClientSize = new System.Drawing.Size(711, 360);
             this.Controls.Add(this.quaylaiButton);
             this.Controls.Add(this.label1);

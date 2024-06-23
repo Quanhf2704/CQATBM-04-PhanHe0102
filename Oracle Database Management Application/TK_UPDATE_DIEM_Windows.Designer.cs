@@ -74,80 +74,91 @@
             // 
             // diemtktextBox
             // 
-            this.diemtktextBox.Location = new System.Drawing.Point(577, 417);
+            this.diemtktextBox.Location = new System.Drawing.Point(769, 513);
+            this.diemtktextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.diemtktextBox.Name = "diemtktextBox";
-            this.diemtktextBox.Size = new System.Drawing.Size(30, 20);
+            this.diemtktextBox.Size = new System.Drawing.Size(39, 22);
             this.diemtktextBox.TabIndex = 62;
             // 
             // diemcktextbox
             // 
-            this.diemcktextbox.Location = new System.Drawing.Point(577, 393);
+            this.diemcktextbox.Location = new System.Drawing.Point(769, 484);
+            this.diemcktextbox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.diemcktextbox.Name = "diemcktextbox";
-            this.diemcktextbox.Size = new System.Drawing.Size(30, 20);
+            this.diemcktextbox.Size = new System.Drawing.Size(39, 22);
             this.diemcktextbox.TabIndex = 61;
             // 
             // diemqttextBox
             // 
-            this.diemqttextBox.Location = new System.Drawing.Point(476, 418);
+            this.diemqttextBox.Location = new System.Drawing.Point(635, 514);
+            this.diemqttextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.diemqttextBox.Name = "diemqttextBox";
-            this.diemqttextBox.Size = new System.Drawing.Size(32, 20);
+            this.diemqttextBox.Size = new System.Drawing.Size(41, 22);
             this.diemqttextBox.TabIndex = 60;
             // 
             // diemthtextBox
             // 
-            this.diemthtextBox.Location = new System.Drawing.Point(476, 393);
+            this.diemthtextBox.Location = new System.Drawing.Point(635, 484);
+            this.diemthtextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.diemthtextBox.Name = "diemthtextBox";
-            this.diemthtextBox.Size = new System.Drawing.Size(32, 20);
+            this.diemthtextBox.Size = new System.Drawing.Size(41, 22);
             this.diemthtextBox.TabIndex = 59;
             // 
             // namtextBox
             // 
-            this.namtextBox.Location = new System.Drawing.Point(369, 417);
+            this.namtextBox.Location = new System.Drawing.Point(492, 513);
+            this.namtextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.namtextBox.Name = "namtextBox";
-            this.namtextBox.Size = new System.Drawing.Size(35, 20);
+            this.namtextBox.Size = new System.Drawing.Size(45, 22);
             this.namtextBox.TabIndex = 58;
             // 
             // hktextbox
             // 
-            this.hktextbox.Location = new System.Drawing.Point(369, 391);
+            this.hktextbox.Location = new System.Drawing.Point(492, 481);
+            this.hktextbox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.hktextbox.Name = "hktextbox";
-            this.hktextbox.Size = new System.Drawing.Size(36, 20);
+            this.hktextbox.Size = new System.Drawing.Size(47, 22);
             this.hktextbox.TabIndex = 57;
             // 
             // macttextBox
             // 
-            this.macttextBox.Location = new System.Drawing.Point(280, 418);
+            this.macttextBox.Location = new System.Drawing.Point(373, 514);
+            this.macttextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.macttextBox.Name = "macttextBox";
-            this.macttextBox.Size = new System.Drawing.Size(40, 20);
+            this.macttextBox.Size = new System.Drawing.Size(52, 22);
             this.macttextBox.TabIndex = 56;
             // 
             // mahptextBox
             // 
-            this.mahptextBox.Location = new System.Drawing.Point(280, 391);
+            this.mahptextBox.Location = new System.Drawing.Point(373, 481);
+            this.mahptextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.mahptextBox.Name = "mahptextBox";
-            this.mahptextBox.Size = new System.Drawing.Size(52, 20);
+            this.mahptextBox.Size = new System.Drawing.Size(68, 22);
             this.mahptextBox.TabIndex = 55;
             // 
             // magvtextBox
             // 
-            this.magvtextBox.Location = new System.Drawing.Point(165, 418);
+            this.magvtextBox.Location = new System.Drawing.Point(220, 514);
+            this.magvtextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.magvtextBox.Name = "magvtextBox";
-            this.magvtextBox.Size = new System.Drawing.Size(57, 20);
+            this.magvtextBox.Size = new System.Drawing.Size(75, 22);
             this.magvtextBox.TabIndex = 54;
             // 
             // masvtextBox
             // 
-            this.masvtextBox.Location = new System.Drawing.Point(164, 392);
+            this.masvtextBox.Location = new System.Drawing.Point(219, 482);
+            this.masvtextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.masvtextBox.Name = "masvtextBox";
-            this.masvtextBox.Size = new System.Drawing.Size(58, 20);
+            this.masvtextBox.Size = new System.Drawing.Size(76, 22);
             this.masvtextBox.TabIndex = 53;
             // 
             // huybutton
             // 
             this.huybutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.huybutton.Location = new System.Drawing.Point(671, 399);
+            this.huybutton.Location = new System.Drawing.Point(895, 491);
+            this.huybutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.huybutton.Name = "huybutton";
-            this.huybutton.Size = new System.Drawing.Size(44, 34);
+            this.huybutton.Size = new System.Drawing.Size(59, 42);
             this.huybutton.TabIndex = 52;
             this.huybutton.Text = "Hủy";
             this.huybutton.UseVisualStyleBackColor = true;
@@ -156,9 +167,10 @@
             // luubutton
             // 
             this.luubutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.luubutton.Location = new System.Drawing.Point(613, 400);
+            this.luubutton.Location = new System.Drawing.Point(817, 492);
+            this.luubutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.luubutton.Name = "luubutton";
-            this.luubutton.Size = new System.Drawing.Size(52, 33);
+            this.luubutton.Size = new System.Drawing.Size(69, 41);
             this.luubutton.TabIndex = 51;
             this.luubutton.Text = "Lưu";
             this.luubutton.UseVisualStyleBackColor = true;
@@ -168,9 +180,10 @@
             // 
             this.DIEMTKlabel.AutoSize = true;
             this.DIEMTKlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DIEMTKlabel.Location = new System.Drawing.Point(514, 421);
+            this.DIEMTKlabel.Location = new System.Drawing.Point(685, 518);
+            this.DIEMTKlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.DIEMTKlabel.Name = "DIEMTKlabel";
-            this.DIEMTKlabel.Size = new System.Drawing.Size(57, 16);
+            this.DIEMTKlabel.Size = new System.Drawing.Size(72, 20);
             this.DIEMTKlabel.TabIndex = 50;
             this.DIEMTKlabel.Text = "DIEMTK";
             // 
@@ -178,9 +191,10 @@
             // 
             this.DIEMCKlabel.AutoSize = true;
             this.DIEMCKlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DIEMCKlabel.Location = new System.Drawing.Point(514, 394);
+            this.DIEMCKlabel.Location = new System.Drawing.Point(685, 485);
+            this.DIEMCKlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.DIEMCKlabel.Name = "DIEMCKlabel";
-            this.DIEMCKlabel.Size = new System.Drawing.Size(57, 16);
+            this.DIEMCKlabel.Size = new System.Drawing.Size(74, 20);
             this.DIEMCKlabel.TabIndex = 49;
             this.DIEMCKlabel.Text = "DIEMCK";
             // 
@@ -188,9 +202,10 @@
             // 
             this.DIEMQTlabel.AutoSize = true;
             this.DIEMQTlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DIEMQTlabel.Location = new System.Drawing.Point(411, 420);
+            this.DIEMQTlabel.Location = new System.Drawing.Point(548, 517);
+            this.DIEMQTlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.DIEMQTlabel.Name = "DIEMQTlabel";
-            this.DIEMQTlabel.Size = new System.Drawing.Size(59, 16);
+            this.DIEMQTlabel.Size = new System.Drawing.Size(74, 20);
             this.DIEMQTlabel.TabIndex = 48;
             this.DIEMQTlabel.Text = "DIEMQT";
             // 
@@ -198,9 +213,10 @@
             // 
             this.DIEMTHlabel.AutoSize = true;
             this.DIEMTHlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DIEMTHlabel.Location = new System.Drawing.Point(411, 395);
+            this.DIEMTHlabel.Location = new System.Drawing.Point(548, 486);
+            this.DIEMTHlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.DIEMTHlabel.Name = "DIEMTHlabel";
-            this.DIEMTHlabel.Size = new System.Drawing.Size(59, 16);
+            this.DIEMTHlabel.Size = new System.Drawing.Size(74, 20);
             this.DIEMTHlabel.TabIndex = 47;
             this.DIEMTHlabel.Text = "DIEMTH";
             // 
@@ -208,9 +224,10 @@
             // 
             this.MACTlabel.AutoSize = true;
             this.MACTlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MACTlabel.Location = new System.Drawing.Point(228, 419);
+            this.MACTlabel.Location = new System.Drawing.Point(304, 516);
+            this.MACTlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MACTlabel.Name = "MACTlabel";
-            this.MACTlabel.Size = new System.Drawing.Size(45, 16);
+            this.MACTlabel.Size = new System.Drawing.Size(56, 20);
             this.MACTlabel.TabIndex = 46;
             this.MACTlabel.Text = "MACT";
             // 
@@ -218,9 +235,10 @@
             // 
             this.NAMlabel.AutoSize = true;
             this.NAMlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NAMlabel.Location = new System.Drawing.Point(326, 418);
+            this.NAMlabel.Location = new System.Drawing.Point(435, 514);
+            this.NAMlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.NAMlabel.Name = "NAMlabel";
-            this.NAMlabel.Size = new System.Drawing.Size(37, 16);
+            this.NAMlabel.Size = new System.Drawing.Size(46, 20);
             this.NAMlabel.TabIndex = 45;
             this.NAMlabel.Text = "NAM";
             // 
@@ -228,9 +246,10 @@
             // 
             this.HKlabel.AutoSize = true;
             this.HKlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.HKlabel.Location = new System.Drawing.Point(338, 393);
+            this.HKlabel.Location = new System.Drawing.Point(451, 484);
+            this.HKlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.HKlabel.Name = "HKlabel";
-            this.HKlabel.Size = new System.Drawing.Size(25, 16);
+            this.HKlabel.Size = new System.Drawing.Size(33, 20);
             this.HKlabel.TabIndex = 44;
             this.HKlabel.Text = "HK";
             // 
@@ -238,9 +257,10 @@
             // 
             this.MAHPlabel.AutoSize = true;
             this.MAHPlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MAHPlabel.Location = new System.Drawing.Point(228, 393);
+            this.MAHPlabel.Location = new System.Drawing.Point(304, 484);
+            this.MAHPlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MAHPlabel.Name = "MAHPlabel";
-            this.MAHPlabel.Size = new System.Drawing.Size(46, 16);
+            this.MAHPlabel.Size = new System.Drawing.Size(58, 20);
             this.MAHPlabel.TabIndex = 43;
             this.MAHPlabel.Text = "MAHP";
             // 
@@ -248,9 +268,10 @@
             // 
             this.MAGVlabel.AutoSize = true;
             this.MAGVlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MAGVlabel.Location = new System.Drawing.Point(113, 420);
+            this.MAGVlabel.Location = new System.Drawing.Point(151, 517);
+            this.MAGVlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MAGVlabel.Name = "MAGVlabel";
-            this.MAGVlabel.Size = new System.Drawing.Size(46, 16);
+            this.MAGVlabel.Size = new System.Drawing.Size(58, 20);
             this.MAGVlabel.TabIndex = 42;
             this.MAGVlabel.Text = "MAGV";
             // 
@@ -258,9 +279,10 @@
             // 
             this.MASVlabel.AutoSize = true;
             this.MASVlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MASVlabel.Location = new System.Drawing.Point(113, 393);
+            this.MASVlabel.Location = new System.Drawing.Point(151, 484);
+            this.MASVlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MASVlabel.Name = "MASVlabel";
-            this.MASVlabel.Size = new System.Drawing.Size(45, 16);
+            this.MASVlabel.Size = new System.Drawing.Size(56, 20);
             this.MASVlabel.TabIndex = 41;
             this.MASVlabel.Text = "MASV";
             // 
@@ -281,10 +303,11 @@
             this.update_diem_listView.FullRowSelect = true;
             this.update_diem_listView.GridLines = true;
             this.update_diem_listView.HideSelection = false;
-            this.update_diem_listView.Location = new System.Drawing.Point(12, 67);
+            this.update_diem_listView.Location = new System.Drawing.Point(16, 82);
+            this.update_diem_listView.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.update_diem_listView.MultiSelect = false;
             this.update_diem_listView.Name = "update_diem_listView";
-            this.update_diem_listView.Size = new System.Drawing.Size(776, 317);
+            this.update_diem_listView.Size = new System.Drawing.Size(1033, 389);
             this.update_diem_listView.TabIndex = 40;
             this.update_diem_listView.UseCompatibleStateImageBehavior = false;
             this.update_diem_listView.View = System.Windows.Forms.View.Details;
@@ -352,20 +375,20 @@
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(249, 26);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(332, 32);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(301, 26);
+            this.label1.Size = new System.Drawing.Size(371, 31);
             this.label1.TabIndex = 39;
             this.label1.Text = "CẬP NHẬT ĐIỂM SINH VIÊN";
             // 
             // backbutton
             // 
+            this.backbutton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.backbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.backbutton.Location = new System.Drawing.Point(720, 399);
-            this.backbutton.Margin = new System.Windows.Forms.Padding(2);
+            this.backbutton.Location = new System.Drawing.Point(960, 491);
+            this.backbutton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.backbutton.Name = "backbutton";
-            this.backbutton.Size = new System.Drawing.Size(69, 34);
+            this.backbutton.Size = new System.Drawing.Size(92, 42);
             this.backbutton.TabIndex = 38;
             this.backbutton.Text = "Back";
             this.backbutton.UseVisualStyleBackColor = true;
@@ -374,11 +397,12 @@
             // menuStrip1
             // 
             this.menuStrip1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cậpNhậtToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 393);
+            this.menuStrip1.Location = new System.Drawing.Point(0, 490);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(799, 55);
+            this.menuStrip1.Size = new System.Drawing.Size(1065, 61);
             this.menuStrip1.TabIndex = 63;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -392,42 +416,43 @@
             this.cậpNhậtToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cậpNhậtToolStripMenuItem.Name = "cậpNhậtToolStripMenuItem";
             this.cậpNhậtToolStripMenuItem.Padding = new System.Windows.Forms.Padding(20, 30, 4, 0);
-            this.cậpNhậtToolStripMenuItem.Size = new System.Drawing.Size(88, 51);
+            this.cậpNhậtToolStripMenuItem.Size = new System.Drawing.Size(108, 57);
             this.cậpNhậtToolStripMenuItem.Text = "Cập nhật";
             // 
             // dIEMTKToolStripMenuItem
             // 
             this.dIEMTKToolStripMenuItem.Name = "dIEMTKToolStripMenuItem";
-            this.dIEMTKToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.dIEMTKToolStripMenuItem.Size = new System.Drawing.Size(156, 28);
             this.dIEMTKToolStripMenuItem.Text = "DIEMTK";
             this.dIEMTKToolStripMenuItem.Click += new System.EventHandler(this.dIEMTKToolStripMenuItem_Click);
             // 
             // dIEMCKToolStripMenuItem
             // 
             this.dIEMCKToolStripMenuItem.Name = "dIEMCKToolStripMenuItem";
-            this.dIEMCKToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.dIEMCKToolStripMenuItem.Size = new System.Drawing.Size(156, 28);
             this.dIEMCKToolStripMenuItem.Text = "DIEMCK";
             this.dIEMCKToolStripMenuItem.Click += new System.EventHandler(this.dIEMCKToolStripMenuItem_Click);
             // 
             // dIEMQTToolStripMenuItem
             // 
             this.dIEMQTToolStripMenuItem.Name = "dIEMQTToolStripMenuItem";
-            this.dIEMQTToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.dIEMQTToolStripMenuItem.Size = new System.Drawing.Size(156, 28);
             this.dIEMQTToolStripMenuItem.Text = "DIEMQT";
             this.dIEMQTToolStripMenuItem.Click += new System.EventHandler(this.dIEMQTToolStripMenuItem_Click);
             // 
             // dIEMTHToolStripMenuItem
             // 
             this.dIEMTHToolStripMenuItem.Name = "dIEMTHToolStripMenuItem";
-            this.dIEMTHToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.dIEMTHToolStripMenuItem.Size = new System.Drawing.Size(156, 28);
             this.dIEMTHToolStripMenuItem.Text = "DIEMTH";
             this.dIEMTHToolStripMenuItem.Click += new System.EventHandler(this.dIEMTHToolStripMenuItem_Click);
             // 
             // TK_UPDATE_DIEM_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(799, 448);
+            this.CancelButton = this.backbutton;
+            this.ClientSize = new System.Drawing.Size(1065, 551);
             this.Controls.Add(this.diemtktextBox);
             this.Controls.Add(this.diemcktextbox);
             this.Controls.Add(this.diemqttextBox);
@@ -455,6 +480,7 @@
             this.Controls.Add(this.backbutton);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "TK_UPDATE_DIEM_Windows";
             this.Text = "Trưởng khoa cập nhật điểm";
             this.Load += new System.EventHandler(this.TK_UPDATE_DIEM_Windows_Load);

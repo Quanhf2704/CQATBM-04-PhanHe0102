@@ -41,18 +41,20 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(311, 37);
+            this.label1.Location = new System.Drawing.Point(415, 46);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(211, 25);
+            this.label1.Size = new System.Drawing.Size(274, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "NHÂN VIÊN CƠ BẢN";
             // 
             // viewInforbutton
             // 
             this.viewInforbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.viewInforbutton.Location = new System.Drawing.Point(98, 120);
+            this.viewInforbutton.Location = new System.Drawing.Point(131, 148);
+            this.viewInforbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.viewInforbutton.Name = "viewInforbutton";
-            this.viewInforbutton.Size = new System.Drawing.Size(230, 42);
+            this.viewInforbutton.Size = new System.Drawing.Size(307, 52);
             this.viewInforbutton.TabIndex = 1;
             this.viewInforbutton.Text = "Xem thông tin cá nhân";
             this.viewInforbutton.UseVisualStyleBackColor = true;
@@ -61,9 +63,10 @@
             // svbutton
             // 
             this.svbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.svbutton.Location = new System.Drawing.Point(501, 120);
+            this.svbutton.Location = new System.Drawing.Point(668, 148);
+            this.svbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.svbutton.Name = "svbutton";
-            this.svbutton.Size = new System.Drawing.Size(217, 42);
+            this.svbutton.Size = new System.Drawing.Size(289, 52);
             this.svbutton.TabIndex = 2;
             this.svbutton.Text = "Danh sách sinh viên";
             this.svbutton.UseVisualStyleBackColor = true;
@@ -72,9 +75,10 @@
             // dvbutton
             // 
             this.dvbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dvbutton.Location = new System.Drawing.Point(98, 240);
+            this.dvbutton.Location = new System.Drawing.Point(131, 295);
+            this.dvbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dvbutton.Name = "dvbutton";
-            this.dvbutton.Size = new System.Drawing.Size(230, 55);
+            this.dvbutton.Size = new System.Drawing.Size(307, 68);
             this.dvbutton.TabIndex = 3;
             this.dvbutton.Text = "Danh sách đơn vị";
             this.dvbutton.UseVisualStyleBackColor = true;
@@ -83,9 +87,10 @@
             // hpbutton
             // 
             this.hpbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hpbutton.Location = new System.Drawing.Point(496, 240);
+            this.hpbutton.Location = new System.Drawing.Point(661, 295);
+            this.hpbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.hpbutton.Name = "hpbutton";
-            this.hpbutton.Size = new System.Drawing.Size(222, 55);
+            this.hpbutton.Size = new System.Drawing.Size(296, 68);
             this.hpbutton.TabIndex = 4;
             this.hpbutton.Text = "Danh sách học phần";
             this.hpbutton.UseVisualStyleBackColor = true;
@@ -94,9 +99,10 @@
             // khmobutton
             // 
             this.khmobutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.khmobutton.Location = new System.Drawing.Point(98, 350);
+            this.khmobutton.Location = new System.Drawing.Point(131, 431);
+            this.khmobutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.khmobutton.Name = "khmobutton";
-            this.khmobutton.Size = new System.Drawing.Size(230, 47);
+            this.khmobutton.Size = new System.Drawing.Size(307, 58);
             this.khmobutton.TabIndex = 5;
             this.khmobutton.Text = "Kế hoạch mở";
             this.khmobutton.UseVisualStyleBackColor = true;
@@ -104,10 +110,12 @@
             // 
             // backbutton
             // 
+            this.backbutton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.backbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.backbutton.Location = new System.Drawing.Point(496, 350);
+            this.backbutton.Location = new System.Drawing.Point(661, 431);
+            this.backbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.backbutton.Name = "backbutton";
-            this.backbutton.Size = new System.Drawing.Size(222, 49);
+            this.backbutton.Size = new System.Drawing.Size(296, 60);
             this.backbutton.TabIndex = 6;
             this.backbutton.Text = "Quay lại";
             this.backbutton.UseVisualStyleBackColor = true;
@@ -115,9 +123,10 @@
             // 
             // NHANVIENCOBAN_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.CancelButton = this.backbutton;
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.backbutton);
             this.Controls.Add(this.khmobutton);
             this.Controls.Add(this.hpbutton);
@@ -125,6 +134,7 @@
             this.Controls.Add(this.svbutton);
             this.Controls.Add(this.viewInforbutton);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "NHANVIENCOBAN_Windows";
             this.Text = "Nhân viên cơ bản";
             this.Load += new System.EventHandler(this.NHANVIENCOBAN_Windows_Load);

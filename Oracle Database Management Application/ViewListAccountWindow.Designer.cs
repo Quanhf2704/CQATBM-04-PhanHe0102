@@ -57,6 +57,7 @@
             // 
             // btnBack
             // 
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnBack.Location = new System.Drawing.Point(763, 394);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
@@ -92,7 +93,7 @@
             this.lblUsername.AutoSize = true;
             this.lblUsername.Location = new System.Drawing.Point(625, 101);
             this.lblUsername.Name = "lblUsername";
-            this.lblUsername.Size = new System.Drawing.Size(73, 17);
+            this.lblUsername.Size = new System.Drawing.Size(70, 16);
             this.lblUsername.TabIndex = 15;
             this.lblUsername.Text = "Username";
             // 
@@ -101,7 +102,7 @@
             this.lblPass.AutoSize = true;
             this.lblPass.Location = new System.Drawing.Point(625, 128);
             this.lblPass.Name = "lblPass";
-            this.lblPass.Size = new System.Drawing.Size(69, 17);
+            this.lblPass.Size = new System.Drawing.Size(67, 16);
             this.lblPass.TabIndex = 16;
             this.lblPass.Text = "Password";
             // 
@@ -173,6 +174,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnBack;
             this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnCheckRole);
             this.Controls.Add(this.btnCheckPriv);

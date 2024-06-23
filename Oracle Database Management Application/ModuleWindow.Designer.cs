@@ -53,10 +53,10 @@
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(629, 495);
+            this.btnAdd.Location = new System.Drawing.Point(559, 396);
             this.btnAdd.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(108, 40);
+            this.btnAdd.Size = new System.Drawing.Size(96, 32);
             this.btnAdd.TabIndex = 27;
             this.btnAdd.Text = "Thêm mới";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -64,10 +64,10 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(743, 495);
+            this.btnUpdate.Location = new System.Drawing.Point(660, 396);
             this.btnUpdate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(108, 40);
+            this.btnUpdate.Size = new System.Drawing.Size(96, 32);
             this.btnUpdate.TabIndex = 26;
             this.btnUpdate.Text = "Cập nhật";
             this.btnUpdate.UseVisualStyleBackColor = true;
@@ -75,10 +75,11 @@
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(858, 495);
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnBack.Location = new System.Drawing.Point(763, 396);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(108, 40);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 25;
             this.btnBack.Text = "Quay lại";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -87,74 +88,80 @@
             // dataGridViewListModule
             // 
             this.dataGridViewListModule.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewListModule.Location = new System.Drawing.Point(38, 68);
+            this.dataGridViewListModule.Location = new System.Drawing.Point(34, 54);
             this.dataGridViewListModule.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridViewListModule.Name = "dataGridViewListModule";
             this.dataGridViewListModule.RowHeadersWidth = 62;
             this.dataGridViewListModule.RowTemplate.Height = 28;
-            this.dataGridViewListModule.Size = new System.Drawing.Size(573, 421);
+            this.dataGridViewListModule.Size = new System.Drawing.Size(509, 337);
             this.dataGridViewListModule.TabIndex = 24;
             // 
             // lblModuleInfo
             // 
             this.lblModuleInfo.AutoSize = true;
             this.lblModuleInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblModuleInfo.Location = new System.Drawing.Point(286, 9);
+            this.lblModuleInfo.Location = new System.Drawing.Point(254, 7);
             this.lblModuleInfo.Name = "lblModuleInfo";
-            this.lblModuleInfo.Size = new System.Drawing.Size(444, 55);
+            this.lblModuleInfo.Size = new System.Drawing.Size(369, 46);
             this.lblModuleInfo.TabIndex = 23;
             this.lblModuleInfo.Text = "Thông tin Học phần";
             this.lblModuleInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // txtUnitCode
             // 
-            this.txtUnitCode.Location = new System.Drawing.Point(795, 321);
+            this.txtUnitCode.Location = new System.Drawing.Point(707, 257);
+            this.txtUnitCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtUnitCode.Name = "txtUnitCode";
-            this.txtUnitCode.Size = new System.Drawing.Size(171, 26);
+            this.txtUnitCode.Size = new System.Drawing.Size(152, 22);
             this.txtUnitCode.TabIndex = 54;
             // 
             // txtMaxNumOfStudents
             // 
-            this.txtMaxNumOfStudents.Location = new System.Drawing.Point(795, 280);
+            this.txtMaxNumOfStudents.Location = new System.Drawing.Point(707, 224);
+            this.txtMaxNumOfStudents.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtMaxNumOfStudents.Name = "txtMaxNumOfStudents";
-            this.txtMaxNumOfStudents.Size = new System.Drawing.Size(171, 26);
+            this.txtMaxNumOfStudents.Size = new System.Drawing.Size(152, 22);
             this.txtMaxNumOfStudents.TabIndex = 53;
             // 
             // txtNumOfPracticeClasses
             // 
-            this.txtNumOfPracticeClasses.Location = new System.Drawing.Point(795, 240);
+            this.txtNumOfPracticeClasses.Location = new System.Drawing.Point(707, 192);
+            this.txtNumOfPracticeClasses.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNumOfPracticeClasses.Name = "txtNumOfPracticeClasses";
-            this.txtNumOfPracticeClasses.Size = new System.Drawing.Size(171, 26);
+            this.txtNumOfPracticeClasses.Size = new System.Drawing.Size(152, 22);
             this.txtNumOfPracticeClasses.TabIndex = 52;
             // 
             // txtNumOfTheoryClasses
             // 
-            this.txtNumOfTheoryClasses.Location = new System.Drawing.Point(795, 198);
+            this.txtNumOfTheoryClasses.Location = new System.Drawing.Point(707, 158);
+            this.txtNumOfTheoryClasses.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNumOfTheoryClasses.Name = "txtNumOfTheoryClasses";
-            this.txtNumOfTheoryClasses.Size = new System.Drawing.Size(171, 26);
+            this.txtNumOfTheoryClasses.Size = new System.Drawing.Size(152, 22);
             this.txtNumOfTheoryClasses.TabIndex = 51;
             // 
             // txtNumOfCredits
             // 
-            this.txtNumOfCredits.Location = new System.Drawing.Point(752, 158);
+            this.txtNumOfCredits.Location = new System.Drawing.Point(668, 126);
+            this.txtNumOfCredits.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNumOfCredits.Name = "txtNumOfCredits";
-            this.txtNumOfCredits.Size = new System.Drawing.Size(214, 26);
+            this.txtNumOfCredits.Size = new System.Drawing.Size(191, 22);
             this.txtNumOfCredits.TabIndex = 50;
             // 
             // txtCourseName
             // 
-            this.txtCourseName.Location = new System.Drawing.Point(752, 118);
+            this.txtCourseName.Location = new System.Drawing.Point(668, 94);
+            this.txtCourseName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtCourseName.Name = "txtCourseName";
-            this.txtCourseName.Size = new System.Drawing.Size(214, 26);
+            this.txtCourseName.Size = new System.Drawing.Size(191, 22);
             this.txtCourseName.TabIndex = 49;
             // 
             // lblUnitCode
             // 
             this.lblUnitCode.AutoSize = true;
             this.lblUnitCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUnitCode.Location = new System.Drawing.Point(626, 321);
+            this.lblUnitCode.Location = new System.Drawing.Point(556, 257);
             this.lblUnitCode.Name = "lblUnitCode";
-            this.lblUnitCode.Size = new System.Drawing.Size(87, 22);
+            this.lblUnitCode.Size = new System.Drawing.Size(72, 18);
             this.lblUnitCode.TabIndex = 45;
             this.lblUnitCode.Text = "Mã đơn vị";
             this.lblUnitCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -163,9 +170,9 @@
             // 
             this.lblMaxNumOfStudents.AutoSize = true;
             this.lblMaxNumOfStudents.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMaxNumOfStudents.Location = new System.Drawing.Point(626, 280);
+            this.lblMaxNumOfStudents.Location = new System.Drawing.Point(556, 224);
             this.lblMaxNumOfStudents.Name = "lblMaxNumOfStudents";
-            this.lblMaxNumOfStudents.Size = new System.Drawing.Size(157, 22);
+            this.lblMaxNumOfStudents.Size = new System.Drawing.Size(128, 18);
             this.lblMaxNumOfStudents.TabIndex = 44;
             this.lblMaxNumOfStudents.Text = "Số sinh viên tối đa";
             this.lblMaxNumOfStudents.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -174,9 +181,9 @@
             // 
             this.lblNumOfPracticeClasses.AutoSize = true;
             this.lblNumOfPracticeClasses.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNumOfPracticeClasses.Location = new System.Drawing.Point(626, 240);
+            this.lblNumOfPracticeClasses.Location = new System.Drawing.Point(556, 192);
             this.lblNumOfPracticeClasses.Name = "lblNumOfPracticeClasses";
-            this.lblNumOfPracticeClasses.Size = new System.Drawing.Size(145, 22);
+            this.lblNumOfPracticeClasses.Size = new System.Drawing.Size(118, 18);
             this.lblNumOfPracticeClasses.TabIndex = 43;
             this.lblNumOfPracticeClasses.Text = "Số tiết thực hành";
             this.lblNumOfPracticeClasses.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -185,9 +192,9 @@
             // 
             this.lblNumOfTheoryClasses.AutoSize = true;
             this.lblNumOfTheoryClasses.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNumOfTheoryClasses.Location = new System.Drawing.Point(626, 198);
+            this.lblNumOfTheoryClasses.Location = new System.Drawing.Point(556, 158);
             this.lblNumOfTheoryClasses.Name = "lblNumOfTheoryClasses";
-            this.lblNumOfTheoryClasses.Size = new System.Drawing.Size(133, 22);
+            this.lblNumOfTheoryClasses.Size = new System.Drawing.Size(107, 18);
             this.lblNumOfTheoryClasses.TabIndex = 42;
             this.lblNumOfTheoryClasses.Text = "Số tiết lý thuyết";
             this.lblNumOfTheoryClasses.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -196,9 +203,9 @@
             // 
             this.lblCredits.AutoSize = true;
             this.lblCredits.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCredits.Location = new System.Drawing.Point(626, 158);
+            this.lblCredits.Location = new System.Drawing.Point(556, 126);
             this.lblCredits.Name = "lblCredits";
-            this.lblCredits.Size = new System.Drawing.Size(84, 22);
+            this.lblCredits.Size = new System.Drawing.Size(69, 18);
             this.lblCredits.TabIndex = 41;
             this.lblCredits.Text = "Số tín chỉ";
             this.lblCredits.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -207,37 +214,38 @@
             // 
             this.lblCourseName.AutoSize = true;
             this.lblCourseName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCourseName.Location = new System.Drawing.Point(626, 118);
+            this.lblCourseName.Location = new System.Drawing.Point(556, 94);
             this.lblCourseName.Name = "lblCourseName";
-            this.lblCourseName.Size = new System.Drawing.Size(121, 22);
+            this.lblCourseName.Size = new System.Drawing.Size(98, 18);
             this.lblCourseName.TabIndex = 40;
             this.lblCourseName.Text = "Tên học phần";
             this.lblCourseName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // txtCourseCode
             // 
-            this.txtCourseCode.Location = new System.Drawing.Point(752, 76);
+            this.txtCourseCode.Location = new System.Drawing.Point(668, 61);
+            this.txtCourseCode.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtCourseCode.Name = "txtCourseCode";
-            this.txtCourseCode.Size = new System.Drawing.Size(214, 26);
+            this.txtCourseCode.Size = new System.Drawing.Size(191, 22);
             this.txtCourseCode.TabIndex = 39;
             // 
             // lblCourseCode
             // 
             this.lblCourseCode.AutoSize = true;
             this.lblCourseCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCourseCode.Location = new System.Drawing.Point(626, 76);
+            this.lblCourseCode.Location = new System.Drawing.Point(556, 61);
             this.lblCourseCode.Name = "lblCourseCode";
-            this.lblCourseCode.Size = new System.Drawing.Size(113, 22);
+            this.lblCourseCode.Size = new System.Drawing.Size(94, 18);
             this.lblCourseCode.TabIndex = 38;
             this.lblCourseCode.Text = "Mã học phần";
             this.lblCourseCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // btnRefresh
             // 
-            this.btnRefresh.Location = new System.Drawing.Point(516, 493);
+            this.btnRefresh.Location = new System.Drawing.Point(459, 394);
             this.btnRefresh.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRefresh.Name = "btnRefresh";
-            this.btnRefresh.Size = new System.Drawing.Size(107, 40);
+            this.btnRefresh.Size = new System.Drawing.Size(95, 32);
             this.btnRefresh.TabIndex = 55;
             this.btnRefresh.Text = "Làm mới";
             this.btnRefresh.UseVisualStyleBackColor = true;
@@ -245,9 +253,10 @@
             // 
             // ModuleWindow
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 544);
+            this.CancelButton = this.btnBack;
+            this.ClientSize = new System.Drawing.Size(869, 435);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.txtUnitCode);
             this.Controls.Add(this.txtMaxNumOfStudents);
@@ -268,6 +277,7 @@
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.dataGridViewListModule);
             this.Controls.Add(this.lblModuleInfo);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "ModuleWindow";
             this.Text = "Thông tin Học phần";
             this.Load += new System.EventHandler(this.ModuleWindow_Load);

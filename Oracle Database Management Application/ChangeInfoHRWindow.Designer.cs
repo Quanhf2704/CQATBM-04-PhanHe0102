@@ -38,10 +38,11 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(346, 213);
+            this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnExit.Location = new System.Drawing.Point(308, 170);
             this.btnExit.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(78, 40);
+            this.btnExit.Size = new System.Drawing.Size(69, 32);
             this.btnExit.TabIndex = 14;
             this.btnExit.Text = "Thoát";
             this.btnExit.UseVisualStyleBackColor = true;
@@ -49,10 +50,10 @@
             // 
             // btnChange
             // 
-            this.btnChange.Location = new System.Drawing.Point(239, 213);
+            this.btnChange.Location = new System.Drawing.Point(212, 170);
             this.btnChange.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnChange.Name = "btnChange";
-            this.btnChange.Size = new System.Drawing.Size(101, 40);
+            this.btnChange.Size = new System.Drawing.Size(90, 32);
             this.btnChange.TabIndex = 15;
             this.btnChange.Text = "Thay đổi";
             this.btnChange.UseVisualStyleBackColor = true;
@@ -60,18 +61,19 @@
             // 
             // txtNewPhoneNumber
             // 
-            this.txtNewPhoneNumber.Location = new System.Drawing.Point(160, 116);
+            this.txtNewPhoneNumber.Location = new System.Drawing.Point(142, 93);
+            this.txtNewPhoneNumber.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNewPhoneNumber.Name = "txtNewPhoneNumber";
-            this.txtNewPhoneNumber.Size = new System.Drawing.Size(192, 26);
+            this.txtNewPhoneNumber.Size = new System.Drawing.Size(171, 22);
             this.txtNewPhoneNumber.TabIndex = 20;
             // 
             // lblPhoneNumber
             // 
             this.lblPhoneNumber.AutoSize = true;
             this.lblPhoneNumber.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPhoneNumber.Location = new System.Drawing.Point(74, 62);
+            this.lblPhoneNumber.Location = new System.Drawing.Point(66, 50);
             this.lblPhoneNumber.Name = "lblPhoneNumber";
-            this.lblPhoneNumber.Size = new System.Drawing.Size(71, 22);
+            this.lblPhoneNumber.Size = new System.Drawing.Size(58, 18);
             this.lblPhoneNumber.TabIndex = 19;
             this.lblPhoneNumber.Text = "SĐT cũ";
             this.lblPhoneNumber.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -80,32 +82,35 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(74, 116);
+            this.label1.Location = new System.Drawing.Point(66, 93);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(80, 22);
+            this.label1.Size = new System.Drawing.Size(67, 18);
             this.label1.TabIndex = 21;
             this.label1.Text = "SĐT mới";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // txtOldPhoneNumber
             // 
-            this.txtOldPhoneNumber.Location = new System.Drawing.Point(160, 62);
+            this.txtOldPhoneNumber.Location = new System.Drawing.Point(142, 50);
+            this.txtOldPhoneNumber.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtOldPhoneNumber.Name = "txtOldPhoneNumber";
             this.txtOldPhoneNumber.ReadOnly = true;
-            this.txtOldPhoneNumber.Size = new System.Drawing.Size(192, 26);
+            this.txtOldPhoneNumber.Size = new System.Drawing.Size(171, 22);
             this.txtOldPhoneNumber.TabIndex = 22;
             // 
             // ChangeInfoHRWindow
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(436, 264);
+            this.CancelButton = this.btnExit;
+            this.ClientSize = new System.Drawing.Size(388, 211);
             this.Controls.Add(this.txtOldPhoneNumber);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNewPhoneNumber);
             this.Controls.Add(this.lblPhoneNumber);
             this.Controls.Add(this.btnChange);
             this.Controls.Add(this.btnExit);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "ChangeInfoHRWindow";
             this.Text = "Thay đổi thông tin";
             this.Load += new System.EventHandler(this.ChangeInfoHRWindow_Load);

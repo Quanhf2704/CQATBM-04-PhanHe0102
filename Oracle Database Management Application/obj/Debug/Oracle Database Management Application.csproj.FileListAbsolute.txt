@@ -1,0 +1,89 @@
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe.config
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.exe
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\Oracle Database Management Application.pdb
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Buffers.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Formats.Asn1.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Memory.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Text.Json.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.ValueTuple.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Buffers.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Formats.Asn1.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Memory.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Text.Json.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\bin\Debug\System.ValueTuple.xml
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.AnnouncementWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.AssignmentWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ChangeInfoHRWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GVU_INFOR_Window.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GIAOVU_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ModuleWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GVU_KHMO_Window.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.RegistrationWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.StudentWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.SV_DangKyHocPhan_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.SV_DanhSachHocPhan_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GIANGVIEN_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.SINHVIEN_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DK_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DSDV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DSHP_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_DSSV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_INFORMATION.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_KHMO_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_PHANCONG_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GV_UPDATE_DIEM_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.SV_KeHoachMoMon_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.LoginWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.MainWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NHANVIENCOBAN_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NVCB_INFORMATION.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_DSDV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_DSHP_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_DSSV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.NV_KHMO_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.SV_ThongBao_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.SV_ThongTinCaNhan_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_DK_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_DSDV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_DSHP_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_DSSV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_KHMO_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_NS_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_PHANCONG_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_THONGBAO_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TDV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DK_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DSDV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DSHP_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_DSSV_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_INFORMATION.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_KHMO_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_NS_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_PHANCONG_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_SV_DK_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_UPDATE_DIEM_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_XEMPHANCONG_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TK_XEMTB_Windows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.TruongKhoaWindows.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.GVU_UnitWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewListAccountWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewPrivilegeWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle_Database_Management_Application.ViewRoleWindow.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle D.09E362F5.Up2Date
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.exe
+C:\Users\MSI\OneDrive\Desktop\Learning\ATBM HTTT\SOURCE\Oracle Database Management Application\obj\Debug\Oracle Database Management Application.pdb

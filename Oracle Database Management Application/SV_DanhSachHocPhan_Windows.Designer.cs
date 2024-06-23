@@ -38,20 +38,21 @@ namespace Oracle_Database_Management_Application
             // dataGridView
             // 
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView.Location = new System.Drawing.Point(60, 74);
-            this.dataGridView.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView.Location = new System.Drawing.Point(80, 91);
+            this.dataGridView.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.RowHeadersWidth = 62;
             this.dataGridView.RowTemplate.Height = 28;
-            this.dataGridView.Size = new System.Drawing.Size(531, 242);
+            this.dataGridView.Size = new System.Drawing.Size(708, 298);
             this.dataGridView.TabIndex = 15;
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(570, 331);
-            this.btnBack.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnBack.Location = new System.Drawing.Point(760, 407);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(72, 26);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 17;
             this.btnBack.Text = "Return";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -61,23 +62,23 @@ namespace Oracle_Database_Management_Application
             // 
             this.lblDanhSachHocPhan.AutoSize = true;
             this.lblDanhSachHocPhan.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDanhSachHocPhan.Location = new System.Drawing.Point(166, 22);
-            this.lblDanhSachHocPhan.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblDanhSachHocPhan.Location = new System.Drawing.Point(221, 27);
             this.lblDanhSachHocPhan.Name = "lblDanhSachHocPhan";
-            this.lblDanhSachHocPhan.Size = new System.Drawing.Size(326, 37);
+            this.lblDanhSachHocPhan.Size = new System.Drawing.Size(406, 46);
             this.lblDanhSachHocPhan.TabIndex = 18;
             this.lblDanhSachHocPhan.Text = "Danh Sách Học Phần";
             this.lblDanhSachHocPhan.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // SV_DanhSachHocPhan_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(651, 366);
+            this.CancelButton = this.btnBack;
+            this.ClientSize = new System.Drawing.Size(868, 450);
             this.Controls.Add(this.lblDanhSachHocPhan);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.dataGridView);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "SV_DanhSachHocPhan_Windows";
             this.Text = "Danh Sách Học Phần";
             this.Load += new System.EventHandler(this.DachSachHocPhan_Load);

@@ -36,6 +36,7 @@
             // 
             // backButton
             // 
+            this.backButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.backButton.Location = new System.Drawing.Point(620, 318);
             this.backButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.backButton.Name = "backButton";
@@ -70,6 +71,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.backButton;
             this.ClientSize = new System.Drawing.Size(711, 360);
             this.Controls.Add(this.TDV_KHM_dataGridView);
             this.Controls.Add(this.label1);

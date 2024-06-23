@@ -59,6 +59,7 @@ namespace Oracle_Database_Management_Application
             // 
             // btnBack
             // 
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnBack.Location = new System.Drawing.Point(768, 408);
             this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
@@ -68,15 +69,16 @@ namespace Oracle_Database_Management_Application
             this.btnBack.UseVisualStyleBackColor = true;
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
-            // ThongBao
+            // SV_ThongBao_Windows
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnBack;
             this.ClientSize = new System.Drawing.Size(875, 450);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.lblDanhSachThongBao);
             this.Controls.Add(this.dataGridView);
-            this.Name = "ThongBao";
+            this.Name = "SV_ThongBao_Windows";
             this.Text = "ThongBao";
             this.Load += new System.EventHandler(this.DachSachThongBao_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();

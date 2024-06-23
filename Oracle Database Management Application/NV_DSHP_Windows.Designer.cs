@@ -36,11 +36,12 @@
             // 
             // quaylaiButton
             // 
+            this.quaylaiButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.quaylaiButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.quaylaiButton.Location = new System.Drawing.Point(714, 406);
-            this.quaylaiButton.Margin = new System.Windows.Forms.Padding(2);
+            this.quaylaiButton.Location = new System.Drawing.Point(952, 500);
+            this.quaylaiButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.quaylaiButton.Name = "quaylaiButton";
-            this.quaylaiButton.Size = new System.Drawing.Size(75, 33);
+            this.quaylaiButton.Size = new System.Drawing.Size(100, 41);
             this.quaylaiButton.TabIndex = 5;
             this.quaylaiButton.Text = "Back";
             this.quaylaiButton.UseVisualStyleBackColor = true;
@@ -50,32 +51,33 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.label1.Location = new System.Drawing.Point(253, 35);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(337, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(266, 26);
+            this.label1.Size = new System.Drawing.Size(326, 31);
             this.label1.TabIndex = 4;
             this.label1.Text = "DANH SÁCH HỌC PHẦN";
             // 
             // TK_DSHP_dataGridView
             // 
             this.TK_DSHP_dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.TK_DSHP_dataGridView.Location = new System.Drawing.Point(11, 77);
-            this.TK_DSHP_dataGridView.Margin = new System.Windows.Forms.Padding(2);
+            this.TK_DSHP_dataGridView.Location = new System.Drawing.Point(15, 95);
+            this.TK_DSHP_dataGridView.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.TK_DSHP_dataGridView.Name = "TK_DSHP_dataGridView";
             this.TK_DSHP_dataGridView.RowHeadersWidth = 62;
             this.TK_DSHP_dataGridView.RowTemplate.Height = 28;
-            this.TK_DSHP_dataGridView.Size = new System.Drawing.Size(778, 325);
+            this.TK_DSHP_dataGridView.Size = new System.Drawing.Size(1037, 400);
             this.TK_DSHP_dataGridView.TabIndex = 3;
             // 
             // NV_DSHP_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.CancelButton = this.quaylaiButton;
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.quaylaiButton);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.TK_DSHP_dataGridView);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "NV_DSHP_Windows";
             this.Text = "Danh sách học phần";
             this.Load += new System.EventHandler(this.NV_DSHP_Windows_Load);

@@ -69,17 +69,19 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.label1.Location = new System.Drawing.Point(277, 25);
+            this.label1.Location = new System.Drawing.Point(246, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(213, 37);
+            this.label1.Size = new System.Drawing.Size(179, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "PHÂN CÔNG";
             // 
             // backButton
             // 
-            this.backButton.Location = new System.Drawing.Point(700, 398);
+            this.backButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.backButton.Location = new System.Drawing.Point(622, 318);
+            this.backButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.backButton.Name = "backButton";
-            this.backButton.Size = new System.Drawing.Size(88, 40);
+            this.backButton.Size = new System.Drawing.Size(78, 32);
             this.backButton.TabIndex = 1;
             this.backButton.Text = "Back";
             this.backButton.UseVisualStyleBackColor = true;
@@ -87,9 +89,10 @@
             // 
             // addButton
             // 
-            this.addButton.Location = new System.Drawing.Point(375, 398);
+            this.addButton.Location = new System.Drawing.Point(333, 318);
+            this.addButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.addButton.Name = "addButton";
-            this.addButton.Size = new System.Drawing.Size(145, 40);
+            this.addButton.Size = new System.Drawing.Size(129, 32);
             this.addButton.TabIndex = 3;
             this.addButton.Text = "Thêm";
             this.addButton.UseVisualStyleBackColor = true;
@@ -97,9 +100,10 @@
             // 
             // deleteButton
             // 
-            this.deleteButton.Location = new System.Drawing.Point(541, 398);
+            this.deleteButton.Location = new System.Drawing.Point(481, 318);
+            this.deleteButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.deleteButton.Name = "deleteButton";
-            this.deleteButton.Size = new System.Drawing.Size(139, 40);
+            this.deleteButton.Size = new System.Drawing.Size(124, 32);
             this.deleteButton.TabIndex = 4;
             this.deleteButton.Text = "Xóa";
             this.deleteButton.UseVisualStyleBackColor = true;
@@ -108,81 +112,86 @@
             // MAHPlabel
             // 
             this.MAHPlabel.AutoSize = true;
-            this.MAHPlabel.Location = new System.Drawing.Point(182, 74);
+            this.MAHPlabel.Location = new System.Drawing.Point(162, 59);
             this.MAHPlabel.Name = "MAHPlabel";
-            this.MAHPlabel.Size = new System.Drawing.Size(55, 20);
+            this.MAHPlabel.Size = new System.Drawing.Size(46, 16);
             this.MAHPlabel.TabIndex = 6;
             this.MAHPlabel.Text = "MAHP";
             // 
             // HKlabel
             // 
             this.HKlabel.AutoSize = true;
-            this.HKlabel.Location = new System.Drawing.Point(377, 74);
+            this.HKlabel.Location = new System.Drawing.Point(335, 59);
             this.HKlabel.Name = "HKlabel";
-            this.HKlabel.Size = new System.Drawing.Size(31, 20);
+            this.HKlabel.Size = new System.Drawing.Size(25, 16);
             this.HKlabel.TabIndex = 7;
             this.HKlabel.Text = "HK";
             // 
             // MANVlabel
             // 
             this.MANVlabel.AutoSize = true;
-            this.MANVlabel.Location = new System.Drawing.Point(12, 74);
+            this.MANVlabel.Location = new System.Drawing.Point(11, 59);
             this.MANVlabel.Name = "MANVlabel";
-            this.MANVlabel.Size = new System.Drawing.Size(57, 20);
+            this.MANVlabel.Size = new System.Drawing.Size(46, 16);
             this.MANVlabel.TabIndex = 8;
             this.MANVlabel.Text = "MAGV";
             // 
             // NAMlabel
             // 
             this.NAMlabel.AutoSize = true;
-            this.NAMlabel.Location = new System.Drawing.Point(476, 74);
+            this.NAMlabel.Location = new System.Drawing.Point(423, 59);
             this.NAMlabel.Name = "NAMlabel";
-            this.NAMlabel.Size = new System.Drawing.Size(44, 20);
+            this.NAMlabel.Size = new System.Drawing.Size(37, 16);
             this.NAMlabel.TabIndex = 9;
             this.NAMlabel.Text = "NAM";
             // 
             // MACTlabel
             // 
             this.MACTlabel.AutoSize = true;
-            this.MACTlabel.Location = new System.Drawing.Point(627, 74);
+            this.MACTlabel.Location = new System.Drawing.Point(557, 59);
             this.MACTlabel.Name = "MACTlabel";
-            this.MACTlabel.Size = new System.Drawing.Size(53, 20);
+            this.MACTlabel.Size = new System.Drawing.Size(45, 16);
             this.MACTlabel.TabIndex = 10;
             this.MACTlabel.Text = "MACT";
             // 
             // MAGVtextBox
             // 
-            this.MAGVtextBox.Location = new System.Drawing.Point(75, 71);
+            this.MAGVtextBox.Location = new System.Drawing.Point(67, 57);
+            this.MAGVtextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MAGVtextBox.Name = "MAGVtextBox";
-            this.MAGVtextBox.Size = new System.Drawing.Size(86, 26);
+            this.MAGVtextBox.Size = new System.Drawing.Size(77, 22);
             this.MAGVtextBox.TabIndex = 11;
             // 
             // MAHPtextBox
             // 
-            this.MAHPtextBox.Location = new System.Drawing.Point(243, 71);
+            this.MAHPtextBox.Location = new System.Drawing.Point(216, 57);
+            this.MAHPtextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MAHPtextBox.Name = "MAHPtextBox";
-            this.MAHPtextBox.Size = new System.Drawing.Size(100, 26);
+            this.MAHPtextBox.Size = new System.Drawing.Size(89, 22);
             this.MAHPtextBox.TabIndex = 12;
             // 
             // MACTtextBox
             // 
-            this.MACTtextBox.Location = new System.Drawing.Point(700, 71);
+            this.MACTtextBox.Location = new System.Drawing.Point(622, 57);
+            this.MACTtextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MACTtextBox.Name = "MACTtextBox";
-            this.MACTtextBox.Size = new System.Drawing.Size(88, 26);
+            this.MACTtextBox.Size = new System.Drawing.Size(79, 22);
             this.MACTtextBox.TabIndex = 13;
             // 
             // NAMtextBox
             // 
-            this.NAMtextBox.Location = new System.Drawing.Point(526, 71);
+            this.NAMtextBox.Location = new System.Drawing.Point(468, 57);
+            this.NAMtextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.NAMtextBox.Name = "NAMtextBox";
-            this.NAMtextBox.Size = new System.Drawing.Size(74, 26);
+            this.NAMtextBox.Size = new System.Drawing.Size(66, 22);
             this.NAMtextBox.TabIndex = 14;
             // 
             // HKtextBox
             // 
-            this.HKtextBox.Location = new System.Drawing.Point(414, 71);
+            this.HKtextBox.Location = new System.Drawing.Point(368, 57);
+            this.HKtextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.HKtextBox.Name = "HKtextBox";
-            this.HKtextBox.Size = new System.Drawing.Size(47, 26);
+            this.HKtextBox.Size = new System.Drawing.Size(42, 22);
             this.HKtextBox.TabIndex = 15;
             // 
             // phanconglistView
@@ -198,10 +207,11 @@
             this.phanconglistView.FullRowSelect = true;
             this.phanconglistView.GridLines = true;
             this.phanconglistView.HideSelection = false;
-            this.phanconglistView.Location = new System.Drawing.Point(12, 118);
+            this.phanconglistView.Location = new System.Drawing.Point(11, 94);
+            this.phanconglistView.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.phanconglistView.MultiSelect = false;
             this.phanconglistView.Name = "phanconglistView";
-            this.phanconglistView.Size = new System.Drawing.Size(776, 274);
+            this.phanconglistView.Size = new System.Drawing.Size(690, 220);
             this.phanconglistView.TabIndex = 16;
             this.phanconglistView.UseCompatibleStateImageBehavior = false;
             this.phanconglistView.View = System.Windows.Forms.View.Details;
@@ -239,13 +249,13 @@
             // menuStrip1
             // 
             this.menuStrip1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cậpNhậtToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 391);
+            this.menuStrip1.Location = new System.Drawing.Point(0, 303);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 59);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(711, 57);
             this.menuStrip1.TabIndex = 17;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -261,49 +271,50 @@
             this.cậpNhậtToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.White;
             this.cậpNhậtToolStripMenuItem.Name = "cậpNhậtToolStripMenuItem";
             this.cậpNhậtToolStripMenuItem.Padding = new System.Windows.Forms.Padding(60, 30, 6, 0);
-            this.cậpNhậtToolStripMenuItem.Size = new System.Drawing.Size(142, 55);
+            this.cậpNhậtToolStripMenuItem.Size = new System.Drawing.Size(135, 53);
             this.cậpNhậtToolStripMenuItem.Text = "Cập nhật";
             // 
             // mACTToolStripMenuItem
             // 
             this.mACTToolStripMenuItem.Name = "mACTToolStripMenuItem";
-            this.mACTToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.mACTToolStripMenuItem.Size = new System.Drawing.Size(133, 26);
             this.mACTToolStripMenuItem.Text = "MACT";
             this.mACTToolStripMenuItem.Click += new System.EventHandler(this.mACTToolStripMenuItem_Click);
             // 
             // nAMToolStripMenuItem
             // 
             this.nAMToolStripMenuItem.Name = "nAMToolStripMenuItem";
-            this.nAMToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.nAMToolStripMenuItem.Size = new System.Drawing.Size(133, 26);
             this.nAMToolStripMenuItem.Text = "NAM";
             this.nAMToolStripMenuItem.Click += new System.EventHandler(this.nAMToolStripMenuItem_Click);
             // 
             // hKToolStripMenuItem
             // 
             this.hKToolStripMenuItem.Name = "hKToolStripMenuItem";
-            this.hKToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.hKToolStripMenuItem.Size = new System.Drawing.Size(133, 26);
             this.hKToolStripMenuItem.Text = "HK";
             this.hKToolStripMenuItem.Click += new System.EventHandler(this.hKToolStripMenuItem_Click);
             // 
             // mAHPToolStripMenuItem
             // 
             this.mAHPToolStripMenuItem.Name = "mAHPToolStripMenuItem";
-            this.mAHPToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.mAHPToolStripMenuItem.Size = new System.Drawing.Size(133, 26);
             this.mAHPToolStripMenuItem.Text = "MAHP";
             this.mAHPToolStripMenuItem.Click += new System.EventHandler(this.mAHPToolStripMenuItem_Click);
             // 
             // mAGVToolStripMenuItem
             // 
             this.mAGVToolStripMenuItem.Name = "mAGVToolStripMenuItem";
-            this.mAGVToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.mAGVToolStripMenuItem.Size = new System.Drawing.Size(133, 26);
             this.mAGVToolStripMenuItem.Text = "MAGV";
             this.mAGVToolStripMenuItem.Click += new System.EventHandler(this.mAGVToolStripMenuItem_Click);
             // 
             // saveButton
             // 
-            this.saveButton.Location = new System.Drawing.Point(175, 398);
+            this.saveButton.Location = new System.Drawing.Point(156, 318);
+            this.saveButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.saveButton.Name = "saveButton";
-            this.saveButton.Size = new System.Drawing.Size(62, 40);
+            this.saveButton.Size = new System.Drawing.Size(55, 32);
             this.saveButton.TabIndex = 18;
             this.saveButton.Text = "Lưu";
             this.saveButton.UseVisualStyleBackColor = true;
@@ -311,9 +322,10 @@
             // 
             // huyButton
             // 
-            this.huyButton.Location = new System.Drawing.Point(257, 398);
+            this.huyButton.Location = new System.Drawing.Point(228, 318);
+            this.huyButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.huyButton.Name = "huyButton";
-            this.huyButton.Size = new System.Drawing.Size(56, 40);
+            this.huyButton.Size = new System.Drawing.Size(50, 32);
             this.huyButton.TabIndex = 19;
             this.huyButton.Text = "Hủy";
             this.huyButton.UseVisualStyleBackColor = true;
@@ -321,44 +333,50 @@
             // 
             // newmagvtextBox
             // 
-            this.newmagvtextBox.Location = new System.Drawing.Point(75, 71);
+            this.newmagvtextBox.Location = new System.Drawing.Point(67, 57);
+            this.newmagvtextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.newmagvtextBox.Name = "newmagvtextBox";
-            this.newmagvtextBox.Size = new System.Drawing.Size(86, 26);
+            this.newmagvtextBox.Size = new System.Drawing.Size(77, 22);
             this.newmagvtextBox.TabIndex = 20;
             // 
             // newmahptextBox
             // 
-            this.newmahptextBox.Location = new System.Drawing.Point(243, 71);
+            this.newmahptextBox.Location = new System.Drawing.Point(216, 57);
+            this.newmahptextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.newmahptextBox.Name = "newmahptextBox";
-            this.newmahptextBox.Size = new System.Drawing.Size(100, 26);
+            this.newmahptextBox.Size = new System.Drawing.Size(89, 22);
             this.newmahptextBox.TabIndex = 21;
             // 
             // newhktextBox
             // 
-            this.newhktextBox.Location = new System.Drawing.Point(414, 71);
+            this.newhktextBox.Location = new System.Drawing.Point(368, 57);
+            this.newhktextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.newhktextBox.Name = "newhktextBox";
-            this.newhktextBox.Size = new System.Drawing.Size(47, 26);
+            this.newhktextBox.Size = new System.Drawing.Size(42, 22);
             this.newhktextBox.TabIndex = 22;
             // 
             // newnamtextBox
             // 
-            this.newnamtextBox.Location = new System.Drawing.Point(526, 71);
+            this.newnamtextBox.Location = new System.Drawing.Point(468, 57);
+            this.newnamtextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.newnamtextBox.Name = "newnamtextBox";
-            this.newnamtextBox.Size = new System.Drawing.Size(74, 26);
+            this.newnamtextBox.Size = new System.Drawing.Size(66, 22);
             this.newnamtextBox.TabIndex = 23;
             // 
             // newmacttextBox
             // 
-            this.newmacttextBox.Location = new System.Drawing.Point(700, 71);
+            this.newmacttextBox.Location = new System.Drawing.Point(622, 57);
+            this.newmacttextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.newmacttextBox.Name = "newmacttextBox";
-            this.newmacttextBox.Size = new System.Drawing.Size(88, 26);
+            this.newmacttextBox.Size = new System.Drawing.Size(79, 22);
             this.newmacttextBox.TabIndex = 24;
             // 
             // TK_PHANCONG_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.CancelButton = this.backButton;
+            this.ClientSize = new System.Drawing.Size(711, 360);
             this.Controls.Add(this.newmacttextBox);
             this.Controls.Add(this.newnamtextBox);
             this.Controls.Add(this.newhktextBox);
@@ -382,6 +400,7 @@
             this.Controls.Add(this.backButton);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "TK_PHANCONG_Windows";
             this.Text = "Phân công";
             this.Load += new System.EventHandler(this.TK_PHANCONG_Windows_Load);

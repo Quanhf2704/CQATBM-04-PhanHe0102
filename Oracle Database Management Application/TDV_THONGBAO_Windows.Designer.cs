@@ -36,6 +36,7 @@
             // 
             // btn_back
             // 
+            this.btn_back.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btn_back.Location = new System.Drawing.Point(617, 316);
             this.btn_back.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_back.Name = "btn_back";
@@ -71,6 +72,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btn_back;
             this.ClientSize = new System.Drawing.Size(711, 357);
             this.Controls.Add(this.btn_back);
             this.Controls.Add(this.lbl_thongbao);

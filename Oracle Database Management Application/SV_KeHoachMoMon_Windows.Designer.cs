@@ -40,10 +40,9 @@ namespace Oracle_Database_Management_Application
             // 
             this.lblKHMO.AutoSize = true;
             this.lblKHMO.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblKHMO.Location = new System.Drawing.Point(202, 15);
-            this.lblKHMO.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblKHMO.Location = new System.Drawing.Point(269, 18);
             this.lblKHMO.Name = "lblKHMO";
-            this.lblKHMO.Size = new System.Drawing.Size(281, 37);
+            this.lblKHMO.Size = new System.Drawing.Size(352, 46);
             this.lblKHMO.TabIndex = 4;
             this.lblKHMO.Text = "Kế Hoạch Mở Môn";
             this.lblKHMO.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -51,17 +50,17 @@ namespace Oracle_Database_Management_Application
             // lblUser
             // 
             this.lblUser.Location = new System.Drawing.Point(0, 0);
-            this.lblUser.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblUser.Name = "lblUser";
-            this.lblUser.Size = new System.Drawing.Size(75, 19);
+            this.lblUser.Size = new System.Drawing.Size(100, 23);
             this.lblUser.TabIndex = 33;
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(571, 318);
-            this.btnBack.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnBack.Location = new System.Drawing.Point(761, 391);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(72, 26);
+            this.btnBack.Size = new System.Drawing.Size(96, 32);
             this.btnBack.TabIndex = 31;
             this.btnBack.Text = "Return";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -70,24 +69,25 @@ namespace Oracle_Database_Management_Application
             // dataGridView
             // 
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView.Location = new System.Drawing.Point(61, 64);
-            this.dataGridView.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView.Location = new System.Drawing.Point(81, 79);
+            this.dataGridView.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.RowHeadersWidth = 62;
             this.dataGridView.RowTemplate.Height = 28;
-            this.dataGridView.Size = new System.Drawing.Size(531, 242);
+            this.dataGridView.Size = new System.Drawing.Size(708, 298);
             this.dataGridView.TabIndex = 32;
             // 
             // SV_KeHoachMoMon_Windows
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(652, 353);
+            this.CancelButton = this.btnBack;
+            this.ClientSize = new System.Drawing.Size(869, 434);
             this.Controls.Add(this.dataGridView);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.lblUser);
             this.Controls.Add(this.lblKHMO);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "SV_KeHoachMoMon_Windows";
             this.Text = "Kế Hoạch Mở Môn";
             this.Load += new System.EventHandler(this.KeHoachMoMon_Load);
