@@ -16,12 +16,13 @@ GRANT CONNECT TO USERDBA;
 GRANT DBA TO USERDBA;
 GRANT SELECT ANY DICTIONARY TO userdba;
 GRANT ALL PRIVILEGES TO userdba;
-
+grant create user to userdba with admin option;
+grant create role to userdba with admin option;
 --------------------------------------------------------------------------------
 --YÊU CẦU 1
 -- CS1
 EXEC USERDBA.drop_user('NV098');
-EXEC USERDBA.create_user ('NV098', '"123"');
+EXEC USERDBA.create_user ('ok8', '123');
 DROP ROLE NHANVIENCOBAN;
 -- Tạo role nhân viên cơ bản
 CREATE OR REPLACE PROCEDURE SP_CREATE_AND_GRANT_PERMISSION_TO_NHANVIENCOBAN
@@ -711,4 +712,5 @@ AUDIT ALL WHENEVER SUCCESSFUL;
 AUDIT ALL WHENEVER NOT SUCCESSFUL;
 
 -- Kiểm tra audit
-SELECT action_name,SQL_TEXT,UNIFIED_AUDIT_POLICIES ,EVENT_TIMESTAMP FROM unified_AUDIT_trail;
+select username, EXTENDED_TIMESTAMP ,obj_name, action_name, sql_text 
+from dba_audit_trail
